@@ -1,0 +1,1136 @@
+[
+    {
+        "_id": {
+            "$oid": "651915870b3250a5f2231058"
+        },
+        "field": "Biology",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 1,
+        "citedPaper": 1261089,
+        "citingPaper": 832808,
+        "context": [
+            {
+                "tokenLen": 17,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "Meiocytes  or anthers <REF> from both wildtype and mutant plants were fixed and processed as described previously .",
+                "citedText": "(Yu et al., 1997)",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "651915ba0b3250a5f2231068"
+        },
+        "field": "Biology",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 5,
+        "citedPaper": 22061505,
+        "citingPaper": 256818301,
+        "context": [
+            {
+                "tokenLen": 20,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "<REF> HIF-1\u03b1 and HIF-2\u03b1 have independent and opposite effects on tumor growth and spread in human and cultured murine macrophages.",
+                "citedText": "(145)",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "651915bc0b3250a5f223106c"
+        },
+        "field": "Biology",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 8,
+        "citedPaper": 3234822,
+        "citingPaper": 258618226,
+        "context": [
+            {
+                "tokenLen": 22,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "<REF> RANKL activates the signaling cascades culminating in osteoclast differentiation through its binding to the specific receptor RANK expressed on osteoclast progenitors.",
+                "citedText": "[44]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "651915da0b3250a5f2231072"
+        },
+        "field": "Biology",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 8,
+        "citedPaper": 8287980,
+        "citingPaper": 259757666,
+        "context": [
+            {
+                "tokenLen": 30,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "According to <REF>, DPP extract appeared to have a dose-dependent effect on sperm parameters (mainly VCL) of old rabbit, although no null or negative effect was recorded at doses >DPP40.",
+                "citedText": "Agarwal (2005)",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "651915de0b3250a5f2231076"
+        },
+        "field": "Biology",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 9,
+        "citedPaper": 9595249,
+        "citingPaper": 254406143,
+        "context": [
+            {
+                "tokenLen": 17,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "It has been widely reported that miRNAs can regulate the development and function of the brain <REF>.",
+                "citedText": "(Sempere et al., 2004)",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6519167b0b3250a5f2231089"
+        },
+        "field": "Biology",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 8,
+        "citedPaper": 210891276,
+        "citingPaper": 259422057,
+        "context": [
+            {
+                "tokenLen": 29,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "According to Geng Li <REF>, Coronaviruses are enveloped, nonsegmented, positive-sense single-stranded RNA virus genomes in the size ranging from 26 to 32 kilobases, the largest known viral RNA genome.",
+                "citedText": "[4]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6519167f0b3250a5f2231093"
+        },
+        "field": "Chemistry",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 0,
+        "citedPaper": 97129890,
+        "citingPaper": 89840238,
+        "context": [
+            {
+                "tokenLen": 24,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "<REF> showed that applying ethephon to 'Starking Delicious' fruit 2 weeks before commercial harvest increased the concentration of 308 anthocyanin in the fruit skin.",
+                "citedText": "Larrigaudiere et al. (1996)",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6519175d0b3250a5f22310c2"
+        },
+        "field": "Chemistry",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 0,
+        "citedPaper": 25677699,
+        "citingPaper": 8192309,
+        "context": [
+            {
+                "tokenLen": 24,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "Additionally, guanylate cyclase activity has been shown to be negatively regulated by several oxygen reactive species <REF>, which is in agreement with our results.",
+                "citedText": "[40]",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_others"
+                ],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "651917740b3250a5f22310ca"
+        },
+        "field": "Chemistry",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 1,
+        "citedPaper": 9270716,
+        "citingPaper": 1795900,
+        "context": [
+            {
+                "tokenLen": 24,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "Immunoprecipitation: HEK293T cells <REF> were transfected with the appropriate plasmids using a standard calcium phosphate protocol and lysed in NP40 buffer 24 h post-transfection.",
+                "citedText": "[39]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "651917a00b3250a5f22310d4"
+        },
+        "field": "Chemistry",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 6,
+        "citedPaper": 820156,
+        "citingPaper": 244104188,
+        "context": [
+            {
+                "tokenLen": 25,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "Srivastava et al. found that a high dosage of E2 can inhibit the differentiation of murine bone marrow monocytes and RAW 264.7 cells into mature osteoclasts.",
+                "citedText": "(48)",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "651918140b3250a5f22310f2"
+        },
+        "field": "Chemistry",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 0,
+        "citedPaper": 14988910,
+        "citingPaper": 244928180,
+        "context": [
+            {
+                "tokenLen": 29,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "As far as \"turn-off\" sensors are concerned, Ncube et al. <REF> synthesized an azodye modified water-soluble CD polymer for the determination of chlorinated phenols in drinking water.",
+                "citedText": "[121]",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_verb"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "651918280b3250a5f223110c"
+        },
+        "field": "Computer Science",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 7,
+        "citedPaper": 9254816,
+        "citingPaper": 246324575,
+        "context": [
+            {
+                "tokenLen": 28,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "The trees in Newick format were refined in the online TreeDyn tool <REF> available at http://www.phylogeny.fr/one_task.cgi?task_type=treedyn (accessed on 10 November 2021) and downloaded in pdf format.",
+                "citedText": "[46]",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_adjective"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6519183c0b3250a5f2231119"
+        },
+        "field": "Computer Science",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 0,
+        "citedPaper": 168170088,
+        "citingPaper": 218862751,
+        "context": [
+            {
+                "tokenLen": 32,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "Similar in spirit to recent work focusing on spiked matrix models with generative priors <REF>, this result is stated under general conditions that depend only on the variance of the free energy.",
+                "citedText": "[28]",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_others"
+                ],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "651918400b3250a5f2231121"
+        },
+        "field": "Computer Science",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 7,
+        "citedPaper": 6592393,
+        "citingPaper": 257687731,
+        "context": [
+            {
+                "tokenLen": 36,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "We use a visual encoder network E v to extract visual feature maps from each input frame I i . In our implementation, a pre-trained Dilated ResNet <REF> model is adopted by removing the final fully-connected layer.",
+                "citedText": "[86]",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_noun"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6519185a0b3250a5f223112a"
+        },
+        "field": "Medicine",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 1,
+        "citedPaper": 18174809,
+        "citingPaper": 216463574,
+        "context": [
+            {
+                "tokenLen": 25,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "<REF> Zinc has antioxidant effects that prevent the oxidation of sulfhydryl and hydroxyl groups, reducing the formation of H 2 O2 and O 2 radicals.",
+                "citedText": "(14)",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "651918cd0b3250a5f2231139"
+        },
+        "field": "Medicine",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 4,
+        "citedPaper": 15939037,
+        "citingPaper": 9767901,
+        "context": [
+            {
+                "tokenLen": 21,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "<REF> EC1 = extracellular loop 1; EC2 = extracellular loop 2; N = asparagine; X = any amino acid except proline; S = serine; T = threonine.",
+                "citedText": "[13]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "651919610b3250a5f223114a"
+        },
+        "field": "Medicine",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 0,
+        "citedPaper": 35934152,
+        "citingPaper": 15127878,
+        "context": [
+            {
+                "tokenLen": 32,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "They differentiate in accordance with the so called model of superfluous genes suppression <REF>, while the capability of acquisition of a more mature phenotype is inhibited to a vast extent in glioblastomas.",
+                "citedText": "[15]",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_preposition"
+                ],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "651919620b3250a5f223114f"
+        },
+        "field": "Medicine",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 2,
+        "citedPaper": 25051821,
+        "citingPaper": 222212022,
+        "context": [
+            {
+                "tokenLen": 27,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "<REF> found that CGA inhibited the proliferation of A549 human cancer cells in vitro and that CGA suppressed 12-O-tetradecanoylphorbol-13-acetate (TPA)-induced neoplastic transformation of JB6 P+ cells.",
+                "citedText": "Feng et al. [121]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "651919840b3250a5f2231156"
+        },
+        "field": "Medicine",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 3,
+        "citedPaper": 2098552,
+        "citingPaper": 13923767,
+        "context": [
+            {
+                "tokenLen": 34,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "Funspec analysis <REF> of the upregulated genes showed that paths related to transport dependent-detoxification systems and DNA metabolism such as DNA restriction, integration and recombination were upregulated in the presence of doxorubicin (Table 2).",
+                "citedText": "[50]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "651919ca0b3250a5f223115f"
+        },
+        "field": "Medicine",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 3,
+        "citedPaper": 5856281,
+        "citingPaper": 251303341,
+        "context": [
+            {
+                "tokenLen": 23,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "Lee et al. <REF> developed local contextual interactions by jointly exploiting the local spectral-spatial relationships of adjacent single-pixel vectors, and achieved significant results.",
+                "citedText": "[21]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "651919dc0b3250a5f223116c"
+        },
+        "field": "Medicine",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 9,
+        "citedPaper": 211091362,
+        "citingPaper": 237817515,
+        "context": [
+            {
+                "tokenLen": 32,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "CoVID-19 had emerged as a severe health problem affecting people of all age groups throughout the globe <REF> due to which the World Health Organization (WHO) had attributed it as a pandemic.",
+                "citedText": "[1]",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_noun"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "651919e20b3250a5f2231176"
+        },
+        "field": "Materials Science",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 0,
+        "citedPaper": 55830700,
+        "citingPaper": 17791643,
+        "context": [
+            {
+                "tokenLen": 37,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "In order to determine \u03bd without assuming \u00b5 = \u03bd, we have analyzed the temperature dependence of the conductivity on the insulating side of the MIT in the context of variable-range-hopping (VRH) conduction within the Coulomb gap <REF>.",
+                "citedText": "[12]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "651919f80b3250a5f2231199"
+        },
+        "field": "Materials Science",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 1,
+        "citedPaper": 2083868,
+        "citingPaper": 52804945,
+        "context": [
+            {
+                "tokenLen": 17,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "The secondary oxygyre also models the major makeup of Earth's outer core <REF>, mantle, and crust.",
+                "citedText": "[170]",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_noun"
+                ],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "651919f80b3250a5f223119d"
+        },
+        "field": "Materials Science",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 1,
+        "citedPaper": 30863402,
+        "citingPaper": 98575527,
+        "context": [
+            {
+                "tokenLen": 18,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "On the other hand, <REF> calculated that some gases can enter the IC-sites upon a coherent bundle dilation.",
+                "citedText": "Calbi et al. (2001)",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65191a8c0b3250a5f22311e0"
+        },
+        "field": "Materials Science",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 0,
+        "citedPaper": 35588682,
+        "citingPaper": 54726913,
+        "context": [
+            {
+                "tokenLen": 19,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "DPA has recently been successfully applied to core-hole interaction in the X-ray absorption spectroscopy of 3d transition metals <REF>.",
+                "citedText": "[15]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65191aaf0b3250a5f223120a"
+        },
+        "field": "Materials Science",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 2,
+        "citedPaper": 120555087,
+        "citingPaper": 89605356,
+        "context": [
+            {
+                "tokenLen": 21,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "In <REF>, an experimental study of friction factor and heat transfer coefficient for a vertical liquid up-flow of R-134a was presented.",
+                "citedText": "[31]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65191ab50b3250a5f223120f"
+        },
+        "field": "Materials Science",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 4,
+        "citedPaper": 36444609,
+        "citingPaper": 118439623,
+        "context": [
+            {
+                "tokenLen": 27,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "In the ultraclean method <REF>, processing on the CNT is avoided by first making the contacts and the trench and in the final step growing the CNTs.",
+                "citedText": "[5]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65191ab80b3250a5f2231215"
+        },
+        "field": "Materials Science",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 0,
+        "citedPaper": 8272628,
+        "citingPaper": 24108014,
+        "context": [
+            {
+                "tokenLen": 27,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "Low soliton number (<15) in LEAF and short pulse duration ensure coherence in the supercontinuum and forthcoming stages, which has been detailed previous <REF> for this system.",
+                "citedText": "[13]",
+                "cited": true,
+                "posClass": [
+                    "before_adjective",
+                    "after_preposition"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65191af30b3250a5f2231225"
+        },
+        "field": "Materials Science",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 8,
+        "citedPaper": 26775488,
+        "citingPaper": 209359685,
+        "context": [
+            {
+                "tokenLen": 24,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "<REF> A novel type of metamaterial consisting of planar arrays of artificial nanostructures on ultrathin layersso-called metasurfacescapable of light manipulation have recently been discovered.",
+                "citedText": "[4]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65191b1d0b3250a5f2231231"
+        },
+        "field": "Materials Science",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 5,
+        "citedPaper": 28585437,
+        "citingPaper": 235229063,
+        "context": [
+            {
+                "tokenLen": 32,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "<REF> ( Figure 13) WS 2 is a kind of ring gap semiconductor (\u2206WS 2 1.35 eV), which consists of two-dimensional (2D) covalently enhanced s-w-slayer and van der Waals gap isolation ( Figure 13).",
+                "citedText": "[85]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65191b1f0b3250a5f2231235"
+        },
+        "field": "Materials Science",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 7,
+        "citedPaper": 94572991,
+        "citingPaper": 243900264,
+        "context": [
+            {
+                "tokenLen": 27,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "Lagerwall et al. <REF> recently reviewed the phase diagrams of aqueous cellulose nanocrystal (CNC) dispersions and discussed ordered assembly of CNCs in suspensions as well as films.",
+                "citedText": "[2]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65191b410b3250a5f2231245"
+        },
+        "field": "Materials Science",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 0,
+        "citedPaper": 196612862,
+        "citingPaper": 248899255,
+        "context": [
+            {
+                "tokenLen": 26,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "However, the anomalous conductivity in the edge, which is ascribed to the edge states, was observed on the terrace edge of n = 1 perovskites <REF>.",
+                "citedText": "(Wang et al., 2019b",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_others"
+                ],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65191b4b0b3250a5f2231251"
+        },
+        "field": "Materials Science",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 0,
+        "citedPaper": 139187372,
+        "citingPaper": 214068336,
+        "context": [
+            {
+                "tokenLen": 21,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "Vishwas et al. <REF> studied the surface integrity properties of AISI 410 martensitic stainless steel by turning operation under dry condition.",
+                "citedText": "[18]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65191b8c0b3250a5f2231261"
+        },
+        "field": "Materials Science",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 6,
+        "citedPaper": 137933676,
+        "citingPaper": 255077642,
+        "context": [
+            {
+                "tokenLen": 18,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "Initially, both groups demonstrated a lotus-like effect <REF>, with large contact angles measured at the inception of testing.",
+                "citedText": "[41]",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_preposition"
+                ],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65191bbf0b3250a5f2231270"
+        },
+        "field": "Materials Science",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 6,
+        "citedPaper": 104367307,
+        "citingPaper": 254482813,
+        "context": [
+            {
+                "tokenLen": 22,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "<REF> For example, the gap of 4 mm would increase the apparent cathode potential by 0.95 V at 183 mA cm -2 .",
+                "citedText": "[14]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    // {
+    //     "_id": {
+    //         "$oid": "65191c1d0b3250a5f2231294"
+    //     },
+    //     "field": "Physics",
+    //     "year": [
+    //         2001,
+    //         2005
+    //     ],
+    //     "group": 0,
+    //     "citedPaper": 115917268,
+    //     "citingPaper": 209376305,
+    //     "context": [
+    //         {
+    //             "tokenLen": 32,
+    //             "positionClass": "start",
+    //             "lengthClass": "medium",
+    //             "citedSent": "As stressed by Roy <REF>, duality suggests higher BB B B This concept of duality is illustrated in the hadronic-string picture, which, in turn, is supported by the strong-coupling limit of QCD.",
+    //             "citedText": "[50]",
+    //             "cited": true,
+    //             "posClass": [],
+    //             "worthClass": "comma",
+    //             "lowClass": true
+    //         }
+    //     ]
+    // },
+    {
+        "_id": {
+            "$oid": "65191c2c0b3250a5f223129a"
+        },
+        "field": "Physics",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 2,
+        "citedPaper": 22416236,
+        "citingPaper": 219177361,
+        "context": [
+            {
+                "tokenLen": 25,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "For instance, in <REF>, the authors reveal an experimental method for preparing non-Gaussian states from a single mode squeezed light using the homodyne detection technique.",
+                "citedText": "[3]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ]
+    },
+    // {
+    //     "_id": {
+    //         "$oid": "65191c370b3250a5f22312a2"
+    //     },
+    //     "field": "Physics",
+    //     "year": [
+    //         2001,
+    //         2005
+    //     ],
+    //     "group": 9,
+    //     "citedPaper": 53654666,
+    //     "citingPaper": 237941113,
+    //     "context": [
+    //         {
+    //             "tokenLen": 29,
+    //             "positionClass": "middle",
+    //             "lengthClass": "medium",
+    //             "citedSent": "We sample this likelihood for these two parameters using the CosmoMC <REF> In this section, we present both analytical and numerical results obtained from ILC analysis in different cases.",
+    //             "citedText": "[48]",
+    //             "cited": true,
+    //             "posClass": [
+    //                 "before_noun",
+    //                 "after_preposition"
+    //             ],
+    //             "worthClass": null,
+    //             "lowClass": true
+    //         }
+    //     ]
+    // },
+    {
+        "_id": {
+            "$oid": "65191ced0b3250a5f22312c6"
+        },
+        "field": "Physics",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 0,
+        "citedPaper": 54665344,
+        "citingPaper": 211066544,
+        "context": [
+            {
+                "tokenLen": 16,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "\u2022 Vainshtein's mechanism <REF> (nonlinear kinetic terms alter the field profile sourced by massive bodies.",
+                "citedText": "[197]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65191cfc0b3250a5f22312d1"
+        },
+        "field": "Physics",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 0,
+        "citedPaper": 3838180,
+        "citingPaper": 221246404,
+        "context": [
+            {
+                "tokenLen": 26,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "More information about the data retrieval and filtering of the data set can be found in <REF>, where (a higher-order variant of) this network was investigated.",
+                "citedText": "[41]",
+                "cited": true,
+                "posClass": [
+                    "before_preposition",
+                    "after_others"
+                ],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65191dc60b3250a5f22312f1"
+        },
+        "field": "Mathematics",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 9,
+        "citedPaper": 2948186,
+        "citingPaper": 221376502,
+        "context": [
+            {
+                "tokenLen": 22,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "Using a Rao-Blackwellisation technique <REF>, only the pose variables need to be sampled, while the occlusion variables can be marginalized out analytically.",
+                "citedText": "[41]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65191dde0b3250a5f2231300"
+        },
+        "field": "Mathematics",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 7,
+        "citedPaper": 7941730,
+        "citingPaper": 232417469,
+        "context": [
+            {
+                "tokenLen": 33,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "In 2005, Hastings and Koma <REF> showed that it takes a time t log r to send information a distance r, for all \u03b1 > d, where d is the dimension of the lattice.",
+                "citedText": "[7]",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_verb"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    }
+]

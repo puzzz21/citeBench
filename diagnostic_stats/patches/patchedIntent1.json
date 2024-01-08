@@ -1,0 +1,1139 @@
+[
+    {
+        "_id": {
+            "$oid": "651a68e738a4047068bb0a88"
+        },
+        "field": "Biology",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 1,
+        "citedPaper": 11189884,
+        "citingPaper": 16536613,
+        "context": [
+            {
+                "tokenLen": 31,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "In congruent to the study of <REF>, mutation of the cysteine to leucine enhanced the immunogenicity of the peptide albeit not affecting the binding to HLA-A2.1 (data not shown).",
+                "citedText": "Chen et al (1999)",
+                "cited": true,
+                "posClass": [
+                    "before_others",
+                    "after_noun"
+                ],
+                "worthClass": "comma",
+                "lowClass": true,
+                "intentClass": "result"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "651a696738a4047068bb0ad6"
+        },
+        "field": "Biology",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 2,
+        "citedPaper": 39220205,
+        "citingPaper": 36561786,
+        "context": [
+            {
+                "tokenLen": 18,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "To verify whether NIR is able to repress activator-driven transcription, we performed experiments with a combined LexA/Gal-reporter <REF>.",
+                "citedText": "(Lemercier et al. 2000)",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "methodology"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "651a6b60ecd1baa20721f04f"
+        },
+        "field": "Biology",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 3,
+        "citedPaper": 6736655,
+        "citingPaper": 12622688,
+        "context": [
+            {
+                "tokenLen": 35,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "It should be noted that an estimate of 124.4 \u00b1 26.1 pN per dyn/cm 2 wall shear stress for selectin tethers at the rear of neutrophils has been calculated previously using the Goldman equation <REF>.",
+                "citedText": "[13]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "methodology"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "651a6cbdecd1baa20721f0f2"
+        },
+        "field": "Biology",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 1,
+        "citedPaper": 29800819,
+        "citingPaper": 11189430,
+        "context": [
+            {
+                "tokenLen": 37,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "These values are similar to those found in previous studies <REF>.To assess the specificity of the binding sites for U5 vDNA duplex, competition experiments with an excess of non-fluorescent specific and non-specific DNA duplexes were performed.",
+                "citedText": "[49]",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_noun"
+                ],
+                "worthClass": null,
+                "lowClass": true,
+                "intentClass": "result"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "651a6ce6ecd1baa20721f10a"
+        },
+        "field": "Biology",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 2,
+        "citedPaper": 34614243,
+        "citingPaper": 254222300,
+        "context": [
+            {
+                "tokenLen": 19,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "Our results are in agreement with <REF>, demonstrating NEP ability to degrade synthetic A\u03b21-40 and A\u03b21-42 peptides in vitro.",
+                "citedText": "[64]",
+                "cited": true,
+                "posClass": [
+                    "before_preposition",
+                    "after_verb"
+                ],
+                "worthClass": "comma",
+                "lowClass": true,
+                "intentClass": "result"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "651a6de6ecd1baa20721f17b"
+        },
+        "field": "Biology",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 4,
+        "citedPaper": 17364037,
+        "citingPaper": 251556929,
+        "context": [
+            {
+                "tokenLen": 16,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "Analysis of cytosolic and cell surface proteomes derived from various cancers also yielded similar results <REF>.",
+                "citedText": "[42]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "result"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "651a6e13ecd1baa20721f195"
+        },
+        "field": "Biology",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 4,
+        "citedPaper": 85713256,
+        "citingPaper": 52006761,
+        "context": [
+            {
+                "tokenLen": 24,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "In contrast, inhibition of the NF-\u03baB pathway using the highly selective IKK inhibitor BMS-345541 <REF> markedly attenuated the LPSstimulated suppression of Trem2 ( Figure 5A).",
+                "citedText": "(Burke et al., 2003)",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_adverb"
+                ],
+                "worthClass": null,
+                "lowClass": true,
+                "intentClass": "methodology"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "651a6e14ecd1baa20721f19a"
+        },
+        "field": "Biology",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 5,
+        "citedPaper": 32205810,
+        "citingPaper": 13526672,
+        "context": [
+            {
+                "tokenLen": 27,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "To deal with the result, we got some clues from another study: the endogenous protein inhibitor of activated STAT3 (PIASy) could repress LEF activitymediated Wnt-responsive transcription <REF>.",
+                "citedText": "[44]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "result"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "651a6e18ecd1baa20721f1a0"
+        },
+        "field": "Biology",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 6,
+        "citedPaper": 35197637,
+        "citingPaper": 250644773,
+        "context": [
+            {
+                "tokenLen": 24,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "This result is consistent with a previous report that TAB1 is not required for NF-k B activation after treatment with TNF-a or IL-1 <REF>.",
+                "citedText": "(60)",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "result"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "651a6e9cecd1baa20721f1d8"
+        },
+        "field": "Biology",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 6,
+        "citedPaper": 32962841,
+        "citingPaper": 44139567,
+        "context": [
+            {
+                "tokenLen": 17,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "A transgenic GBM model of cdkn2a\u2212/\u2212 mice injected with PDGF-B-GFP lentivirus was established as previously described <REF>.",
+                "citedText": "[25]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "methodology"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "651a7044ecd1baa20721f2a2"
+        },
+        "field": "Biology",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 0,
+        "citedPaper": 23502039,
+        "citingPaper": 1321861,
+        "context": [
+            {
+                "tokenLen": 28,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "To determine the extent of DNA damage in cells, comet assays were performed according to the Trevigen CometAssay\u2122 kit protocol (Trevigen, Gaithersburg, MD, USA) with slight modifications <REF>.",
+                "citedText": "[20]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "methodology"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "651a70f2ecd1baa20721f2ff"
+        },
+        "field": "Biology",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 2,
+        "citedPaper": 4822553,
+        "citingPaper": 214713739,
+        "context": [
+            {
+                "tokenLen": 23,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "An SEIR model divides the population in a susceptible, exposed, infected and recovered compartment, and is commonly used to model influenza epidemics <REF>.",
+                "citedText": "[17]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "result"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "651a734eecd1baa20721f492"
+        },
+        "field": "Biology",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 0,
+        "citedPaper": 413075,
+        "citingPaper": 235240633,
+        "context": [
+            {
+                "tokenLen": 20,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "The test is also quantitative and uses an LED-based portable strip reader, which makes it applicable for field diagnostics <REF>.",
+                "citedText": "[66]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "methodology"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "651a73bfecd1baa20721f4cd"
+        },
+        "field": "Biology",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 1,
+        "citedPaper": 10120902,
+        "citingPaper": 201618079,
+        "context": [
+            {
+                "tokenLen": 24,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "This is consistent with previous report for other green algae species as a mechanism to improve photoprotection and decrease the risk of photodamage <REF>.",
+                "citedText": "(Bonente et al., 2012)",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "result"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "651a742aecd1baa20721f501"
+        },
+        "field": "Biology",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 1,
+        "citedPaper": 10120902,
+        "citingPaper": 232059703,
+        "context": [
+            {
+                "tokenLen": 27,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "Maximum P700 activity was measured after a pulse of saturating light in whole cells treated with DCMU (3-[3,4-dichlorophenyl]-1,1-dimethylurea), ascorbate and methylviologen, as described in <REF>.",
+                "citedText": "Bonente et al. (2012)",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "methodology"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "651a755decd1baa20721f5ae"
+        },
+        "field": "Biology",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 4,
+        "citedPaper": 13174935,
+        "citingPaper": 258569496,
+        "context": [
+            {
+                "tokenLen": 25,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "In our study, ESR1 was associated with the activation of immune response and pattern recognition receptor signaling pathway, further supported by previous human studies <REF>.",
+                "citedText": "(Kovats, 2015)",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "result"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "651a76c5ecd1baa20721f67a"
+        },
+        "field": "Biology",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 6,
+        "citedPaper": 4390344,
+        "citingPaper": 254660465,
+        "context": [
+            {
+                "tokenLen": 25,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "The spatial analysis confirmed a study from Kunisaki and colleagues, which showed that arterioles are interacting with NG2 pericytes differently from sinusoid-associated Lepr + cells <REF>.",
+                "citedText": "[73]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "result"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "651a7826ecd1baa20721f773"
+        },
+        "field": "Biology",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 0,
+        "citedPaper": 4588942,
+        "citingPaper": 21859210,
+        "context": [
+            {
+                "tokenLen": 25,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "Although this study has a larger sample size (210 mother-newborns pairs) than the other previously described, it does not take into account pregnancy outcomes <REF>.",
+                "citedText": "[57]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "result"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "651a7838ecd1baa20721f787"
+        },
+        "field": "Biology",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 0,
+        "citedPaper": 52811900,
+        "citingPaper": 213186526,
+        "context": [
+            {
+                "tokenLen": 28,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "Three human iPSC clones (#2, #4, and #8) were generated by reprogramming healthy subject fibroblasts using Sendai virus technology (CytoTune-iPS Sendai Reprogramming Kit, ThermoFisher, Waltham, MA, USA) <REF>.",
+                "citedText": "[13]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "methodology"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "651a7867ecd1baa20721f7b5"
+        },
+        "field": "Biology",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 1,
+        "citedPaper": 14066297,
+        "citingPaper": 256550176,
+        "context": [
+            {
+                "tokenLen": 31,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "Therefore, we visited the ChIP-Base v2.0 database <REF> to explore the potential genes that bind with the PBX1 protein directly, as reported by Chromatin Immunoprecipitation (ChIP) sequence data from other studies.",
+                "citedText": "[18]",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_preposition"
+                ],
+                "worthClass": null,
+                "lowClass": true,
+                "intentClass": "result"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "651a78dfecd1baa20721f807"
+        },
+        "field": "Biology",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 4,
+        "citedPaper": 7103681,
+        "citingPaper": 240153521,
+        "context": [
+            {
+                "tokenLen": 29,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "In contrast to many studies supporting the role of chemokines within the initiation and effector phases of inflammation, there is little evidence suggesting an anti-inflammatory role for chemokines <REF>.",
+                "citedText": "(Poordad et al., 2016)",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "result"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "651a78e9ecd1baa20721f812"
+        },
+        "field": "Biology",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 6,
+        "citedPaper": 5176271,
+        "citingPaper": 256805478,
+        "context": [
+            {
+                "tokenLen": 34,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "Of note, we did not find any changes in PI3K-AKT-mTOR signalling, which is critical for biological processes like nutrient uptake, cell growth and migration <REF>, in the brain of SGA compared to AGA fetuses.",
+                "citedText": "(86)",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_preposition"
+                ],
+                "worthClass": "comma",
+                "lowClass": true,
+                "intentClass": "result"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "651a7a7decd1baa20721f913"
+        },
+        "field": "Chemistry",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 1,
+        "citedPaper": 16164024,
+        "citingPaper": 11393950,
+        "context": [
+            {
+                "tokenLen": 27,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "This model, unlike the more widely used tumour spheroid system, enabled a quantitative analysis of the distribution and flux parameters for Pt drugs <REF>.",
+                "citedText": "(Hicks et al, 1997)",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true,
+                "intentClass": "methodology"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "651a7a91ecd1baa20721f924"
+        },
+        "field": "Chemistry",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 2,
+        "citedPaper": 29730596,
+        "citingPaper": 8215999,
+        "context": [
+            {
+                "tokenLen": 21,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "Free iron was measured by Electron Paramagnetic Resonance (EPR) using a modification of the method described by Srinivasan and colleagues <REF>.",
+                "citedText": "(3)",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "methodology"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "651a7da2ecd1baa20721fa92"
+        },
+        "field": "Chemistry",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 0,
+        "citedPaper": 83802453,
+        "citingPaper": 38615667,
+        "context": [
+            {
+                "tokenLen": 35,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "To identify the residues on BLIP that contribute to its binding affinity, <REF> carried out alanine-scanning mutagenesis and contrasted the binding abilities of 23 mutants and one double mutant with that of the wild type.",
+                "citedText": "Zhang and Palzkill (2003)",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_verb"
+                ],
+                "worthClass": null,
+                "lowClass": true,
+                "intentClass": "result"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "651a8033ecd1baa20721fbfe"
+        },
+        "field": "Chemistry",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 8,
+        "citedPaper": 45863491,
+        "citingPaper": 2820442,
+        "context": [
+            {
+                "tokenLen": 23,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "Phosphorylation of these motifs is catalyzed predominantly by members of the AGC subfamily of protein kinases such as PKA, PKB and PKC <REF>.",
+                "citedText": "[21]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "background"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "651a80e1ecd1baa20721fc54"
+        },
+        "field": "Chemistry",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 9,
+        "citedPaper": 43301426,
+        "citingPaper": 211078015,
+        "context": [
+            {
+                "tokenLen": 33,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "The effects of SP on gene expression in C2C12 cells was compared with those of Met, which is an anti-T2D drug that ameliorates hyperglycemia, at least in part by increasing AMPK phosphorylation <REF>.",
+                "citedText": "[67]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "result"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "651a81b2ecd1baa20721fd03"
+        },
+        "field": "Chemistry",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 2,
+        "citedPaper": 28332497,
+        "citingPaper": 7021351,
+        "context": [
+            {
+                "tokenLen": 23,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "Specific primers for angiogenesis as VEGF were previously described <REF> while primers for the vascular marker vWF were: forward 5\u2032-GCCTGTGGGAGCAGTGCCAG-3\u2032 and reverse 5\u2032-GGGCGTACTCCAGGAGGGCA-3\u2032.",
+                "citedText": "(Ventura et al. 2007)",
+                "cited": true,
+                "posClass": [
+                    "before_verb",
+                    "after_preposition"
+                ],
+                "worthClass": null,
+                "lowClass": true,
+                "intentClass": "methodology"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "651a827aecd1baa20721fd6f"
+        },
+        "field": "Chemistry",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 4,
+        "citedPaper": 18183657,
+        "citingPaper": 86620874,
+        "context": [
+            {
+                "tokenLen": 33,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "Among this population, findings have been equivocal, particularly with respect to size fractions of particulate matter (PM) (e.g., one study found a relationship with PM 0.25 but not with larger size fractions <REF>).",
+                "citedText": "(Delfino et al., 2009)",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true,
+                "intentClass": "result"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "651a8470ecd1baa20721fe65"
+        },
+        "field": "Chemistry",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 7,
+        "citedPaper": 11422962,
+        "citingPaper": 231809665,
+        "context": [
+            {
+                "tokenLen": 33,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "This is consistent with evidence from preclinical studies that high brain concentrations of 2-AG are associated with reduced CB1R binding site density, likely as a result of agonist-induced desensitization and receptor down-regulation <REF>.",
+                "citedText": "(Schlosburg et al., 2010)",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "result"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "651a8587ecd1baa20721ff1f"
+        },
+        "field": "Chemistry",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 2,
+        "citedPaper": 17984263,
+        "citingPaper": 212428226,
+        "context": [
+            {
+                "tokenLen": 20,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "Our results corroborate the findings of another study that showed impaired phagocytosis by monocytes from peripheral blood in AgP <REF>.",
+                "citedText": "[25]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "result"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "651a85deecd1baa20721ff3c"
+        },
+        "field": "Chemistry",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 3,
+        "citedPaper": 22856458,
+        "citingPaper": 237509926,
+        "context": [
+            {
+                "tokenLen": 22,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "Our result is in conformity with another study which reported that the bioactivities of WP peel extract exhibited strong antioxidant activity <REF>.",
+                "citedText": "(Deng et al., 2012)",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "result"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "651a86d6ecd1baa20721ffcd"
+        },
+        "field": "Chemistry",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 5,
+        "citedPaper": 95706843,
+        "citingPaper": 227053727,
+        "context": [
+            {
+                "tokenLen": 18,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "The inter-planar P-P distance is 2.259 \u00c5, and the intra-planar P-P distance is 2.220 \u00c5, using PBE <REF>.",
+                "citedText": "[41]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "methodology"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "651a8851ecd1baa20722009f"
+        },
+        "field": "Chemistry",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 1,
+        "citedPaper": 10806114,
+        "citingPaper": 227260540,
+        "context": [
+            {
+                "tokenLen": 27,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "Quantitative real-time PCR was performed in an Applied Biosystems 7500 Instrument using Fast SYBR Master Mix (Applied Biosystems) with primers (forward: 5 -AAAATCAGCCCGCGTTTCAC-3 , reverse: 5 -CGAAGTTCAGGCTGTTGTGC-3 ) <REF>.",
+                "citedText": "[14]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "methodology"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "651a8999ecd1baa207220135"
+        },
+        "field": "Chemistry",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 2,
+        "citedPaper": 52920051,
+        "citingPaper": 259766912,
+        "context": [
+            {
+                "tokenLen": 26,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "To further determine the role of the JAK2/STAT3 pathway in DCD liver IRI, we pretreated rats with AG490, a specific inhibitor of the JAK2/STAT3 pathway <REF>.",
+                "citedText": "[44]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "methodology"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "651a8acdecd1baa2072201b4"
+        },
+        "field": "Chemistry",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 3,
+        "citedPaper": 71148819,
+        "citingPaper": 249649718,
+        "context": [
+            {
+                "tokenLen": 16,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "The inversion is dependent on the percentage of extracellular matrix (ECM) proteins in the media <REF>.",
+                "citedText": "(5)",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "methodology"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "651a8b59ecd1baa2072201fc"
+        },
+        "field": "Chemistry",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 6,
+        "citedPaper": 3335346,
+        "citingPaper": 251159012,
+        "context": [
+            {
+                "tokenLen": 32,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "Particle size determination revealed that Exo-utPVAT had a median diameter ranging between 47 and 99 nm (Fig. 1, B and C), in line with the size range previously reported for exosomes <REF>.",
+                "citedText": "(28)",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "result"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "651a8baaecd1baa207220227"
+        },
+        "field": "Chemistry",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 7,
+        "citedPaper": 21803664,
+        "citingPaper": 248330294,
+        "context": [
+            {
+                "tokenLen": 29,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "Homan et al. used this technique to obtain functional proximal tubule-on-chips by growing PTECs on a fibrinogen ECM coating the lumen of a structure printed with Pluronic ink <REF>.",
+                "citedText": "[153]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "methodology"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "651a8cfcecd1baa20722032f"
+        },
+        "field": "Computer Science",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 5,
+        "citedPaper": 3172160,
+        "citingPaper": 51880320,
+        "context": [
+            {
+                "tokenLen": 20,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "Layered treewidth is related to local treewidth, which was first introduced by <REF> under the guise of the 'treewidth-diameter' property.",
+                "citedText": "Eppstein [25]",
+                "cited": true,
+                "posClass": [
+                    "before_preposition",
+                    "after_preposition"
+                ],
+                "worthClass": null,
+                "lowClass": true,
+                "intentClass": "background"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "651a9195ecd1baa20722067c"
+        },
+        "field": "Computer Science",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 8,
+        "citedPaper": 6517043,
+        "citingPaper": 237214349,
+        "context": [
+            {
+                "tokenLen": 27,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "Using the Conserved Domain Database <REF>, R. prolixus viruses were searched in order to identify conserved RNA-dependent RNA polymerase (RdRp) domains in each ORF (Open Reading Frame).",
+                "citedText": "[70]",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_noun"
+                ],
+                "worthClass": "comma",
+                "lowClass": true,
+                "intentClass": "methodology"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "651a920cecd1baa2072206ba"
+        },
+        "field": "Computer Science",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 0,
+        "citedPaper": 14035753,
+        "citingPaper": 18694529,
+        "context": [
+            {
+                "tokenLen": 32,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "However, segment elevation angles are also sometimes used in biomechanics research, and there is evidence showing that the choice of coordinate system may influence the results of UCM and COV analysis <REF>.",
+                "citedText": "[31]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "background"
+            }
+        ]
+    }
+]

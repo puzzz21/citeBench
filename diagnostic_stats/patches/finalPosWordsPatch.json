@@ -1,0 +1,3482 @@
+[
+    {
+        "_id": {
+            "$oid": "6519ebd16c0f3ddf8f383d09"
+        },
+        "field": "Biology",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 0,
+        "citedPaper": 25197400,
+        "citingPaper": 227343831,
+        "context": [
+            {
+                "tokenLen": 23,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "Moreover, AS is responsible for the production of a soluble variant of CD44 <REF>, which competes with membranebound CD44 protein on EC surface.",
+                "citedText": "[159]",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_others"
+                ],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "after_others"
+    },
+    {
+        "_id": {
+            "$oid": "6519ebd76c0f3ddf8f383d0e"
+        },
+        "field": "Biology",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 0,
+        "citedPaper": 25197400,
+        "citingPaper": 227343831,
+        "context": [
+            {
+                "tokenLen": 23,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "Moreover, AS is responsible for the production of a soluble variant of CD44 <REF>, which competes with membranebound CD44 protein on EC surface.",
+                "citedText": "[159]",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_others"
+                ],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "before_noun"
+    },
+    {
+        "_id": {
+            "$oid": "6519ee996c0f3ddf8f383dfe"
+        },
+        "field": "Biology",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 2,
+        "citedPaper": 25644013,
+        "citingPaper": 221235936,
+        "context": [
+            {
+                "tokenLen": 29,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "Given that Insulin-like growth factor-binding protein 1 (IGFBP1) is a known substrate of MMP11 <REF>, it is likely that MMP11 activates the IGF1/AKT growth pathway by increasing IGF1 bioavailability.",
+                "citedText": "[19]",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_pronoun"
+                ],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "after_pronoun"
+    },
+    {
+        "_id": {
+            "$oid": "6519ee9e6c0f3ddf8f383e02"
+        },
+        "field": "Biology",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 2,
+        "citedPaper": 3156090,
+        "citingPaper": 15630675,
+        "context": [
+            {
+                "tokenLen": 19,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "Additionally, we isolated proteins from the newt-derived myoblast-like cell line A1 <REF> during different stages of differentiation into myotubes.",
+                "citedText": "[17]",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_preposition"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "after_preposition"
+    },
+    {
+        "_id": {
+            "$oid": "6519f0c16c0f3ddf8f383e61"
+        },
+        "field": "Biology",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 3,
+        "citedPaper": 21843317,
+        "citingPaper": 13009710,
+        "context": [
+            {
+                "tokenLen": 22,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "The connection to vessel formation becomes even more understandable when considering the synergistic collaboration of IGF-1 and VEGF <REF> in tumour neoangiogenesis.",
+                "citedText": "[51]",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_preposition"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "after_preposition"
+    },
+    {
+        "_id": {
+            "$oid": "6519f3cb6c0f3ddf8f383ed4"
+        },
+        "field": "Biology",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 4,
+        "citedPaper": 287108,
+        "citingPaper": 226846079,
+        "context": [
+            {
+                "tokenLen": 25,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "Due to its fast and stable interactions with the actin barbed end <REF>, CP prevents the expansion of Arp2/3-mediated branches away from the nucleation patterns.",
+                "citedText": "(Schafer et al., 1996)",
+                "cited": true,
+                "posClass": [
+                    "before_adjective",
+                    "after_noun"
+                ],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "before_adjective"
+    },
+    {
+        "_id": {
+            "$oid": "6519f3d76c0f3ddf8f383eda"
+        },
+        "field": "Biology",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 4,
+        "citedPaper": 1102549,
+        "citingPaper": 374810,
+        "context": [
+            {
+                "tokenLen": 18,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "Early work of Gurunathan and colleagues <REF> demonstrated that DNA vaccine formulation is superior to recombinant protein form.",
+                "citedText": "[29]",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_verb"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "after_verb"
+    },
+    {
+        "_id": {
+            "$oid": "6519f8e26c0f3ddf8f383f8a"
+        },
+        "field": "Biology",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 5,
+        "citedPaper": 7475957,
+        "citingPaper": 4490766,
+        "context": [
+            {
+                "tokenLen": 31,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "Cdc42 and Rac participate in regulating the localized formation of actin fibers, necessary for pseudopod extension, by activating the nucleation-promoting factors WASp (Wiskott-Aldrich Syndrome protein) and Scar/WAVE, respectively <REF> ( Figure 1).",
+                "citedText": "[93]",
+                "cited": true,
+                "posClass": [
+                    "before_adverb",
+                    "after_noun"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "before_adverb"
+    },
+    {
+        "_id": {
+            "$oid": "6519f9266c0f3ddf8f383f96"
+        },
+        "field": "Biology",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 5,
+        "citedPaper": 7475957,
+        "citingPaper": 4490766,
+        "context": [
+            {
+                "tokenLen": 31,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "Cdc42 and Rac participate in regulating the localized formation of actin fibers, necessary for pseudopod extension, by activating the nucleation-promoting factors WASp (Wiskott-Aldrich Syndrome protein) and Scar/WAVE, respectively <REF> ( Figure 1).",
+                "citedText": "[93]",
+                "cited": true,
+                "posClass": [
+                    "before_adverb",
+                    "after_noun"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "after_noun"
+    },
+    {
+        "_id": {
+            "$oid": "6519f9e46c0f3ddf8f383fb5"
+        },
+        "field": "Biology",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 6,
+        "citedPaper": 31049824,
+        "citingPaper": 13614775,
+        "context": [
+            {
+                "tokenLen": 32,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "Because Cox-2 gene expression is also transcriptionally regulated via the transactivation factor NF-\u03baB p65 in human vascular endothelial cells <REF>, we investigated the involvement of NF-\u03baB in the HNE-stimulated up-regulation of Cox-2.",
+                "citedText": "[35]",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_pronoun"
+                ],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "after_pronoun"
+    },
+    {
+        "_id": {
+            "$oid": "6519fa2c6c0f3ddf8f383fc3"
+        },
+        "field": "Biology",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 6,
+        "citedPaper": 25921621,
+        "citingPaper": 138077044,
+        "context": [
+            {
+                "tokenLen": 17,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "We also confirmed the expression and localization of the transporter protein MRP2 <REF> in the hybrid spheroids.",
+                "citedText": "[14]",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_preposition"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "after_preposition"
+    },
+    {
+        "_id": {
+            "$oid": "6519fcdd6c0f3ddf8f384030"
+        },
+        "field": "Biology",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 7,
+        "citedPaper": 10191828,
+        "citingPaper": 233370368,
+        "context": [
+            {
+                "tokenLen": 27,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "In mice, interferon gamma (IFN-g) produced by NK cells is the key cytokine involved in remodeling the uterine spiral arteries <REF>, a necessary step for optimal placentation.",
+                "citedText": "(Ashkar et al., 2000)",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_others"
+                ],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "after_others"
+    },
+    {
+        "_id": {
+            "$oid": "651a00246c0f3ddf8f384077"
+        },
+        "field": "Biology",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 7,
+        "citedPaper": 23787616,
+        "citingPaper": 259764670,
+        "context": [
+            {
+                "tokenLen": 29,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "Interestingly, the in silico analysis of the APOE sequence revealed the presence of two putative ATM phosphorylation SQ/TQ domains defined elsewhere <REF>: the APOE ser72 and the APOE thr75 .",
+                "citedText": "[44]",
+                "cited": true,
+                "posClass": [
+                    "before_adverb",
+                    "after_others"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "before_adverb"
+    },
+    {
+        "_id": {
+            "$oid": "651a01c26c0f3ddf8f38409c"
+        },
+        "field": "Biology",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 8,
+        "citedPaper": 4799990,
+        "citingPaper": 5713981,
+        "context": [
+            {
+                "tokenLen": 23,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "The role of TLR-2, a receptor involved in the recognition of peptidoglycan and lipoproteins <REF>, during the response against A. baumannii, remains controversial.",
+                "citedText": "(60)",
+                "cited": true,
+                "posClass": [
+                    "before_verb",
+                    "after_preposition"
+                ],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "after_preposition"
+    },
+    {
+        "_id": {
+            "$oid": "651a057b6c0f3ddf8f3840f1"
+        },
+        "field": "Biology",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 9,
+        "citedPaper": 8684443,
+        "citingPaper": 259004209,
+        "context": [
+            {
+                "tokenLen": 18,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "One of the lymphatic-specific markers, LYVE1 (lymphatic vessel endothelial hyaluronan receptor 1) was first discovered in <REF> (21).",
+                "citedText": "1999",
+                "cited": true,
+                "posClass": [
+                    "before_preposition",
+                    "after_others"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "after_others"
+    },
+    {
+        "_id": {
+            "$oid": "651a05ed6c0f3ddf8f3840fe"
+        },
+        "field": "Biology",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 9,
+        "citedPaper": 43671545,
+        "citingPaper": 247407695,
+        "context": [
+            {
+                "tokenLen": 26,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "Although ROCK has been reported to phosphorylate both Thr18 and Ser19 of MYL2 <REF>, our findings revealed that SIK2 regulates MYL2 phosphorylation in a ROCK-independent manner.",
+                "citedText": "[32]",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_pronoun"
+                ],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "after_pronoun"
+    },
+    {
+        "_id": {
+            "$oid": "651a07476c0f3ddf8f384124"
+        },
+        "field": "Biology",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 9,
+        "citedPaper": 8684443,
+        "citingPaper": 236211345,
+        "context": [
+            {
+                "tokenLen": 30,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "LYVE-1 (lymphatic vessel hyaluronan receptor-1), one of the most widely used and specific markers for lymphatic endothelial cells <REF>, was fluorescently labeled to measure the primary tumor lymphatic vessel density.",
+                "citedText": "[29]",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_verb"
+                ],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "after_verb"
+    },
+    {
+        "_id": {
+            "$oid": "651a085c6c0f3ddf8f384142"
+        },
+        "field": "Biology",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 9,
+        "citedPaper": 43671545,
+        "citingPaper": 227190833,
+        "context": [
+            {
+                "tokenLen": 24,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "Synchrotron X-ray solution scattering data were collected at the <REF>MBL P12 beamline (PETRA III, DESY, Hamburg, Germany) using a robotic sample changer 34 .",
+                "citedText": "E",
+                "cited": true,
+                "posClass": [
+                    "before_others",
+                    "after_noun"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "before_others"
+    },
+    {
+        "_id": {
+            "$oid": "651a0a206c0f3ddf8f384172"
+        },
+        "field": "Biology",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 9,
+        "citedPaper": 43671545,
+        "citingPaper": 227190833,
+        "context": [
+            {
+                "tokenLen": 24,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "Synchrotron X-ray solution scattering data were collected at the <REF>MBL P12 beamline (PETRA III, DESY, Hamburg, Germany) using a robotic sample changer 34 .",
+                "citedText": "E",
+                "cited": true,
+                "posClass": [
+                    "before_others",
+                    "after_noun"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "after_noun"
+    },
+    {
+        "_id": {
+            "$oid": "651a0acb6c0f3ddf8f384186"
+        },
+        "field": "Biology",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 9,
+        "citedPaper": 8684443,
+        "citingPaper": 259004209,
+        "context": [
+            {
+                "tokenLen": 18,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "One of the lymphatic-specific markers, LYVE1 (lymphatic vessel endothelial hyaluronan receptor 1) was first discovered in <REF> (21).",
+                "citedText": "1999",
+                "cited": true,
+                "posClass": [
+                    "before_preposition",
+                    "after_others"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "before_preposition"
+    },
+    {
+        "_id": {
+            "$oid": "651a110c6c0f3ddf8f384278"
+        },
+        "field": "Biology",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 2,
+        "citedPaper": 39174295,
+        "citingPaper": 211474820,
+        "context": [
+            {
+                "tokenLen": 31,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "*Pif1 was not found to affect replication through telomeres when assayed by 2D gels <REF>, but the more recently discovered role of Pif1 in G4 unwinding might suggest such a role.",
+                "citedText": "[27]",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_others"
+                ],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "after_others"
+    },
+    {
+        "_id": {
+            "$oid": "651a11316c0f3ddf8f38427e"
+        },
+        "field": "Biology",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 2,
+        "citedPaper": 39174295,
+        "citingPaper": 4559897,
+        "context": [
+            {
+                "tokenLen": 35,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "Since Rrm3p promotes replication fork progress through ITSs and other hard-to-replicate sequences <REF>, we expected that loss of Rrm3p would lead to elevated DSB formation in the ITS and increased formation of the terminal inversion.",
+                "citedText": "(Ivessa et al. 2002)",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_pronoun"
+                ],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "after_pronoun"
+    },
+    {
+        "_id": {
+            "$oid": "651a129c6c0f3ddf8f3842a0"
+        },
+        "field": "Biology",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 2,
+        "citedPaper": 36608389,
+        "citingPaper": 201064943,
+        "context": [
+            {
+                "tokenLen": 20,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "Previous studies suggested that the ER-mitochondrial <REF>a 2+ transfer is mediated by IP3R1 or IP3R3 isoforms [28][29][30] .",
+                "citedText": "C",
+                "cited": true,
+                "posClass": [
+                    "before_adjective",
+                    "after_others"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "before_adjective"
+    },
+    {
+        "_id": {
+            "$oid": "651a14ea6c0f3ddf8f3842d7"
+        },
+        "field": "Biology",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 2,
+        "citedPaper": 23179606,
+        "citingPaper": 24501438,
+        "context": [
+            {
+                "tokenLen": 28,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "KLF15 has been reported to control expression of glucose transporter SLC2A4 in rodents <REF>; however KLF15 knockdown did not affect SLC2A4 in our human cells (results not shown).",
+                "citedText": "[32]",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_adverb"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "after_adverb"
+    },
+    {
+        "_id": {
+            "$oid": "651a165b6c0f3ddf8f384301"
+        },
+        "field": "Biology",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 3,
+        "citedPaper": 34853675,
+        "citingPaper": 235198453,
+        "context": [
+            {
+                "tokenLen": 25,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "We first compared the ability of wild-type (WT) PINK1 and its kinase-dead homolog (MT, PINK1 K219M ) <REF> to modulate expressions of phosphorylated forms of XBP1s.",
+                "citedText": "[38]",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_preposition"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "after_preposition"
+    },
+    {
+        "_id": {
+            "$oid": "651a16e56c0f3ddf8f384314"
+        },
+        "field": "Biology",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 3,
+        "citedPaper": 13331902,
+        "citingPaper": 3675139,
+        "context": [
+            {
+                "tokenLen": 30,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "Importantly, individuals with the High MAO-A phenotype have less attention control compared to Low MAO-A individuals <REF>, supporting our interpretation of decreased cognitive control ability in the High MAO-A group.",
+                "citedText": "(Fossella et al., 2002)",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_verb"
+                ],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "after_verb"
+    },
+    {
+        "_id": {
+            "$oid": "651a19c96c0f3ddf8f38436c"
+        },
+        "field": "Biology",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 4,
+        "citedPaper": 23748029,
+        "citingPaper": 247957360,
+        "context": [
+            {
+                "tokenLen": 30,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "As SIRT6 is located in the nucleus and only diffuses into the cytoplasm <REF>, it is mainly involved in the regulation of acetylation of lysines on proteins in the nucleus.",
+                "citedText": "(30)",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_pronoun"
+                ],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "after_pronoun"
+    },
+    {
+        "_id": {
+            "$oid": "651a1abe6c0f3ddf8f38437e"
+        },
+        "field": "Biology",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 4,
+        "citedPaper": 9050140,
+        "citingPaper": 210948791,
+        "context": [
+            {
+                "tokenLen": 16,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "To test this possibility, we examined MN cell bodies in mice lacking TAG-1 <REF> by IHC.",
+                "citedText": "(Poliak et al., 2003)",
+                "cited": true,
+                "posClass": [
+                    "before_adjective",
+                    "after_preposition"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "before_adjective"
+    },
+    {
+        "_id": {
+            "$oid": "651a1b3e6c0f3ddf8f384388"
+        },
+        "field": "Biology",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 4,
+        "citedPaper": 37815503,
+        "citingPaper": 3933386,
+        "context": [
+            {
+                "tokenLen": 24,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "MBD2-deficient mice are viable, whereas MBD3-deficient mice are early embryonic lethal <REF>, suggesting an essential and specific role for MBD3 during early mammalian development.",
+                "citedText": "(Hendrich et al., 2001)",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_verb"
+                ],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "after_verb"
+    },
+    {
+        "_id": {
+            "$oid": "651a1e5b6c0f3ddf8f3843c0"
+        },
+        "field": "Biology",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 5,
+        "citedPaper": 86305557,
+        "citingPaper": 8898524,
+        "context": [
+            {
+                "tokenLen": 23,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "Although anti-diabetic drugs, such as thiazolidinediones (TZD) improve insulin sensitivity <REF>, they are unfortunately associated with a risk of weight gain and hypoglycemia.",
+                "citedText": "[12]",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_pronoun"
+                ],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "after_pronoun"
+    },
+    {
+        "_id": {
+            "$oid": "651a211d6c0f3ddf8f384405"
+        },
+        "field": "Biology",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 5,
+        "citedPaper": 12215538,
+        "citingPaper": 15958381,
+        "context": [
+            {
+                "tokenLen": 16,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "ER stress is a component of the mechanism by which BA<REF> triggers cell death 44 .",
+                "citedText": "X",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_noun"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "after_noun"
+    },
+    {
+        "_id": {
+            "$oid": "651a22a06c0f3ddf8f384424"
+        },
+        "field": "Biology",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 6,
+        "citedPaper": 18985565,
+        "citingPaper": 52288421,
+        "context": [
+            {
+                "tokenLen": 24,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "Because of their accessibility, high growth capacity, and multipotency <REF>, cell-based medicine utilizing MSCs is expected to facilitate tissue regeneration in various clinical applications.",
+                "citedText": "[3]",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_adjective"
+                ],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "after_adjective"
+    },
+    {
+        "_id": {
+            "$oid": "651a22c26c0f3ddf8f38442a"
+        },
+        "field": "Biology",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 6,
+        "citedPaper": 7718479,
+        "citingPaper": 227178409,
+        "context": [
+            {
+                "tokenLen": 35,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "Moreover, the replicative lifespan effect of RSV in yeast was immediately questioned as it was not reproducible <REF> indicating that the mechanism of action of the anti-and proaging effects of RSV is not yet understood.",
+                "citedText": "[22]",
+                "cited": true,
+                "posClass": [
+                    "before_adjective",
+                    "after_noun"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "before_adjective"
+    },
+    {
+        "_id": {
+            "$oid": "651a23006c0f3ddf8f384432"
+        },
+        "field": "Biology",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 6,
+        "citedPaper": 8674580,
+        "citingPaper": 233800569,
+        "context": [
+            {
+                "tokenLen": 27,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "In a study to model epidemic dynamics in adaptive networks, <REF> showed that disease spread is inhibited when susceptible actors choose to distance themselves from infected others.",
+                "citedText": "[4]",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_verb"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "after_verb"
+    },
+    {
+        "_id": {
+            "$oid": "651a275d6c0f3ddf8f384479"
+        },
+        "field": "Biology",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 6,
+        "citedPaper": 15930113,
+        "citingPaper": 227281070,
+        "context": [
+            {
+                "tokenLen": 37,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "In the lungs, AT2s perform central functions, the main one being the production and secretion of surfactants that prevent the collapse of the pulmonary tissue by regulating the surface tension of the alveoli (reviewed by <REF>, 2001).",
+                "citedText": "Fehrenbach",
+                "cited": true,
+                "posClass": [
+                    "before_preposition",
+                    "after_others"
+                ],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "before_preposition"
+    },
+    {
+        "_id": {
+            "$oid": "651a2e946c0f3ddf8f3844e9"
+        },
+        "field": "Biology",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 7,
+        "citedPaper": 30502884,
+        "citingPaper": 251474016,
+        "context": [
+            {
+                "tokenLen": 21,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "Using these three different methods of species identification, we classified isolates into VGS groups using the taxonomy described by <REF> (21).",
+                "citedText": "Facklam",
+                "cited": true,
+                "posClass": [
+                    "before_preposition",
+                    "after_others"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "before_preposition"
+    },
+    {
+        "_id": {
+            "$oid": "651a30ba6c0f3ddf8f38450e"
+        },
+        "field": "Biology",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 8,
+        "citedPaper": 7121987,
+        "citingPaper": 245453078,
+        "context": [
+            {
+                "tokenLen": 35,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "There have been a little more than 900 articles retrieved from PubMed to date with the keyword \"CXCR7\", since its discovery in 2005 <REF>, the bulk of which are investigations concerning cancer biology.",
+                "citedText": "[203]",
+                "cited": true,
+                "posClass": [
+                    "before_others",
+                    "after_others"
+                ],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "before_others"
+    },
+    {
+        "_id": {
+            "$oid": "651a31676c0f3ddf8f38451d"
+        },
+        "field": "Biology",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 8,
+        "citedPaper": 18684515,
+        "citingPaper": 237641940,
+        "context": [
+            {
+                "tokenLen": 23,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "The two protease inhibitors PAI-I and Serpin F1 also belong to the Serpin gene superfamily <REF> and are known for their anti-adipogenic effects.",
+                "citedText": "[90]",
+                "cited": true,
+                "posClass": [
+                    "before_adverb",
+                    "after_others"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "before_adverb"
+    },
+    {
+        "_id": {
+            "$oid": "651a31e36c0f3ddf8f384527"
+        },
+        "field": "Biology",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 8,
+        "citedPaper": 11117072,
+        "citingPaper": 196811253,
+        "context": [
+            {
+                "tokenLen": 21,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "Each extension entry is a pairing of a relationship based on the OBO relations ontology <REF> and one or more identifiers.",
+                "citedText": "[12]",
+                "cited": true,
+                "posClass": [
+                    "before_verb",
+                    "after_others"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "before_verb"
+    },
+    {
+        "_id": {
+            "$oid": "651a31e66c0f3ddf8f38452b"
+        },
+        "field": "Biology",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 8,
+        "citedPaper": 6353106,
+        "citingPaper": 219333749,
+        "context": [
+            {
+                "tokenLen": 19,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "In order to standardize the name of the target, we will target further mapped UniProt (http://www.uniprot.org) <REF> database.",
+                "citedText": "[35]",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_noun"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "after_noun"
+    },
+    {
+        "_id": {
+            "$oid": "651a33626c0f3ddf8f38454d"
+        },
+        "field": "Biology",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 9,
+        "citedPaper": 542025,
+        "citingPaper": 258028877,
+        "context": [
+            {
+                "tokenLen": 34,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "Accordingly, we used TMalign tool (https://zhanggroup.org/TM-align/) to perform a 525 structural alignment (<REF> 2005 Scripts to remove splice variants from the proteome database are available upon reasonable 557 request to the corresponding author.",
+                "citedText": "Zhang",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_others"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "after_others"
+    },
+    {
+        "_id": {
+            "$oid": "651a35256c0f3ddf8f38459b"
+        },
+        "field": "Biology",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 9,
+        "citedPaper": 304190,
+        "citingPaper": 259950484,
+        "context": [
+            {
+                "tokenLen": 17,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "The pipeline uses the FoldX (v3.0) <REF> force field to predict the variant impact on structural stability.",
+                "citedText": "[10]",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_noun"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "after_noun"
+    },
+    {
+        "_id": {
+            "$oid": "651a36826c0f3ddf8f3845ef"
+        },
+        "field": "Biology",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 0,
+        "citedPaper": 11958513,
+        "citingPaper": 8022207,
+        "context": [
+            {
+                "tokenLen": 21,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "Searches for TGF-b pathway components are similar to those in searches for Wnt pathway components <REF>, using a reciprocal Blast approach.",
+                "citedText": "[51]",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_verb"
+                ],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "after_verb"
+    },
+    {
+        "_id": {
+            "$oid": "651a37f36c0f3ddf8f384643"
+        },
+        "field": "Biology",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 1,
+        "citedPaper": 16942261,
+        "citingPaper": 232121597,
+        "context": [
+            {
+                "tokenLen": 35,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "As the East-West division in genetic structure is relatively strong in Finland <REF>, we first focused on the top level of the FS-tree which divided our reference candidates into 926 western and 1,815 eastern individuals.",
+                "citedText": "[33]",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_pronoun"
+                ],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "after_pronoun"
+    },
+    {
+        "_id": {
+            "$oid": "651a3d136c0f3ddf8f3846ac"
+        },
+        "field": "Biology",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 1,
+        "citedPaper": 17187301,
+        "citingPaper": 9767331,
+        "context": [
+            {
+                "tokenLen": 32,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "Further study of heterozygous TSC2 mice has implicated ephrin-EphA receptor signaling in abnormal development of retinogeniculate connections <REF>, presumably through activation of the mTOR pathway via ERK1/2 inhibition and thus Tsc2 activation.",
+                "citedText": "[4]",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_adverb"
+                ],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "after_adverb"
+    },
+    {
+        "_id": {
+            "$oid": "651a3d826c0f3ddf8f3846b8"
+        },
+        "field": "Biology",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 1,
+        "citedPaper": 16942261,
+        "citingPaper": 11154001,
+        "context": [
+            {
+                "tokenLen": 21,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "The prior distributions for mutation rates for each of the four partitions were set based on <REF> et al. 2014 38 .",
+                "citedText": "Rieux",
+                "cited": true,
+                "posClass": [
+                    "before_preposition",
+                    "after_others"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "before_preposition"
+    },
+    {
+        "_id": {
+            "$oid": "651a3d896c0f3ddf8f3846bc"
+        },
+        "field": "Biology",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 2,
+        "citedPaper": 14796289,
+        "citingPaper": 233394933,
+        "context": [
+            {
+                "tokenLen": 32,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "Therefore, together with the key fact that Perry disease-linked DCTN1 mutants exhibit reduced microtubule-binding abilities <REF>, our results revealed that DCTN1 G71A or truncated mutant DCTN1 disrupts the cytoplasmic-nuclear transport of TDP-43.",
+                "citedText": "[47]",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_pronoun"
+                ],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "after_pronoun"
+    },
+    {
+        "_id": {
+            "$oid": "651a3e496c0f3ddf8f3846cb"
+        },
+        "field": "Biology",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 2,
+        "citedPaper": 17524361,
+        "citingPaper": 162183663,
+        "context": [
+            {
+                "tokenLen": 27,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "Also the hyper activation of IL-36 receptor agonists, such as an overexpression of IL-36\u03b1, which in transgenic mice led to psoriasis phenotype <REF>, interrupts the necessary homeostasis.",
+                "citedText": "(15)",
+                "cited": true,
+                "posClass": [
+                    "before_adjective",
+                    "after_verb"
+                ],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "before_adjective"
+    },
+    {
+        "_id": {
+            "$oid": "651a43216c0f3ddf8f38471d"
+        },
+        "field": "Biology",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 2,
+        "citedPaper": 23334350,
+        "citingPaper": 237772453,
+        "context": [
+            {
+                "tokenLen": 37,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "Primers, FF 5 0 CTGCTTTTAATACTGCAGGACTA 3 0 and R 5 0 ATGCAGCACCTGTGTGAGGT 3 0 and protocol of <REF> was used to amplify 426 base pairs of 16S rRNA gene of A. centrale in blood and tick samples.",
+                "citedText": "Kawahara et al. (2006)",
+                "cited": true,
+                "posClass": [
+                    "before_preposition",
+                    "after_verb"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "before_preposition"
+    },
+    {
+        "_id": {
+            "$oid": "651a453a6c0f3ddf8f384741"
+        },
+        "field": "Biology",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 3,
+        "citedPaper": 1454400,
+        "citingPaper": 199381285,
+        "context": [
+            {
+                "tokenLen": 26,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "After siRNAs guide AGO4 to Pol V scaffold transcripts <REF>, positive feedback in the SHH1-Pol IV-Pol V-DRM2 system could promote RdDM spreading across TEs ( Figure 7A).",
+                "citedText": "(14)",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_adjective"
+                ],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "after_adjective"
+    },
+    {
+        "_id": {
+            "$oid": "651a45c36c0f3ddf8f38474b"
+        },
+        "field": "Biology",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 3,
+        "citedPaper": 1265553,
+        "citingPaper": 221571829,
+        "context": [
+            {
+                "tokenLen": 19,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "Tg(lyz:EGFP) nz117 adult zebrafish <REF> were anaesthetized in 0.168 mg/mL tricaine (Sigma-Aldrich) before dissection of the kidneys.",
+                "citedText": "[44]",
+                "cited": true,
+                "posClass": [
+                    "before_adjective",
+                    "after_verb"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "before_adjective"
+    },
+    {
+        "_id": {
+            "$oid": "651a464c6c0f3ddf8f384755"
+        },
+        "field": "Biology",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 3,
+        "citedPaper": 1265553,
+        "citingPaper": 221571829,
+        "context": [
+            {
+                "tokenLen": 19,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "Tg(lyz:EGFP) nz117 adult zebrafish <REF> were anaesthetized in 0.168 mg/mL tricaine (Sigma-Aldrich) before dissection of the kidneys.",
+                "citedText": "[44]",
+                "cited": true,
+                "posClass": [
+                    "before_adjective",
+                    "after_verb"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "after_verb"
+    },
+    {
+        "_id": {
+            "$oid": "651a489c6c0f3ddf8f38477f"
+        },
+        "field": "Biology",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 3,
+        "citedPaper": 2500908,
+        "citingPaper": 232171670,
+        "context": [
+            {
+                "tokenLen": 21,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "The AMPKa1f/f and AMPKa2f/f mice were generated as previously described <REF>, and obtained from the Jackson Laboratory (Bar Harbor, ME, USA).",
+                "citedText": "[38]",
+                "cited": true,
+                "posClass": [
+                    "before_verb",
+                    "after_others"
+                ],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "before_verb"
+    },
+    {
+        "_id": {
+            "$oid": "651a497b6c0f3ddf8f384792"
+        },
+        "field": "Biology",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 3,
+        "citedPaper": 14317873,
+        "citingPaper": 231840978,
+        "context": [
+            {
+                "tokenLen": 34,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "Thus, the relationship observed in temperate regions and modeled by <REF>, where influenza transmission decreases monotonically with increasing AH, is not sufficient to explain patterns in influenza transmission in the tropics and subtropics [9,15].",
+                "citedText": "Shaman et al. [12]",
+                "cited": true,
+                "posClass": [
+                    "before_preposition",
+                    "after_others"
+                ],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "before_preposition"
+    },
+    {
+        "_id": {
+            "$oid": "651a4aa86c0f3ddf8f3847b9"
+        },
+        "field": "Biology",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 4,
+        "citedPaper": 4320256,
+        "citingPaper": 249206972,
+        "context": [
+            {
+                "tokenLen": 26,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "The previously described 2XMBP tag <REF> was placed in-frame at the N-terminus of all proteins separated by an Asparagine linker and the PreScission Protease cleavage sequence.",
+                "citedText": "(Jensen et al., 2010)",
+                "cited": true,
+                "posClass": [
+                    "before_adjective",
+                    "after_verb"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "before_adjective"
+    },
+    {
+        "_id": {
+            "$oid": "651a4acf6c0f3ddf8f3847c0"
+        },
+        "field": "Biology",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 4,
+        "citedPaper": 4425350,
+        "citingPaper": 221970055,
+        "context": [
+            {
+                "tokenLen": 32,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "CaMKII responds rapidly to each Ca 2+ increase and deactivates in ~1 min, similar to the time course in dendritic spines <REF>, whereas synaptic ERK activity, and PKA activity, accumulate over tetani.",
+                "citedText": "(Lee et al. 2009)",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_verb"
+                ],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "after_verb"
+    },
+    {
+        "_id": {
+            "$oid": "651a4f626c0f3ddf8f38483f"
+        },
+        "field": "Biology",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 5,
+        "citedPaper": 6005520,
+        "citingPaper": 237193470,
+        "context": [
+            {
+                "tokenLen": 26,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "To know the number of genes per contig length, we conducted the gene prediction of each contig using FragGeneScan <REF> with the following parameters -complete=0 -train=illumina_5.",
+                "citedText": "(Rho et al., 2010)",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_preposition"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "after_preposition"
+    },
+    {
+        "_id": {
+            "$oid": "651a506d6c0f3ddf8f384855"
+        },
+        "field": "Biology",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 5,
+        "citedPaper": 6005520,
+        "citingPaper": 251296638,
+        "context": [
+            {
+                "tokenLen": 17,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "The genes were annotated from the assembled contigs using FragGeneScan <REF> with -w 1 -t complete options.",
+                "citedText": "(Rho et al., 2010)",
+                "cited": true,
+                "posClass": [
+                    "before_adjective",
+                    "after_preposition"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "before_adjective"
+    },
+    {
+        "_id": {
+            "$oid": "651a51256c0f3ddf8f384864"
+        },
+        "field": "Biology",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 5,
+        "citedPaper": 4411006,
+        "citingPaper": 258476549,
+        "context": [
+            {
+                "tokenLen": 18,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "It is exclusively expressed in LSEC cells <REF>, indicating it as an ideal receptor for LSEC targeting delivery.",
+                "citedText": "[44]",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_verb"
+                ],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "after_verb"
+    },
+    {
+        "_id": {
+            "$oid": "651a55466c0f3ddf8f3848ae"
+        },
+        "field": "Biology",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 5,
+        "citedPaper": 11259350,
+        "citingPaper": 252533249,
+        "context": [
+            {
+                "tokenLen": 34,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "Burst pattern measurements obtained by performing MEA recordings have been used to assess longitudinal electrical changes in 2D monolayer cortical cultures <REF>, however, to our knowledge there are not equivalent studies using MN cultures.",
+                "citedText": "[69]",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_adverb"
+                ],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "after_adverb"
+    },
+    {
+        "_id": {
+            "$oid": "651a56466c0f3ddf8f3848c3"
+        },
+        "field": "Biology",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 6,
+        "citedPaper": 2011426,
+        "citingPaper": 244910722,
+        "context": [
+            {
+                "tokenLen": 31,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "MaR was isolated from the exudate during the resolution of mouse peritonitis by <REF> and was demonstrated to be a new pathway for macrophages to synthesize anti-inflammatory mediators from DHA (109).",
+                "citedText": "Serhan et al.",
+                "cited": true,
+                "posClass": [
+                    "before_preposition",
+                    "after_others"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "after_others"
+    },
+    {
+        "_id": {
+            "$oid": "651a56cd6c0f3ddf8f3848cf"
+        },
+        "field": "Biology",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 6,
+        "citedPaper": 14175358,
+        "citingPaper": 253415585,
+        "context": [
+            {
+                "tokenLen": 23,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "However, in relation to free miRNA and miRNA bound to Argonaute-2 in plasma <REF>, we treated samples with RNase A before extracting miRNA.",
+                "citedText": "[15]",
+                "cited": true,
+                "posClass": [
+                    "before_adjective",
+                    "after_pronoun"
+                ],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "after_pronoun"
+    },
+    {
+        "_id": {
+            "$oid": "651a57156c0f3ddf8f3848d5"
+        },
+        "field": "Biology",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 6,
+        "citedPaper": 2011426,
+        "citingPaper": 246828410,
+        "context": [
+            {
+                "tokenLen": 29,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "MaR1 is biosynthesized via an epoxide intermediate enzymatically produced from the DHA-derived lipoxygenase product 14-HpDHA <REF> as determined by acid methanol trapping studies and analyses of the resulting products.",
+                "citedText": "[15]",
+                "cited": true,
+                "posClass": [
+                    "before_adjective",
+                    "after_preposition"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "after_preposition"
+    },
+    {
+        "_id": {
+            "$oid": "651a5aca6c0f3ddf8f38491f"
+        },
+        "field": "Biology",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 6,
+        "citedPaper": 205298083,
+        "citingPaper": 253487459,
+        "context": [
+            {
+                "tokenLen": 24,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "Although the direct effect of activating SIRT1 has been questioned previously <REF>, its biological functions in treating different disease models have been intensively studied.",
+                "citedText": "[62]",
+                "cited": true,
+                "posClass": [
+                    "before_adverb",
+                    "after_pronoun"
+                ],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "before_adverb"
+    },
+    {
+        "_id": {
+            "$oid": "651a5be16c0f3ddf8f384937"
+        },
+        "field": "Biology",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 6,
+        "citedPaper": 2011426,
+        "citingPaper": 244910722,
+        "context": [
+            {
+                "tokenLen": 31,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "MaR was isolated from the exudate during the resolution of mouse peritonitis by <REF> and was demonstrated to be a new pathway for macrophages to synthesize anti-inflammatory mediators from DHA (109).",
+                "citedText": "Serhan et al.",
+                "cited": true,
+                "posClass": [
+                    "before_preposition",
+                    "after_others"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "before_preposition"
+    },
+    {
+        "_id": {
+            "$oid": "651a5cac6c0f3ddf8f384947"
+        },
+        "field": "Biology",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 7,
+        "citedPaper": 2638327,
+        "citingPaper": 249261880,
+        "context": [
+            {
+                "tokenLen": 26,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "The latter seems plausible, given the optical set-up in this study, which had lateral and axial resolutions of up to 200 and 600 nm <REF>, respectively.",
+                "citedText": "[46]",
+                "cited": true,
+                "posClass": [
+                    "before_adjective",
+                    "after_adverb"
+                ],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "before_adjective"
+    },
+    {
+        "_id": {
+            "$oid": "651a5cb56c0f3ddf8f38494b"
+        },
+        "field": "Biology",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 7,
+        "citedPaper": 8044297,
+        "citingPaper": 255395419,
+        "context": [
+            {
+                "tokenLen": 24,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "Pyroptosis, a highly inflammatory form of programmed cell death (PCD) <REF>, has garnered increasing attention as it relates to innate immunity and various diseases.",
+                "citedText": "(Miao et al., 2010)",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_verb"
+                ],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "after_verb"
+    },
+    {
+        "_id": {
+            "$oid": "651a5d1c6c0f3ddf8f384955"
+        },
+        "field": "Biology",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 7,
+        "citedPaper": 14596115,
+        "citingPaper": 254392560,
+        "context": [
+            {
+                "tokenLen": 21,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "Vector adaptation has also enhanced the spread and dissemination of alphaviruses as seen in the <REF> La R\u00e9union island epidemic 168 .",
+                "citedText": "2006",
+                "cited": true,
+                "posClass": [
+                    "before_others",
+                    "after_noun"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "before_others"
+    },
+    {
+        "_id": {
+            "$oid": "651a5e936c0f3ddf8f384970"
+        },
+        "field": "Biology",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 7,
+        "citedPaper": 2638327,
+        "citingPaper": 249261880,
+        "context": [
+            {
+                "tokenLen": 26,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "The latter seems plausible, given the optical set-up in this study, which had lateral and axial resolutions of up to 200 and 600 nm <REF>, respectively.",
+                "citedText": "[46]",
+                "cited": true,
+                "posClass": [
+                    "before_adjective",
+                    "after_adverb"
+                ],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "after_adverb"
+    },
+    {
+        "_id": {
+            "$oid": "651a61f46c0f3ddf8f3849dc"
+        },
+        "field": "Biology",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 8,
+        "citedPaper": 7779856,
+        "citingPaper": 248072709,
+        "context": [
+            {
+                "tokenLen": 29,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "The microarray dataset GSE44001 for external validation consisting of 300 patients with early-stage CC (Stage I or II) was acquired from the GEO database <REF> (https://www.ncbi.nlm.http:// nih.gov/geo/).",
+                "citedText": "[10]",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_noun"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "after_noun"
+    },
+    {
+        "_id": {
+            "$oid": "651a623b6c0f3ddf8f3849e9"
+        },
+        "field": "Biology",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 8,
+        "citedPaper": 7779856,
+        "citingPaper": 258172025,
+        "context": [
+            {
+                "tokenLen": 26,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "Public transcriptome and clinical data were collected from the Cancer Genome Atlas (TCGA) and the Gene Expression Omnibus (GEO) database <REF> up to May 28, 2022.",
+                "citedText": "(24)",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_adverb"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "after_adverb"
+    },
+    {
+        "_id": {
+            "$oid": "651a634d6c0f3ddf8f384a03"
+        },
+        "field": "Biology",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 9,
+        "citedPaper": 15689019,
+        "citingPaper": 258566080,
+        "context": [
+            {
+                "tokenLen": 34,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "All reads were then mapped back to this reference using SNP-tolerant alignment as implemented in genomic short-read nucleotide alignment program (GSNAP) <REF> to ensure that reads coming from both species map with equal probabilities.",
+                "citedText": "(Wu and Nacu 2010)",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_preposition"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "after_preposition"
+    },
+    {
+        "_id": {
+            "$oid": "651a67386c0f3ddf8f384a5e"
+        },
+        "field": "Biology",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 0,
+        "citedPaper": 12655693,
+        "citingPaper": 244579690,
+        "context": [
+            {
+                "tokenLen": 34,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "An ideal 3D spheroid constitute ECM components such as proteoglycans, laminin, collagen, fibronectin, tenascin, and glycosaminoglycans <REF> which tightens the spheroid density with close ECM-cell and cell-cell anchors eventually increase interstitial fluid pressure (IFP).",
+                "citedText": "[39]",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_others"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "after_others"
+    },
+    {
+        "_id": {
+            "$oid": "651a69286c0f3ddf8f384ad3"
+        },
+        "field": "Biology",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 1,
+        "citedPaper": 9825691,
+        "citingPaper": 202669953,
+        "context": [
+            {
+                "tokenLen": 25,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "MyRF binds to enhancer sequences and directly drives the expression of myelin genes <REF>; it is necessary for remyelination after chemical and traumatic demyelinating injuries .",
+                "citedText": "(Bujalka et al., 2013)",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_pronoun"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "after_pronoun"
+    },
+    {
+        "_id": {
+            "$oid": "651a69a76c0f3ddf8f384ae1"
+        },
+        "field": "Biology",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 1,
+        "citedPaper": 2520151,
+        "citingPaper": 254756845,
+        "context": [
+            {
+                "tokenLen": 24,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "All RSV-A sequences were identified as ON1 genotype <REF>, for the presence of the 72-nucleotide (nt) insertion, in the C-terminal region of the G-glycoprotein.",
+                "citedText": "[22]",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_preposition"
+                ],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "after_preposition"
+    },
+    {
+        "_id": {
+            "$oid": "651a6ccd6c0f3ddf8f384b30"
+        },
+        "field": "Biology",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 1,
+        "citedPaper": 27783845,
+        "citingPaper": 234040041,
+        "context": [
+            {
+                "tokenLen": 32,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "According to Araus et al. <REF> plants must have the ability to maintain a photosynthetic active leaf area so as to maintain the rate of assimilate formation for seed formation and development.",
+                "citedText": "[15]",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_noun"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "after_noun"
+    },
+    {
+        "_id": {
+            "$oid": "651a778b6c0f3ddf8f384c0a"
+        },
+        "field": "Biology",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 3,
+        "citedPaper": 17385306,
+        "citingPaper": 247783145,
+        "context": [
+            {
+                "tokenLen": 37,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "While it is known that the initial response to HFD during adipose expansion is through local macrophage proliferation <REF>, there is also monocyte recruitment into the expanding adipose tissue wherein injected monocytes can home to the tissue.",
+                "citedText": "(40)",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_pronoun"
+                ],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "after_pronoun"
+    },
+    {
+        "_id": {
+            "$oid": "651a7c9a6c0f3ddf8f384c60"
+        },
+        "field": "Biology",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 3,
+        "citedPaper": 15475382,
+        "citingPaper": 247609970,
+        "context": [
+            {
+                "tokenLen": 20,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "Through this research, a novel regulatory site was identified <REF> separate from the canonical nucleotide-binding site in the \u03b3 subunit.",
+                "citedText": "(27)",
+                "cited": true,
+                "posClass": [
+                    "before_verb",
+                    "after_verb"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "before_verb"
+    },
+    {
+        "_id": {
+            "$oid": "651a7daa6c0f3ddf8f384c7c"
+        },
+        "field": "Biology",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 4,
+        "citedPaper": 4385667,
+        "citingPaper": 228085231,
+        "context": [
+            {
+                "tokenLen": 30,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "Interestingly, the deletions observed in the cod genome appear contradictory in that specific cell-surface TLR are absent thus reducing recognition capacity <REF>, although functionality in cod macrophages is not impaired.",
+                "citedText": "(5)",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_preposition"
+                ],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "after_preposition"
+    },
+    {
+        "_id": {
+            "$oid": "651a7f636c0f3ddf8f384ca7"
+        },
+        "field": "Biology",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 4,
+        "citedPaper": 5883940,
+        "citingPaper": 250729871,
+        "context": [
+            {
+                "tokenLen": 31,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "The malaria eradication research agenda initiative (malERA), in its <REF> reports, defined the major research targets that would be needed to sustain and improve effectiveness of currently available control tools 10 .",
+                "citedText": "2011",
+                "cited": true,
+                "posClass": [
+                    "before_pronoun",
+                    "after_noun"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "before_pronoun"
+    },
+    {
+        "_id": {
+            "$oid": "651a80726c0f3ddf8f384cc3"
+        },
+        "field": "Biology",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 4,
+        "citedPaper": 4385667,
+        "citingPaper": 245517968,
+        "context": [
+            {
+                "tokenLen": 25,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "This microarray design is partly based on the Atlantic cod gene set described by <REF> as well as EST sequences from various cod tissues/developmental stages.",
+                "citedText": "Star et al. [21]",
+                "cited": true,
+                "posClass": [
+                    "before_preposition",
+                    "after_adverb"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "after_adverb"
+    },
+    {
+        "_id": {
+            "$oid": "651a80e26c0f3ddf8f384cd1"
+        },
+        "field": "Biology",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 4,
+        "citedPaper": 4385667,
+        "citingPaper": 245517968,
+        "context": [
+            {
+                "tokenLen": 25,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "This microarray design is partly based on the Atlantic cod gene set described by <REF> as well as EST sequences from various cod tissues/developmental stages.",
+                "citedText": "Star et al. [21]",
+                "cited": true,
+                "posClass": [
+                    "before_preposition",
+                    "after_adverb"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "before_preposition"
+    },
+    {
+        "_id": {
+            "$oid": "651a81ff6c0f3ddf8f384ceb"
+        },
+        "field": "Biology",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 5,
+        "citedPaper": 4849605,
+        "citingPaper": 257996391,
+        "context": [
+            {
+                "tokenLen": 25,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "Tissues were reacted with TGF-\u03b21 Rabbit <REF>olyclonal antibody (1: 6000, Proteintech, China) or PDGF Rabbit Polyclonal antibody (1: 5000, Proteintech, China) at 4\u00b0C overnight.",
+                "citedText": "P",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_adjective"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "after_adjective"
+    },
+    {
+        "_id": {
+            "$oid": "651a82bc6c0f3ddf8f384cfd"
+        },
+        "field": "Biology",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 5,
+        "citedPaper": 1440722,
+        "citingPaper": 244933953,
+        "context": [
+            {
+                "tokenLen": 30,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "This paper downloads the required data from HMDD v2.0 (http://www.cuilab.cn/ hmdd, accessed date on 15 October 2021) database, which <REF> is a manual collection of human miRNA-disease association database.",
+                "citedText": "[27]",
+                "cited": true,
+                "posClass": [
+                    "before_others",
+                    "after_verb"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "before_others"
+    },
+    {
+        "_id": {
+            "$oid": "651a86fa6c0f3ddf8f384d58"
+        },
+        "field": "Biology",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 6,
+        "citedPaper": 15353550,
+        "citingPaper": 258302022,
+        "context": [
+            {
+                "tokenLen": 34,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "To selectively activate the cholinergic neurons, we generated transgenic ChAT-Cre/ChR2-eYFP mice that express light-sensitive channelrhodopsin-2 (ChR2) <REF> coupled to an enhanced yellow fluorescent protein (ChR2-eYFP) directed by the choline acetyltransferase (ChAT) promoter ( Figure 1A).",
+                "citedText": "(29)",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_verb"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "after_verb"
+    },
+    {
+        "_id": {
+            "$oid": "651a8bca6c0f3ddf8f384dc9"
+        },
+        "field": "Biology",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 7,
+        "citedPaper": 10012444,
+        "citingPaper": 257793408,
+        "context": [
+            {
+                "tokenLen": 18,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "This taxonomic approach was later criticized by <REF>, who confirmed that Laudakia is monophyletic using a super-matrix approach.",
+                "citedText": "Pyron et al. (2013)",
+                "cited": true,
+                "posClass": [
+                    "before_preposition",
+                    "after_pronoun"
+                ],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "after_pronoun"
+    },
+    {
+        "_id": {
+            "$oid": "651a8be56c0f3ddf8f384dd1"
+        },
+        "field": "Biology",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 7,
+        "citedPaper": 10012444,
+        "citingPaper": 255643275,
+        "context": [
+            {
+                "tokenLen": 21,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "However, ESD has been well documented in the genera Tarentola (Phyllodactylidae) and Phelsuma (Gekkonidae) <REF>, with unverified reports in several gekkonids.",
+                "citedText": "[24]",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_preposition"
+                ],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "after_preposition"
+    },
+    {
+        "_id": {
+            "$oid": "651a8c216c0f3ddf8f384ddf"
+        },
+        "field": "Biology",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 7,
+        "citedPaper": 34492530,
+        "citingPaper": 254773705,
+        "context": [
+            {
+                "tokenLen": 33,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "Tissue expression specificity of GhPHR genes were analyzed by using RNA sequencing data of G. hirsutum 'TM-1' <REF> during different development stages and stress treatments downloaded from the NCBI Sequence Read Archive (PRJNA490626).",
+                "citedText": "(Zhang et al., 2015)",
+                "cited": true,
+                "posClass": [
+                    "before_adjective",
+                    "after_preposition"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "before_adjective"
+    },
+    {
+        "_id": {
+            "$oid": "651a8dd06c0f3ddf8f384e23"
+        },
+        "field": "Biology",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 7,
+        "citedPaper": 10012444,
+        "citingPaper": 254072257,
+        "context": [
+            {
+                "tokenLen": 28,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "We could not perform a similar assessment for DNM site 412, as the holotype of \u2020<REF>oscincus ornatus is the only lepidosaur specimen reported from that locality.",
+                "citedText": "E",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_noun"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "after_noun"
+    },
+    {
+        "_id": {
+            "$oid": "651a8e606c0f3ddf8f384e3e"
+        },
+        "field": "Biology",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 8,
+        "citedPaper": 4472956,
+        "citingPaper": 259296288,
+        "context": [
+            {
+                "tokenLen": 36,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "To showcase ASDEC, we scanned the first human chromosome of the Yoruba population [1000Genomes dataset <REF>] and identified a number of candidate genes (top 0.5%) for which we report what has been discovered in the literature.",
+                "citedText": "(Sudmant et al. 2015)",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_others"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "after_others"
+    },
+    {
+        "_id": {
+            "$oid": "651a90bf6c0f3ddf8f384e9d"
+        },
+        "field": "Biology",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 8,
+        "citedPaper": 36850,
+        "citingPaper": 259194335,
+        "context": [
+            {
+                "tokenLen": 37,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "For C-terminal fusions with BirA, the hsaC and hsaD amplicons were digested by BamHI and Kpn2I and inserted into pcDNA3.1 MCS-BirA(R118<REF>)-HA (Addgene) 25 digested with the same enzymes to yield pcDNA3.1_h-saC_birA and pcDNA3.1_hsaD_birA, respectively.",
+                "citedText": "G",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_noun"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "after_noun"
+    },
+    {
+        "_id": {
+            "$oid": "651a91796c0f3ddf8f384ebf"
+        },
+        "field": "Biology",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 9,
+        "citedPaper": 12805384,
+        "citingPaper": 259185234,
+        "context": [
+            {
+                "tokenLen": 26,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "We removed ASVs that have less than 1% prevalence, less than 0.005% relative abundance <REF> and samples with less than a total sum of 100 reads.",
+                "citedText": "[37]",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_others"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "after_others"
+    },
+    {
+        "_id": {
+            "$oid": "651a92746c0f3ddf8f384f1c"
+        },
+        "field": "Biology",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 9,
+        "citedPaper": 1998172,
+        "citingPaper": 257175785,
+        "context": [
+            {
+                "tokenLen": 26,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "Hence, to overcome these issues the availability of genome sequence (900 Mb) allows functional genomics and rapid breeding via dissecting complex traits (Tomato <REF> Consortium, 2012).",
+                "citedText": "Genome",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_noun"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "after_noun"
+    },
+    {
+        "_id": {
+            "$oid": "651a94526c0f3ddf8f384f96"
+        },
+        "field": "Biology",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 1,
+        "citedPaper": 9976665,
+        "citingPaper": 214180232,
+        "context": [
+            {
+                "tokenLen": 25,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "This study is in line with the study result conducted by <REF> that abnormal BMI such as undernutrition, overnutrition, and obesity affect fertility in women.",
+                "citedText": "Fontana et al. (2016)",
+                "cited": true,
+                "posClass": [
+                    "before_preposition",
+                    "after_preposition"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "after_preposition"
+    },
+    {
+        "_id": {
+            "$oid": "651a96ac6c0f3ddf8f384fba"
+        },
+        "field": "Biology",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 1,
+        "citedPaper": 160010102,
+        "citingPaper": 238234422,
+        "context": [
+            {
+                "tokenLen": 37,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "A nuclear anchoring protein ZC3H13 in RNA m 6 A methylation complex was identified recently <REF>, highlighting that nuclear localization of m 6 A regulatory complex is critical for m 6 A modification and its biological function.",
+                "citedText": "[66]",
+                "cited": true,
+                "posClass": [
+                    "before_adverb",
+                    "after_noun"
+                ],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "before_adverb"
+    },
+    {
+        "_id": {
+            "$oid": "651a96d56c0f3ddf8f384fc0"
+        },
+        "field": "Biology",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 1,
+        "citedPaper": 160010102,
+        "citingPaper": 238234422,
+        "context": [
+            {
+                "tokenLen": 37,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "A nuclear anchoring protein ZC3H13 in RNA m 6 A methylation complex was identified recently <REF>, highlighting that nuclear localization of m 6 A regulatory complex is critical for m 6 A modification and its biological function.",
+                "citedText": "[66]",
+                "cited": true,
+                "posClass": [
+                    "before_adverb",
+                    "after_noun"
+                ],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "after_noun"
+    },
+    {
+        "_id": {
+            "$oid": "651a97c16c0f3ddf8f384fd1"
+        },
+        "field": "Biology",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 2,
+        "citedPaper": 8106572,
+        "citingPaper": 232112713,
+        "context": [
+            {
+                "tokenLen": 28,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "Considering the technical difficulty of efficient terminal inhibition <REF>, we were unable to estimate the impact of the corticothalamic projections on the task-specific modulation of thalamic neuronal activity.",
+                "citedText": "(Mahn et al., 2016)",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_pronoun"
+                ],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "after_pronoun"
+    },
+    {
+        "_id": {
+            "$oid": "651a97cf6c0f3ddf8f384fd6"
+        },
+        "field": "Biology",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 2,
+        "citedPaper": 18784917,
+        "citingPaper": 226301006,
+        "context": [
+            {
+                "tokenLen": 36,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "Yuan T et al. reported miRNAs as the most abundant plasma extracellular RNA species followed by piR-NAs in a study of cancer patients <REF>, whereas piRNA was among the least abundant RNA species in our study.",
+                "citedText": "[41]",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_preposition"
+                ],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "after_preposition"
+    },
+    {
+        "_id": {
+            "$oid": "651a98b26c0f3ddf8f384fec"
+        },
+        "field": "Biology",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 2,
+        "citedPaper": 8106572,
+        "citingPaper": 236983696,
+        "context": [
+            {
+                "tokenLen": 33,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "However, in some cases axonal optogenetic suppression causes anomalous synaptic activation, such as when using the light-activated proton pump eArch or ion channel GtACR <REF>, requiring independent confirmation of results with somatic suppression.",
+                "citedText": "(Mahn et al., 2016)",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_verb"
+                ],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "after_verb"
+    },
+    {
+        "_id": {
+            "$oid": "651a9b8d6c0f3ddf8f385030"
+        },
+        "field": "Biology",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 2,
+        "citedPaper": 2063203,
+        "citingPaper": 246287805,
+        "context": [
+            {
+                "tokenLen": 30,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "With direct projections to the lateral central amygdala <REF>, DRN dopaminergic neurons would be well-positioned to influence the broader fear network and could interact with DRN 5-HT through local modulation.",
+                "citedText": "(Matthews et al., 2016)",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_noun"
+                ],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "after_noun"
+    },
+    {
+        "_id": {
+            "$oid": "651a9bf16c0f3ddf8f38503d"
+        },
+        "field": "Biology",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 2,
+        "citedPaper": 1930291,
+        "citingPaper": 239470489,
+        "context": [
+            {
+                "tokenLen": 21,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "In fact, elevated serine levels act as an adaptative response to oxidative stress <REF>, thus promoting cell survival in stress conditions.",
+                "citedText": "[50]",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_adverb"
+                ],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "after_adverb"
+    },
+    {
+        "_id": {
+            "$oid": "651a9d486c0f3ddf8f38505d"
+        },
+        "field": "Biology",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 3,
+        "citedPaper": 16928129,
+        "citingPaper": 247602258,
+        "context": [
+            {
+                "tokenLen": 32,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "If the most frequent species reported have previously been B. longum, B. breve and B. bifidum <REF>, in the present study we report other species, such as B. adolescentis and B. peudocatenulatum.",
+                "citedText": "[50]",
+                "cited": true,
+                "posClass": [
+                    "before_verb",
+                    "after_preposition"
+                ],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "after_preposition"
+    },
+    {
+        "_id": {
+            "$oid": "651a9e056c0f3ddf8f38506f"
+        },
+        "field": "Biology",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 3,
+        "citedPaper": 1592249,
+        "citingPaper": 249709657,
+        "context": [
+            {
+                "tokenLen": 33,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "Gene Ontology (GO) enrichment analyses were performed on the Dicots Plaza 4.5 platform <REF> using standard settings with differentially expressed genes showing log2 fold-change >1 or <-1 and padj < 0.01 as an input.",
+                "citedText": "(Van Bel et al., 2018)",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_verb"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "after_verb"
+    },
+    {
+        "_id": {
+            "$oid": "651a9ecb6c0f3ddf8f385082"
+        },
+        "field": "Biology",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 3,
+        "citedPaper": 1592249,
+        "citingPaper": 243846675,
+        "context": [
+            {
+                "tokenLen": 19,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "This is a significant increase compared to their counterparts in PLAZA 4.0 <REF>, with 29 and 55 species, respectively.",
+                "citedText": "(19)",
+                "cited": true,
+                "posClass": [
+                    "before_others",
+                    "after_preposition"
+                ],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "before_others"
+    },
+    {
+        "_id": {
+            "$oid": "651a9fa86c0f3ddf8f385097"
+        },
+        "field": "Biology",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 3,
+        "citedPaper": 51715390,
+        "citingPaper": 258293768,
+        "context": [
+            {
+                "tokenLen": 28,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "As epithelial-tomesenchymal transition (EMT) plays a critical role in carcinogenesis <REF>, especially in the process of migration and invasion, we further investigated if CsGRN caused EMT in HIBECs.",
+                "citedText": "[18]",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_adverb"
+                ],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "after_adverb"
+    },
+    {
+        "_id": {
+            "$oid": "651aa14f6c0f3ddf8f3850b2"
+        },
+        "field": "Biology",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 4,
+        "citedPaper": 12205421,
+        "citingPaper": 248989984,
+        "context": [
+            {
+                "tokenLen": 34,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "The following peptides (Fig. 1A) were energy minimized applying the CHARMM27 forcefield <REF>: 331-RISNCVADYSVLYNS-345 (pep01), 537-QQFGRDIAD-545 (pep02), 580-NQVAVLYQDVN-590 (pep03), 674-GAENSVAYSNNSIA-687 (pep04), 730-YGSFCTQLNR-739 (pep05), 757-AQVKQIYKT-765 (pep06) 821-RDLICAQKFNGLTVLPPLLTDE-842 (pep07), 864-AGAALQIPFA-873 (pep08), 938-KQLSSNFGAISSVLNDILSRLDPPEAEVQIDR-969 (pep09), and 1004-SECVLGQSKRVDFCGKG-1020 (pep10).",
+                "citedText": "[28]",
+                "cited": true,
+                "posClass": [
+                    "before_verb",
+                    "after_adjective"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "after_adjective"
+    },
+    {
+        "_id": {
+            "$oid": "651aa2336c0f3ddf8f3850be"
+        },
+        "field": "Biology",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 4,
+        "citedPaper": 53216721,
+        "citingPaper": 251647623,
+        "context": [
+            {
+                "tokenLen": 26,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "For protein mode (--prot_seq), we used the zebrafish protein sequences from OrthoDB v10.1 <REF>, whereas the transcript mode (--bam) used the species-specific RNAseq alignments.",
+                "citedText": "(Kriventseva et al. 2019)",
+                "cited": true,
+                "posClass": [
+                    "before_others",
+                    "after_preposition"
+                ],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "before_others"
+    },
+    {
+        "_id": {
+            "$oid": "651aa3156c0f3ddf8f3850ca"
+        },
+        "field": "Biology",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 4,
+        "citedPaper": 53216721,
+        "citingPaper": 258301812,
+        "context": [
+            {
+                "tokenLen": 31,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "To compare our final MAKER2 annotation to the model beetle T. castaneum annotation, we used orthoDB <REF> and translated protein sequences from the two species (version Tcas_5.2) and compared them locally.",
+                "citedText": "(Kriventseva et al. 2018)",
+                "cited": true,
+                "posClass": [
+                    "before_pronoun",
+                    "after_others"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "before_pronoun"
+    },
+    {
+        "_id": {
+            "$oid": "651aa6066c0f3ddf8f3850f0"
+        },
+        "field": "Biology",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 4,
+        "citedPaper": 4061474,
+        "citingPaper": 256628577,
+        "context": [
+            {
+                "tokenLen": 22,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "For example, in the study by <REF>, male and female mice exhibited a significant difference in the abundance of several microbial species.",
+                "citedText": "Org et al. [15]",
+                "cited": true,
+                "posClass": [
+                    "before_preposition",
+                    "after_noun"
+                ],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "before_preposition"
+    },
+    {
+        "_id": {
+            "$oid": "651aa6156c0f3ddf8f3850f4"
+        },
+        "field": "Biology",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 5,
+        "citedPaper": 4673017,
+        "citingPaper": 248701157,
+        "context": [
+            {
+                "tokenLen": 29,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "The antibiotic resistance phenotypes in microbiota can be directly linked to specific taxa and provide useful phenotypic information <REF> that cannot readily be derived from culture independent studies.",
+                "citedText": "[97]",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_others"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "after_others"
+    },
+    {
+        "_id": {
+            "$oid": "651aa7386c0f3ddf8f38510a"
+        },
+        "field": "Biology",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 5,
+        "citedPaper": 215803114,
+        "citingPaper": 251342508,
+        "context": [
+            {
+                "tokenLen": 21,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "ELISA was performed following the method published by Stadlbauer D et.al <REF> with some modifications using a test kit developed in-house.",
+                "citedText": "[17]",
+                "cited": true,
+                "posClass": [
+                    "before_verb",
+                    "after_preposition"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "after_preposition"
+    },
+    {
+        "_id": {
+            "$oid": "651aaa176c0f3ddf8f38513e"
+        },
+        "field": "Biology",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 5,
+        "citedPaper": 215803114,
+        "citingPaper": 251342508,
+        "context": [
+            {
+                "tokenLen": 21,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "ELISA was performed following the method published by Stadlbauer D et.al <REF> with some modifications using a test kit developed in-house.",
+                "citedText": "[17]",
+                "cited": true,
+                "posClass": [
+                    "before_verb",
+                    "after_preposition"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "before_verb"
+    },
+    {
+        "_id": {
+            "$oid": "651aabf86c0f3ddf8f38517a"
+        },
+        "field": "Biology",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 6,
+        "citedPaper": 3706991,
+        "citingPaper": 253071215,
+        "context": [
+            {
+                "tokenLen": 27,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "Dilute acid hydrolysis for xylitol production is a low-cost, fast, highly effective, and easily operable method to remove hemicellulose <REF>, although waste disposal needs to be investigated.",
+                "citedText": "(Kumar and Sharma, 2017)",
+                "cited": true,
+                "posClass": [
+                    "before_adverb",
+                    "after_preposition"
+                ],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "before_adverb"
+    },
+    {
+        "_id": {
+            "$oid": "651aae436c0f3ddf8f3851c7"
+        },
+        "field": "Biology",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 7,
+        "citedPaper": 4670665,
+        "citingPaper": 258763129,
+        "context": [
+            {
+                "tokenLen": 34,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "However, when the sizes of tumors are less than 1 cm, the commonly used PET and CT imaging techniques are clinically unreliable <REF>, while the relatively low sensitivity of MRI limited the detection process.",
+                "citedText": "(18)",
+                "cited": true,
+                "posClass": [
+                    "before_adjective",
+                    "after_preposition"
+                ],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "before_adjective"
+    },
+    {
+        "_id": {
+            "$oid": "651aae4e6c0f3ddf8f3851cc"
+        },
+        "field": "Biology",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 7,
+        "citedPaper": 92521600,
+        "citingPaper": 258050621,
+        "context": [
+            {
+                "tokenLen": 34,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "Raw reads were transferred to a local high-performance computing cluster and base called using Guppy (v. 5.0.7) <REF> in High Accuracy (HAC) mode using an NVIDIA A100-PCIE-40GB graphics card for enhanced high accuracy performance.",
+                "citedText": "[25]",
+                "cited": true,
+                "posClass": [
+                    "before_others",
+                    "after_preposition"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "before_others"
+    },
+    {
+        "_id": {
+            "$oid": "651ab0656c0f3ddf8f385201"
+        },
+        "field": "Biology",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 7,
+        "citedPaper": 215619888,
+        "citingPaper": 257258297,
+        "context": [
+            {
+                "tokenLen": 23,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "G-blocks that include the annealing regions of N1 and N2 primers-probes were synthesized based on the published sequences of SARS-CoV-2 <REF> (Table S3).",
+                "citedText": "(Forster et al., 2020)",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_noun"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ],
+        "selectedPOSClass": "after_noun"
+    }
+]

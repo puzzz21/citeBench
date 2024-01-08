@@ -1,0 +1,65 @@
+[
+    {
+        "field": "Biology",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 7,
+        "class": "start"
+    },
+    {
+        "field": "Materials Science",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 0,
+        "class": "start"
+    },
+    {
+        "field": "Materials Science",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 3,
+        "class": "middle"
+    },
+    {
+        "field": "Materials Science",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 7,
+        "class": "start"
+    },
+    {
+        "field": "Materials Science",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 0,
+        "class": "middle"
+    },
+    {
+        "field": "Materials Science",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 0,
+        "class": "start"
+    },
+    {
+        "field": "Materials Science",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 1,
+        "class": "middle"
+    }
+]

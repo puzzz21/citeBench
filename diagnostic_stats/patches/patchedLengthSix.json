@@ -1,0 +1,704 @@
+[
+    {
+        "_id": {
+            "$oid": "65185a4477318a92df7b1822"
+        },
+        "field": "Biology",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 1,
+        "citedPaper": 33757870,
+        "citingPaper": 16924941,
+        "context": [
+            {
+                "tokenLen": 39,
+                "positionClass": "end",
+                "lengthClass": "long",
+                "citedSent": "The increase of the cyclin D1 transcription and down-regulation of GSK-3\u03b2 through Ras-dependent signaling pathways after mitogenic stimuli gave precise and fast control of the total amount of cyclin D1 protein, subsequently correlating with the Cdk4/6cyclin D1 activity <REF>.",
+                "citedText": "(Casanovas et al., 2000)",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65185a4977318a92df7b1827"
+        },
+        "field": "Biology",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 8,
+        "citedPaper": 10023293,
+        "citingPaper": 255500946,
+        "context": [
+            {
+                "tokenLen": 17,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "The TMEM175 gene is located on chromosome 4 in the TMEM175/GAK/DGKQ GWAS locus associated with PD <REF>.",
+                "citedText": "[9]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65185a4c77318a92df7b182b"
+        },
+        "field": "Biology",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 6,
+        "citedPaper": 218764951,
+        "citingPaper": 252623999,
+        "context": [
+            {
+                "tokenLen": 28,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "This RBD-blocking capability is distinct from that in an earlier study conducted in Europe, which showed that pre-existing humoral immunity in children mainly targets the S2 subunit <REF>.",
+                "citedText": "[14]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65185aa277318a92df7b1847"
+        },
+        "field": "Chemistry",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 2,
+        "citedPaper": 21797671,
+        "citingPaper": 32439677,
+        "context": [
+            {
+                "tokenLen": 47,
+                "positionClass": "end",
+                "lengthClass": "long",
+                "citedSent": "In the case of electrons, the calculated transition from the trap level of the best electron trap (Ti6c subsurf in Table 4) to the conduction band minimum (CBM) is 1.25 eV, in accordance with the experimental value of 1.37 eV, measured with transient absorption (TA) spectroscopy <REF>.",
+                "citedText": "[72]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65185aa477318a92df7b184b"
+        },
+        "field": "Chemistry",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 4,
+        "citedPaper": 13242655,
+        "citingPaper": 245122712,
+        "context": [
+            {
+                "tokenLen": 43,
+                "positionClass": "end",
+                "lengthClass": "long",
+                "citedSent": "Aminooxyacetic acid (AOAA) inhibits pyridoxal-5 \u2032 -phosphate-dependent transaminases, which mediate the interconversion of \u03b1-amino and \u03b1-keto acids in a reductive amination, in which the redox balance of the reaction is maintained by concomitant conversion of glutamate (nitrogen donor) into \u03b1-ketoglutaric acid (\u03b1-KG) <REF>.",
+                "citedText": "[16]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65185aa977318a92df7b185f"
+        },
+        "field": "Computer Science",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 0,
+        "citedPaper": 18711309,
+        "citingPaper": 202144509,
+        "context": [
+            {
+                "tokenLen": 15,
+                "positionClass": "end",
+                "lengthClass": "short",
+                "citedSent": "Similar work has also been reported using the Millstone Hill Incoherent Scatter radar system <REF>.",
+                "citedText": "(Holt et al., 2000)",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65185aad77318a92df7b1863"
+        },
+        "field": "Computer Science",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 9,
+        "citedPaper": 10032711,
+        "citingPaper": 255341047,
+        "context": [
+            {
+                "tokenLen": 17,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "However, wide-famous algorithms such as Random Forest and Gradient Tree Boosting are based on decision trees <REF>.",
+                "citedText": "[19]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65185ab377318a92df7b1869"
+        },
+        "field": "Computer Science",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 0,
+        "citedPaper": 24010435,
+        "citingPaper": 15642374,
+        "context": [
+            {
+                "tokenLen": 38,
+                "positionClass": "end",
+                "lengthClass": "long",
+                "citedSent": "The effects of prolonged exposure of potentially susceptible tissues, such as may occur in species with a relatively long lifespan (including domestic ruminants used for the production of milk or offspring for meat, and humans) are uncertain <REF>.",
+                "citedText": "(Suk et al. 2002)",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65185b0777318a92df7b1876"
+        },
+        "field": "Computer Science",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 6,
+        "citedPaper": 12867940,
+        "citingPaper": 245661524,
+        "context": [
+            {
+                "tokenLen": 43,
+                "positionClass": "end",
+                "lengthClass": "long",
+                "citedSent": "To chronically monitor the activity of the same population of hippocampal CA1 cells, we implanted two-to fourmonth-old male and female GCaMP6f mice [Tg(Thy1-GCaMP6f)GP5.17Dkim JAX stock #025393] with an optical window and head-bar using a protocol adapted from previously published methods <REF>.",
+                "citedText": "(Dombeck et al., 2010)",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65185b0777318a92df7b187a"
+        },
+        "field": "Computer Science",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 7,
+        "citedPaper": 12948392,
+        "citingPaper": 248609151,
+        "context": [
+            {
+                "tokenLen": 21,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "Likewise, technological impacts rely on the degree to which it is utilized to conduct business activities under the TOE Framework <REF>.",
+                "citedText": "[70]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65185b3577318a92df7b1891"
+        },
+        "field": "Computer Science",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 0,
+        "citedPaper": 182199199,
+        "citingPaper": 248792084,
+        "context": [
+            {
+                "tokenLen": 44,
+                "positionClass": "end",
+                "lengthClass": "long",
+                "citedSent": "Under the uncertain and stochastic environments of UAVenabled aerial MEC systems, the decision-making problems can be typically modeled as a Markov Decision Process (MDP), where the next state of the system is only related to the current state, regardless of the historical states <REF>.",
+                "citedText": "[142]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65185b9277318a92df7b18c4"
+        },
+        "field": "Medicine",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 1,
+        "citedPaper": 16693019,
+        "citingPaper": 91548092,
+        "context": [
+            {
+                "tokenLen": 41,
+                "positionClass": "end",
+                "lengthClass": "long",
+                "citedSent": "Pan-cancer analyses enable a better understanding of the genomic commonalities and differences across tumor types and subtypes, which makes it possible to extend diagnosis and treatment from one cancer type to another with a similar genomic profile (Cline, et al., <REF>).",
+                "citedText": "2013",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65185bfd77318a92df7b1928"
+        },
+        "field": "Materials Science",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 7,
+        "citedPaper": 53978695,
+        "citingPaper": 257152589,
+        "context": [
+            {
+                "tokenLen": 48,
+                "positionClass": "end",
+                "lengthClass": "long",
+                "citedSent": "The 2D peak at 2680 cm -1 is the second-order overtone of the D peak, which requires two-phonon scattering for activation, while the other two peaks at ~2950 cm -1 and ~3100 cm -1 are corresponding to the overtone of D + G peaks and G peak, respectively <REF>.",
+                "citedText": "[3]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65185c0477318a92df7b192d"
+        },
+        "field": "Materials Science",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 1,
+        "citedPaper": 136919429,
+        "citingPaper": 221140754,
+        "context": [
+            {
+                "tokenLen": 39,
+                "positionClass": "end",
+                "lengthClass": "long",
+                "citedSent": "The order of increase in the energies of I 1 , I 2 and extrinsic SF manifests itself in the same order in terms of the number of influenced planes neighboring the SF plane Wang W. Y. et al., <REF>).",
+                "citedText": "2014",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65185c1e77318a92df7b193c"
+        },
+        "field": "Materials Science",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 1,
+        "citedPaper": 58006815,
+        "citingPaper": 248512758,
+        "context": [
+            {
+                "tokenLen": 14,
+                "positionClass": "end",
+                "lengthClass": "short",
+                "citedSent": "The dehydrogenation process has been used to generate spin on the graphene nanostructure <REF>.",
+                "citedText": "[30]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65185c3b77318a92df7b1945"
+        },
+        "field": "Materials Science",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 5,
+        "citedPaper": 10295696,
+        "citingPaper": 252391563,
+        "context": [
+            {
+                "tokenLen": 8,
+                "positionClass": "end",
+                "lengthClass": "short",
+                "citedSent": "Increased MRT means a slower drug release <REF>.",
+                "citedText": "[57]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65185c4277318a92df7b194c"
+        },
+        "field": "Materials Science",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 6,
+        "citedPaper": 52130864,
+        "citingPaper": 251275240,
+        "context": [
+            {
+                "tokenLen": 25,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "By designing the shape, size, and material of the metasurface structure, the optical properties such as phase, amplitude, polarization, and coherence can be modulated <REF>.",
+                "citedText": "[6]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65185c9677318a92df7b1967"
+        },
+        "field": "Materials Science",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 8,
+        "citedPaper": 3466199,
+        "citingPaper": 254564601,
+        "context": [
+            {
+                "tokenLen": 18,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "Defects in 2D TMDs provide a controllable degree of freedom for tuning their electronic and structural properties <REF>.",
+                "citedText": "[9]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65185cad77318a92df7b1978"
+        },
+        "field": "Physics",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 0,
+        "citedPaper": 118981963,
+        "citingPaper": 119210788,
+        "context": [
+            {
+                "tokenLen": 15,
+                "positionClass": "end",
+                "lengthClass": "short",
+                "citedSent": "In fact, these interactions eliminate the phase transition altogether, replacing it with a crossover <REF>.",
+                "citedText": "[91]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65185d2a77318a92df7b1983"
+        },
+        "field": "Physics",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 2,
+        "citedPaper": 119659352,
+        "citingPaper": 119624842,
+        "context": [
+            {
+                "tokenLen": 38,
+                "positionClass": "end",
+                "lengthClass": "long",
+                "citedSent": "The description of the (projectivized) Hilbert space by different classes of entanglement corresponds to a stratification of the ambient space by algebraic varieties with natural geometric inclusions among those varieties (the \"onion like\" structure of <REF>).",
+                "citedText": "[37]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65185d7c77318a92df7b198f"
+        },
+        "field": "Physics",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 4,
+        "citedPaper": 3261201,
+        "citingPaper": 255440683,
+        "context": [
+            {
+                "tokenLen": 13,
+                "positionClass": "end",
+                "lengthClass": "short",
+                "citedSent": "By evaluating (C.2) for n = 1, one obtains (3.10), first found in <REF>.",
+                "citedText": "[98]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65185d7d77318a92df7b1993"
+        },
+        "field": "Physics",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 0,
+        "citedPaper": 118368661,
+        "citingPaper": 118966338,
+        "context": [
+            {
+                "tokenLen": 51,
+                "positionClass": "end",
+                "lengthClass": "long",
+                "citedSent": "In such a situation, for the case of inflation and preheating driven by the conventional quadratic potential, the behavior of the background as well as the curvature perturbation associated with a typical large scale mode of cosmological interest can be solved for analytically (in this context, see, for instance, Ref. <REF>).",
+                "citedText": "[37]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65185d8b77318a92df7b1997"
+        },
+        "field": "Physics",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 5,
+        "citedPaper": 119305593,
+        "citingPaper": 232417403,
+        "context": [
+            {
+                "tokenLen": 34,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "Knowing the domain of analyticity for CFT correlators could also be used to derive double-dispersion formulas for CFT four-point functions and to study how anomalous thresholds appear in the flat-space limit of AdS/CFT <REF>.",
+                "citedText": "[114]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65185da977318a92df7b19a7"
+        },
+        "field": "Physics",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 1,
+        "citedPaper": 89620130,
+        "citingPaper": 235428602,
+        "context": [
+            {
+                "tokenLen": 44,
+                "positionClass": "end",
+                "lengthClass": "long",
+                "citedSent": "Makey et al. obtains Fourier holography by preshaping the wavefront to locally reduce the Fresnel diffraction, which combines complex images with complete depth control, allowing random phases to be included at each depth without changing the specific depth projection of the image at <REF>.",
+                "citedText": "[6]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65185dd477318a92df7b19c9"
+        },
+        "field": "Mathematics",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 0,
+        "citedPaper": 122274033,
+        "citingPaper": 12754335,
+        "context": [
+            {
+                "tokenLen": 40,
+                "positionClass": "end",
+                "lengthClass": "long",
+                "citedSent": "When the total logarithmic probability is multiplied by k B l n l n1 j j jk jk B jjk P P N i Q kT (2.3) the aforementioned additive statistical measure S for the entire system is obtained <REF>.",
+                "citedText": "(24)",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65185df577318a92df7b19d8"
+        },
+        "field": "Mathematics",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 6,
+        "citedPaper": 58270,
+        "citingPaper": 236150241,
+        "context": [
+            {
+                "tokenLen": 42,
+                "positionClass": "end",
+                "lengthClass": "long",
+                "citedSent": "In an attempt to solve this difficulty, one possibility for a low-rank representation of a given data matrix is to use a subset of the original columns and rows of the matrix itself: a CUR decomposition; see, e.g., Mahoney and Drineas <REF>.",
+                "citedText": "[10]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65185dfb77318a92df7b19e1"
+        },
+        "field": "Mathematics",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 0,
+        "citedPaper": 209370839,
+        "citingPaper": 254821306,
+        "context": [
+            {
+                "tokenLen": 66,
+                "positionClass": "end",
+                "lengthClass": "long",
+                "citedSent": "Then, for every r \u2208 [2, \u221e), every N \u2208 N, and every choice of finitely many a 1 , . . . , a K \u2208 N \u221e with Moreover, if we denote by C(N , r ) the best constant in this inequality, then we have Note again that for N = 1 these estimates (up to constants) are covered by (the right hand side) of Khintchine's inequality from <REF>.",
+                "citedText": "(2)",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true
+            }
+        ]
+    },
+]

@@ -1,0 +1,749 @@
+[
+    {
+        "_id": {
+            "$oid": "6518d1914ccc255d15f5d10e"
+        },
+        "field": "Biology",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 5,
+        "citedPaper": 22836818,
+        "citingPaper": 16112012,
+        "context": [
+            {
+                "tokenLen": 33,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "<REF> analyzed the transcriptional response of the wild-type, HOT1, MSN2 MSN4, and HOG1 deleted strains of S. cerevisiae to osmotic stress created by exposing cells to 0.5 or 0.7M NaCl or 0.95M sorbitol.",
+                "citedText": "Rep et al. (2000)",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518d1e04ccc255d15f5d11d"
+        },
+        "field": "Biology",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 8,
+        "citedPaper": 6115549,
+        "citingPaper": 252633800,
+        "context": [
+            {
+                "tokenLen": 16,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "Nevertheless, a different study <REF> has shown that IDO1 metabolites are capable of inhibiting NK activation.",
+                "citedText": "[48]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518d1f94ccc255d15f5d123"
+        },
+        "field": "Biology",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 7,
+        "citedPaper": 9186422,
+        "citingPaper": 253968190,
+        "context": [
+            {
+                "tokenLen": 31,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "Cooper et al. <REF> leveraged both patient and control population data to identify regions of the human genome which are enriched for CNVs in patient population identifying 59 putative pathogenic regions.",
+                "citedText": "[8]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518d21b4ccc255d15f5d12d"
+        },
+        "field": "Biology",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 8,
+        "citedPaper": 49667613,
+        "citingPaper": 259269864,
+        "context": [
+            {
+                "tokenLen": 33,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "Then, Cell Profiler (v3.1.9) <REF> was used for generation of a cell mask for single-cell segmentation using the images for propidium iodide (cell nuclei) and artifacts were removed for further analyses if necessary.",
+                "citedText": "[38]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518d2424ccc255d15f5d13d"
+        },
+        "field": "Chemistry",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 3,
+        "citedPaper": 25538053,
+        "citingPaper": 225062835,
+        "context": [
+            {
+                "tokenLen": 26,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "In follow-up studies, <REF> synthesized Lys48-linked, untethered poly-Ub of various lengths (from Ub 2 to Ub 8 ) and examined their effects on in vitro proteasomal function.",
+                "citedText": "Piotrowski et al. (1997)",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518d2644ccc255d15f5d147"
+        },
+        "field": "Chemistry",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 4,
+        "citedPaper": 1083811,
+        "citingPaper": 39469200,
+        "context": [
+            {
+                "tokenLen": 22,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "Subsequently Lyon et al. <REF> showed that heparin and highly sulphated liver HS bind both human TGF-\u03b21 and TGF-\u03b22, but not TGF-\u03b23.",
+                "citedText": "[13]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518d2a64ccc255d15f5d150"
+        },
+        "field": "Chemistry",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 7,
+        "citedPaper": 10941193,
+        "citingPaper": 73466390,
+        "context": [
+            {
+                "tokenLen": 23,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "As expected <REF>, the unilocular LD in control adipocytes was coated with PLIN1 and no significant PLIN5 staining was detected (data not shown).",
+                "citedText": "(43)",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518d2c74ccc255d15f5d16b"
+        },
+        "field": "Chemistry",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 6,
+        "citedPaper": 23234711,
+        "citingPaper": 227102409,
+        "context": [
+            {
+                "tokenLen": 29,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "<REF> proposed a polarization-based demodulation technique to obtain amplitude and phase information on a high-frequency (tens of kHz) modulated signal from a single acquisition of a camera image.",
+                "citedText": "Panigrahi et al. 139",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518d2ce4ccc255d15f5d170"
+        },
+        "field": "Chemistry",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 7,
+        "citedPaper": 4342057,
+        "citingPaper": 221737269,
+        "context": [
+            {
+                "tokenLen": 16,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "<REF> demonstrated that at T = 2 K, a magnetic field completely suppresses S Coeff to nil.",
+                "citedText": "Wang et al. [72]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518d2f64ccc255d15f5d19a"
+        },
+        "field": "Computer Science",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 0,
+        "citedPaper": 15491802,
+        "citingPaper": 21736196,
+        "context": [
+            {
+                "tokenLen": 26,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "Recently, Seq2seq neural network models are proposed for user simulation <REF> that utilize additional state tracking signals and encode dialogue turns in a more coarse way.",
+                "citedText": "(Asri et al., 2016)",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_preposition"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518d2f74ccc255d15f5d19e"
+        },
+        "field": "Computer Science",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 7,
+        "citedPaper": 3725815,
+        "citingPaper": 259187769,
+        "context": [
+            {
+                "tokenLen": 22,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "Besides, inspired by the success of relative positional encoding in sequence learning <REF>, we develop rel (\u00b7, \u00b7) to encode relative-time information.",
+                "citedText": "[36]",
+                "cited": true,
+                "posClass": [
+                    "before_verb",
+                    "after_pronoun"
+                ],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518d4894ccc255d15f5d1c4"
+        },
+        "field": "Medicine",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 0,
+        "citedPaper": 10586198,
+        "citingPaper": 9911096,
+        "context": [
+            {
+                "tokenLen": 33,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "The details of this mechanism have been investigated in <REF>, but it is yet unknown whether zinc ions bind directly to ZRT1 to induce its ubiquitination, or whether other zinc-binding proteins are involved.",
+                "citedText": "[26]",
+                "cited": true,
+                "posClass": [
+                    "before_preposition",
+                    "after_others"
+                ],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518d51f4ccc255d15f5d1d7"
+        },
+        "field": "Medicine",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 3,
+        "citedPaper": 15529338,
+        "citingPaper": 305972,
+        "context": [
+            {
+                "tokenLen": 19,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "Brown et al., <REF> extensively reviewed the potential neurotoxic mechanisms by which certain pesticide chemicals may influence PD risk.",
+                "citedText": "[19]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518d5494ccc255d15f5d1e0"
+        },
+        "field": "Medicine",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 3,
+        "citedPaper": 4928309,
+        "citingPaper": 256663855,
+        "context": [
+            {
+                "tokenLen": 17,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "<REF> expanded our depth of genomic knowledge of the species by sequencing over 1000 S. cerevisiae isolates.",
+                "citedText": "Peter et al. (2018)",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518d56e4ccc255d15f5d200"
+        },
+        "field": "Materials Science",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 0,
+        "citedPaper": 119331794,
+        "citingPaper": 204997269,
+        "context": [
+            {
+                "tokenLen": 28,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "To determine the plasma resonance we measure the reflection coefficient of infrared radiation incident on the ab-plane at a large angle (80 o ) with the surface normal <REF>.",
+                "citedText": "[8]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518d5844ccc255d15f5d21e"
+        },
+        "field": "Materials Science",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 1,
+        "citedPaper": 22167175,
+        "citingPaper": 10754466,
+        "context": [
+            {
+                "tokenLen": 29,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "Pfefer et al. <REF>, including data of other investigators for comparison, found a wide range of blood coagulation \"threshold temperatures\" ( Fig. 1 shows their Arrhenius rate curves).",
+                "citedText": "[4]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518d5cf4ccc255d15f5d242"
+        },
+        "field": "Materials Science",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 6,
+        "citedPaper": 14636287,
+        "citingPaper": 195750776,
+        "context": [
+            {
+                "tokenLen": 29,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "This correlated percolation model <REF> is a very simplified model for cities, but nevertheless suggested the possible relevance of simple statistical physics approaches for systems as complex as cities.",
+                "citedText": "[13]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518d5da4ccc255d15f5d255"
+        },
+        "field": "Materials Science",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 0,
+        "citedPaper": 15571955,
+        "citingPaper": 39076017,
+        "context": [
+            {
+                "tokenLen": 28,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "This linear relationship has been already observed in experiments for growing needles, see <REF>, and our computations might help to relate parameters in the theoretical model to experiments.",
+                "citedText": "[21]",
+                "cited": true,
+                "posClass": [
+                    "before_verb",
+                    "after_others"
+                ],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518d5e94ccc255d15f5d278"
+        },
+        "field": "Materials Science",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 1,
+        "citedPaper": 55903927,
+        "citingPaper": 251040312,
+        "context": [
+            {
+                "tokenLen": 31,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "In addition, Andrienko et al. <REF> predicted a jump of the slip length at low temperatures because of prewetting transition at the interface between a binary mixture and a solid wall.",
+                "citedText": "[8]",
+                "cited": true,
+                "posClass": [
+                    "before_adjective",
+                    "after_verb"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518d6514ccc255d15f5d2a2"
+        },
+        "field": "Materials Science",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 7,
+        "citedPaper": 119272690,
+        "citingPaper": 253167482,
+        "context": [
+            {
+                "tokenLen": 16,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "Fischbein and Drndi\u0107 <REF> used an electron beam using a transmission electron microscope to create nanopores.",
+                "citedText": "[15]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518d6824ccc255d15f5d2aa"
+        },
+        "field": "Materials Science",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 8,
+        "citedPaper": 4412455,
+        "citingPaper": 255329557,
+        "context": [
+            {
+                "tokenLen": 21,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "<REF> ESCRT-I (vps23, vps28, vps37) and ESCRT-II (vps22, vps36, vps25) act synergistically to promote the invagination of endosomal membranes into buds.",
+                "citedText": "[14]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518d68d4ccc255d15f5d2b0"
+        },
+        "field": "Materials Science",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 5,
+        "citedPaper": 205452562,
+        "citingPaper": 247292027,
+        "context": [
+            {
+                "tokenLen": 25,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "Ref. <REF> illustrates that hyperbolic plasmon-phonon polaritons induced by graphene hybridized with hexagonal boron nitride can mitigate ohmic losses and surports longer SPWs propagating distance.",
+                "citedText": "[5]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518d6e34ccc255d15f5d2d5"
+        },
+        "field": "Materials Science",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 0,
+        "citedPaper": 21698344,
+        "citingPaper": 213775796,
+        "context": [
+            {
+                "tokenLen": 23,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "Asad et al. <REF> coated microneedles uniformly with a thin porous polymer (poly(lactic-co-glycolic acid), PLGA) and investigated the effect of coating applications.",
+                "citedText": "[20]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518d7084ccc255d15f5d2df"
+        },
+        "field": "Materials Science",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 6,
+        "citedPaper": 2603717,
+        "citingPaper": 240075846,
+        "context": [
+            {
+                "tokenLen": 30,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "These diffraction peaks cannot be ascribed to the tetragonal I4/mcm space group of MAPbI 3 phase at room temperature, <REF> nor to PbI 2 or MAI used as precursors.",
+                "citedText": "(Whitfield et al., 2016)",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_others"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518d7104ccc255d15f5d2e5"
+        },
+        "field": "Materials Science",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 6,
+        "citedPaper": 59944032,
+        "citingPaper": 252704859,
+        "context": [
+            {
+                "tokenLen": 18,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "Bandodkar et al. <REF> developed a sensing platform by integrating microfluidics with an embedded colorimetric assay (Fig. 8a).",
+                "citedText": "[67]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518d7634ccc255d15f5d300"
+        },
+        "field": "Physics",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 0,
+        "citedPaper": 119359264,
+        "citingPaper": 119709941,
+        "context": [
+            {
+                "tokenLen": 32,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "The indefinite scalar product (., .) <REF> is defined on (R N ) * and has the signature (\u22121, +1, . . . , +1) if all scalar fields have positive kinetic terms, i.e. there are no phantoms (or ghosts).",
+                "citedText": "[28]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518d7c04ccc255d15f5d30e"
+        },
+        "field": "Physics",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 2,
+        "citedPaper": 14238739,
+        "citingPaper": 57721119,
+        "context": [
+            {
+                "tokenLen": 29,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "Goh et al. <REF> looked at networks with power-law degree distributions (a common feature of many empirical networks), giving both numerical results and analytic bounds for the largest eigenvalues.",
+                "citedText": "[13]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518d8e84ccc255d15f5d351"
+        },
+        "field": "Mathematics",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 9,
+        "citedPaper": 17996807,
+        "citingPaper": 235644312,
+        "context": [
+            {
+                "tokenLen": 21,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "The Newman-Watts model <REF> is a random graph generation model for producing graphs with small-world properties and denoted by NW networks.",
+                "citedText": "[37]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    }
+  
+]

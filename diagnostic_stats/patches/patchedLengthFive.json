@@ -1,0 +1,444 @@
+[
+    {
+        "_id": {
+            "$oid": "6518555cc92a820cc1ce2eba"
+        },
+        "field": "Biology",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 0,
+        "citedPaper": 16776766,
+        "citingPaper": 6745287,
+        "context": [
+            {
+                "tokenLen": 38,
+                "positionClass": "end",
+                "lengthClass": "long",
+                "citedSent": "The rationale behind QTL/microarray studies is that causative genes may have polymorphisms causing differences in their level of expression that translate into varying amounts of mRNA and ultimately varying amounts of functional proteins, leading to observable phenotypes <REF>.",
+                "citedText": "[88]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65185564c92a820cc1ce2ec1"
+        },
+        "field": "Chemistry",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 0,
+        "citedPaper": 24213706,
+        "citingPaper": 215793450,
+        "context": [
+            {
+                "tokenLen": 15,
+                "positionClass": "end",
+                "lengthClass": "short",
+                "citedSent": "These residues are postulated to promote the proper overall tertiary folding of LIM domains <REF>.",
+                "citedText": "[24]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65185576c92a820cc1ce2ed9"
+        },
+        "field": "Computer Science",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 9,
+        "citedPaper": 40847078,
+        "citingPaper": 239636545,
+        "context": [
+            {
+                "tokenLen": 45,
+                "positionClass": "end",
+                "lengthClass": "long",
+                "citedSent": "In addition to the five growth coefficients, the SLEUTH model has another set of parameters named self-modification parameters, which are intended to simulate urban growth more realistically by allowing the growth coefficients to change during the model runs to adapt non-linearity of urbanization processes <REF>.",
+                "citedText": "(Clarke et al. 1997)",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "651855f8691571d4f6c142c2"
+        },
+        "field": "Medicine",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 9,
+        "citedPaper": 13770184,
+        "citingPaper": 259190689,
+        "context": [
+            {
+                "tokenLen": 42,
+                "positionClass": "end",
+                "lengthClass": "long",
+                "citedSent": "In recent decades, hypertension has been the major single factor in all causes of death and disability worldwide and is one of the major preventable risk factors for numerous diseases such as cardiovascular disease (CVD), renal insufficiency, and Alzheimer's disease <REF>.",
+                "citedText": "(1)",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65185611691571d4f6c142e8"
+        },
+        "field": "Materials Science",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 2,
+        "citedPaper": 1096177,
+        "citingPaper": 51980483,
+        "context": [
+            {
+                "tokenLen": 7,
+                "positionClass": "end",
+                "lengthClass": "short",
+                "citedSent": "Quantum algorithmic probability was studied in <REF>.",
+                "citedText": "[G\u00e1cs, 2001]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518563a691571d4f6c142ef"
+        },
+        "field": "Materials Science",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 6,
+        "citedPaper": 19279511,
+        "citingPaper": 246293570,
+        "context": [
+            {
+                "tokenLen": 15,
+                "positionClass": "end",
+                "lengthClass": "short",
+                "citedSent": "In mammalian cells, there are three isoforms of Pip5k1 proteins (Pip5k1a, Pip5k1b, and Pip5k1c) <REF>.",
+                "citedText": "(1)",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65185647691571d4f6c142f4"
+        },
+        "field": "Materials Science",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 7,
+        "citedPaper": 5990702,
+        "citingPaper": 44074256,
+        "context": [
+            {
+                "tokenLen": 13,
+                "positionClass": "end",
+                "lengthClass": "short",
+                "citedSent": "Despite its ubiquitous expression, Syt-7 knockout (KO) mice are viable into adulthood <REF>.",
+                "citedText": "(Martinez et al., 2000)",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65185672691571d4f6c1431c"
+        },
+        "field": "Materials Science",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 4,
+        "citedPaper": 7385506,
+        "citingPaper": 255210536,
+        "context": [
+            {
+                "tokenLen": 58,
+                "positionClass": "end",
+                "lengthClass": "long",
+                "citedSent": "One pair of waves in the region of higher potential (maximum at +0.6 V in the cathodic curve, minimum at +0.7 V in the anodic curve) corresponds to the emeraldine-pernigraniline transition, and the pair in the region of lower potential (+0.05 V in the cathodic curve, +0.25 V in the anodic curve) corresponds to the leucoemeraldine-emeraldine transition <REF>.",
+                "citedText": "[55]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65185679691571d4f6c14327"
+        },
+        "field": "Materials Science",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 0,
+        "citedPaper": 28379165,
+        "citingPaper": 247925704,
+        "context": [
+            {
+                "tokenLen": 12,
+                "positionClass": "end",
+                "lengthClass": "short",
+                "citedSent": "Further details can be found in a review on nonwoven fabric <REF>.",
+                "citedText": "[42]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518568b691571d4f6c1432b"
+        },
+        "field": "Materials Science",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 2,
+        "citedPaper": 84843970,
+        "citingPaper": 245502157,
+        "context": [
+            {
+                "tokenLen": 33,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "For example, in twisted double bilayer graphene, a magic-angle condition where the quadratic band touching point becomes flat only persists in the absence of trigonal warping terms and particle hole asymmetric perturbations <REF>.",
+                "citedText": "[40]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65185698691571d4f6c14330"
+        },
+        "field": "Physics",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 0,
+        "citedPaper": 118979175,
+        "citingPaper": 235254506,
+        "context": [
+            {
+                "tokenLen": 11,
+                "positionClass": "end",
+                "lengthClass": "short",
+                "citedSent": "However, its origin can be found in Krebs and Sandow <REF>.",
+                "citedText": "[21]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "651856a2691571d4f6c14334"
+        },
+        "field": "Physics",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 1,
+        "citedPaper": 31148200,
+        "citingPaper": 119236025,
+        "context": [
+            {
+                "tokenLen": 65,
+                "positionClass": "end",
+                "lengthClass": "long",
+                "citedSent": "This allows to solve iteratively for C l 's that maximize L(C l ) starting from an initial guess C 0 l : Given the limited extent of our map, features in the power spectrum will be smeared out on scale smaller than l \u223c \u03c0/\u03b8, (\u03b8 is the size of the observed region in the narrowest direction), making multipoles on those scale strongly correlated <REF>.",
+                "citedText": "[34]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "651856e5691571d4f6c14352"
+        },
+        "field": "Physics",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 1,
+        "citedPaper": 118585426,
+        "citingPaper": 56021974,
+        "context": [
+            {
+                "tokenLen": 14,
+                "positionClass": "end",
+                "lengthClass": "short",
+                "citedSent": "Recently the Fermi lepton spectrum was extended to lower energies (7 GeV) in <REF>.",
+                "citedText": "Ackermann et al. (2010)",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "651856fd691571d4f6c1435a"
+        },
+        "field": "Physics",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 1,
+        "citedPaper": 118585426,
+        "citingPaper": 220301575,
+        "context": [
+            {
+                "tokenLen": 61,
+                "positionClass": "end",
+                "lengthClass": "long",
+                "citedSent": "In this work, we adopt a naive method of the error propagation in which the systematic uncertainty on the CR flux due to the energy scale uncertainty is estimated by For a signal power-law spectrum with a spectral index \u03b3, the above expression can be simplified to \u2206\u03a6/\u03a6 \u2248 |\u03b3 \u2212 1|\u03b4 s , which is in agreement with the literature <REF>.",
+                "citedText": "[40]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65185734691571d4f6c1437a"
+        },
+        "field": "Mathematics",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 0,
+        "citedPaper": 14124111,
+        "citingPaper": 118342949,
+        "context": [
+            {
+                "tokenLen": 15,
+                "positionClass": "end",
+                "lengthClass": "short",
+                "citedSent": "Our estimate B(n = 2) = 38.832(2) agrees well with 38.834(2) in Ref. <REF>.",
+                "citedText": "[53]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "651857ab691571d4f6c143a7"
+        },
+        "field": "Mathematics",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 1,
+        "citedPaper": 3023128,
+        "citingPaper": 119282319,
+        "context": [
+            {
+                "tokenLen": 14,
+                "positionClass": "end",
+                "lengthClass": "short",
+                "citedSent": "It is of the form where \u03a3 QM is the improved dressing factor <REF>.",
+                "citedText": "[5]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "651857b4691571d4f6c143af"
+        },
+        "field": "Mathematics",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 0,
+        "citedPaper": 93003991,
+        "citingPaper": 245904748,
+        "context": [
+            {
+                "tokenLen": 14,
+                "positionClass": "end",
+                "lengthClass": "short",
+                "citedSent": "This phenomenon results in unconservative stability boundaries that can be unsafe to use <REF>.",
+                "citedText": "[18]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true
+            }
+        ]
+    },
+]

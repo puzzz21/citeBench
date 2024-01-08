@@ -1,0 +1,51 @@
+Traceback (most recent call last):
+  File "/abyss/home/citation-recommendation/evaluation/LCR/paperExtraction.py", line 101, in <module>
+    process()
+  File "/abyss/home/anaconda3/envs/mp3/lib/python3.9/site-packages/click/core.py", line 1157, in __call__
+    return self.main(*args, **kwargs)
+  File "/abyss/home/anaconda3/envs/mp3/lib/python3.9/site-packages/click/core.py", line 1078, in main
+    rv = self.invoke(ctx)
+  File "/abyss/home/anaconda3/envs/mp3/lib/python3.9/site-packages/click/core.py", line 1434, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+  File "/abyss/home/anaconda3/envs/mp3/lib/python3.9/site-packages/click/core.py", line 783, in invoke
+    return __callback(*args, **kwargs)
+  File "/abyss/home/citation-recommendation/evaluation/LCR/paperExtraction.py", line 18, in process
+    dg.run()
+  File "/abyss/home/citation-recommendation/evaluation/LCR/paperExtraction.py", line 25, in run
+    data = pl.read_json(f"{self.datasetname}/{self.datasetname}.json")
+  File "/abyss/home/anaconda3/envs/mp3/lib/python3.9/site-packages/polars/io/json.py", line 54, in read_json
+    return pl.DataFrame._read_json(
+  File "/abyss/home/anaconda3/envs/mp3/lib/python3.9/site-packages/polars/dataframe/frame.py", line 1064, in _read_json
+    self._df = PyDataFrame.read_json(
+FileNotFoundError: No such file or directory (os error 2): intent/intent.json
+Traceback (most recent call last):
+  File "/abyss/home/citation-recommendation/evaluation/LCR/paperExtraction.py", line 103, in <module>
+  File "/abyss/home/anaconda3/envs/mp3/lib/python3.9/site-packages/click/core.py", line 1157, in __call__
+    return self.main(*args, **kwargs)
+  File "/abyss/home/anaconda3/envs/mp3/lib/python3.9/site-packages/click/core.py", line 1078, in main
+    rv = self.invoke(ctx)
+  File "/abyss/home/anaconda3/envs/mp3/lib/python3.9/site-packages/click/core.py", line 1434, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+  File "/abyss/home/anaconda3/envs/mp3/lib/python3.9/site-packages/click/core.py", line 783, in invoke
+    return __callback(*args, **kwargs)
+  File "/abyss/home/citation-recommendation/evaluation/LCR/paperExtraction.py", line 18, in process
+    dg.run()
+  File "/abyss/home/citation-recommendation/evaluation/LCR/paperExtraction.py", line 36, in run
+    with open(f'{self.datasetname}/paper{self.datasetname}.json', 'w', 'w') as f:
+TypeError: an integer is required (got type str)
+Traceback (most recent call last):
+  File "/abyss/home/citation-recommendation/evaluation/LCR/paperExtraction.py", line 101, in <module>
+    process()
+  File "/abyss/home/anaconda3/envs/mp3/lib/python3.9/site-packages/click/core.py", line 1157, in __call__
+    return self.main(*args, **kwargs)
+  File "/abyss/home/anaconda3/envs/mp3/lib/python3.9/site-packages/click/core.py", line 1078, in main
+    rv = self.invoke(ctx)
+  File "/abyss/home/anaconda3/envs/mp3/lib/python3.9/site-packages/click/core.py", line 1434, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+  File "/abyss/home/anaconda3/envs/mp3/lib/python3.9/site-packages/click/core.py", line 783, in invoke
+    return __callback(*args, **kwargs)
+  File "/abyss/home/citation-recommendation/evaluation/LCR/paperExtraction.py", line 18, in process
+    dg.run()
+  File "/abyss/home/citation-recommendation/evaluation/LCR/paperExtraction.py", line 36, in run
+    with open(f'{self.datasetname}/paper{self.datasetname}.json', 'w', 'w') as f:
+TypeError: an integer is required (got type str)

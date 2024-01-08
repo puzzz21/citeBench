@@ -1,0 +1,738 @@
+[
+    {
+        "Sociology": [
+            {
+                "min": 0,
+                "max": 1531,
+                "bin": 0,
+                "total_records": 78557
+            },
+            {
+                "min": 1532,
+                "max": 3063,
+                "bin": 1,
+                "total_records": 8
+            },
+            {
+                "min": 3064,
+                "max": 4595,
+                "bin": 2,
+                "total_records": 3
+            },
+            {
+                "min": 4596,
+                "max": 6127,
+                "bin": 3,
+                "total_records": 2
+            },
+            {
+                "min": 6128,
+                "max": 7659,
+                "bin": 4,
+                "total_records": 1
+            },
+            {
+                "min": 7660,
+                "max": 9191,
+                "bin": 5,
+                "total_records": 1
+            }
+        ]
+    },
+    {
+        "History": [
+            {
+                "min": 0,
+                "max": 1209,
+                "bin": 0,
+                "total_records": 25347
+            },
+            {
+                "min": 1210,
+                "max": 2419,
+                "bin": 1,
+                "total_records": 5
+            },
+            {
+                "min": 2420,
+                "max": 3629,
+                "bin": 2,
+                "total_records": 1
+            },
+            {
+                "min": 3630,
+                "max": 4839,
+                "bin": 3,
+                "total_records": 0
+            },
+            {
+                "min": 4840,
+                "max": 6049,
+                "bin": 4,
+                "total_records": 0
+            },
+            {
+                "min": 6050,
+                "max": 7259,
+                "bin": 5,
+                "total_records": 1
+            }
+        ]
+    },
+    {
+        "Mathematics": [
+            {
+                "min": 0,
+                "max": 24174,
+                "bin": 0,
+                "total_records": 764387
+            },
+            {
+                "min": 24175,
+                "max": 48349,
+                "bin": 1,
+                "total_records": 4
+            },
+            {
+                "min": 48350,
+                "max": 72524,
+                "bin": 2,
+                "total_records": 1
+            },
+            {
+                "min": 72525,
+                "max": 96699,
+                "bin": 3,
+                "total_records": 0
+            },
+            {
+                "min": 96700,
+                "max": 120874,
+                "bin": 4,
+                "total_records": 0
+            },
+            {
+                "min": 120875,
+                "max": 145049,
+                "bin": 5,
+                "total_records": 1
+            }
+        ]
+    },
+    {
+        "Environmental Science": [
+            {
+                "min": 0,
+                "max": 4405,
+                "bin": 0,
+                "total_records": 153263
+            },
+            {
+                "min": 4406,
+                "max": 8811,
+                "bin": 1,
+                "total_records": 10
+            },
+            {
+                "min": 8812,
+                "max": 13217,
+                "bin": 2,
+                "total_records": 0
+            },
+            {
+                "min": 13218,
+                "max": 17623,
+                "bin": 3,
+                "total_records": 0
+            },
+            {
+                "min": 17624,
+                "max": 22029,
+                "bin": 4,
+                "total_records": 0
+            },
+            {
+                "min": 22030,
+                "max": 26435,
+                "bin": 5,
+                "total_records": 1
+            }
+        ]
+    },
+    {
+        "Computer Science": [
+            {
+                "min": 0,
+                "max": 27094,
+                "bin": 0,
+                "total_records": 1153014
+            },
+            {
+                "min": 27095,
+                "max": 54189,
+                "bin": 1,
+                "total_records": 15
+            },
+            {
+                "min": 54190,
+                "max": 81284,
+                "bin": 2,
+                "total_records": 3
+            },
+            {
+                "min": 81285,
+                "max": 108379,
+                "bin": 3,
+                "total_records": 0
+            },
+            {
+                "min": 108380,
+                "max": 135474,
+                "bin": 4,
+                "total_records": 1
+            }
+        ]
+    },
+    {
+        "Art": [
+            {
+                "min": 0,
+                "max": 745,
+                "bin": 0,
+                "total_records": 15033
+            },
+            {
+                "min": 746,
+                "max": 1491,
+                "bin": 1,
+                "total_records": 1
+            },
+            {
+                "min": 1492,
+                "max": 2237,
+                "bin": 2,
+                "total_records": 0
+            },
+            {
+                "min": 2238,
+                "max": 2983,
+                "bin": 3,
+                "total_records": 0
+            },
+            {
+                "min": 2984,
+                "max": 3729,
+                "bin": 4,
+                "total_records": 0
+            },
+            {
+                "min": 3730,
+                "max": 4475,
+                "bin": 5,
+                "total_records": 1
+            }
+        ]
+    },
+    {
+        "Philosophy": [
+            {
+                "min": 0,
+                "max": 1331,
+                "bin": 0,
+                "total_records": 12161
+            },
+            {
+                "min": 1332,
+                "max": 2663,
+                "bin": 1,
+                "total_records": 0
+            },
+            {
+                "min": 2664,
+                "max": 3995,
+                "bin": 2,
+                "total_records": 0
+            },
+            {
+                "min": 3996,
+                "max": 5327,
+                "bin": 3,
+                "total_records": 0
+            },
+            {
+                "min": 5328,
+                "max": 6659,
+                "bin": 4,
+                "total_records": 0
+            },
+            {
+                "min": 6660,
+                "max": 7991,
+                "bin": 5,
+                "total_records": 1
+            }
+        ]
+    },
+    {
+        "Materials Science": [
+            {
+                "min": 0,
+                "max": 6824,
+                "bin": 0,
+                "total_records": 415485
+            },
+            {
+                "min": 6825,
+                "max": 13649,
+                "bin": 1,
+                "total_records": 6
+            },
+            {
+                "min": 13650,
+                "max": 20474,
+                "bin": 2,
+                "total_records": 1
+            },
+            {
+                "min": 20475,
+                "max": 27299,
+                "bin": 3,
+                "total_records": 0
+            },
+            {
+                "min": 27300,
+                "max": 34124,
+                "bin": 4,
+                "total_records": 0
+            },
+            {
+                "min": 34125,
+                "max": 40949,
+                "bin": 5,
+                "total_records": 1
+            }
+        ]
+    },
+    {
+        "Medicine": [
+            {
+                "min": 0,
+                "max": 58824,
+                "bin": 0,
+                "total_records": 5696256
+            },
+            {
+                "min": 58825,
+                "max": 117649,
+                "bin": 1,
+                "total_records": 1
+            },
+            {
+                "min": 117650,
+                "max": 176474,
+                "bin": 2,
+                "total_records": 0
+            },
+            {
+                "min": 176475,
+                "max": 235299,
+                "bin": 3,
+                "total_records": 0
+            },
+            {
+                "min": 235300,
+                "max": 294124,
+                "bin": 4,
+                "total_records": 0
+            },
+            {
+                "min": 294125,
+                "max": 352949,
+                "bin": 5,
+                "total_records": 1
+            }
+        ]
+    },
+    {
+        "Geology": [
+            {
+                "min": 0,
+                "max": 1101,
+                "bin": 0,
+                "total_records": 73173
+            },
+            {
+                "min": 1102,
+                "max": 2203,
+                "bin": 1,
+                "total_records": 13
+            },
+            {
+                "min": 2204,
+                "max": 3305,
+                "bin": 2,
+                "total_records": 4
+            },
+            {
+                "min": 3306,
+                "max": 4407,
+                "bin": 3,
+                "total_records": 2
+            },
+            {
+                "min": 4408,
+                "max": 5509,
+                "bin": 4,
+                "total_records": 0
+            }
+        ]
+    },
+    {
+        "Geography": [
+            {
+                "min": 0,
+                "max": 1490,
+                "bin": 0,
+                "total_records": 103623
+            },
+            {
+                "min": 1491,
+                "max": 2981,
+                "bin": 1,
+                "total_records": 19
+            },
+            {
+                "min": 2982,
+                "max": 4472,
+                "bin": 2,
+                "total_records": 4
+            },
+            {
+                "min": 4473,
+                "max": 5963,
+                "bin": 3,
+                "total_records": 3
+            },
+            {
+                "min": 5964,
+                "max": 7454,
+                "bin": 4,
+                "total_records": 2
+            }
+        ]
+    },
+    {
+        "Physics": [
+            {
+                "min": 0,
+                "max": 10312,
+                "bin": 0,
+                "total_records": 1576408
+            },
+            {
+                "min": 10313,
+                "max": 20625,
+                "bin": 1,
+                "total_records": 17
+            },
+            {
+                "min": 20626,
+                "max": 30938,
+                "bin": 2,
+                "total_records": 2
+            },
+            {
+                "min": 30939,
+                "max": 41251,
+                "bin": 3,
+                "total_records": 2
+            },
+            {
+                "min": 41252,
+                "max": 51564,
+                "bin": 4,
+                "total_records": 0
+            },
+            {
+                "min": 51565,
+                "max": 61877,
+                "bin": 5,
+                "total_records": 1
+            }
+        ]
+    },
+    {
+        "Business": [
+            {
+                "min": 0,
+                "max": 2074,
+                "bin": 0,
+                "total_records": 149181
+            },
+            {
+                "min": 2075,
+                "max": 4149,
+                "bin": 1,
+                "total_records": 6
+            },
+            {
+                "min": 4150,
+                "max": 6224,
+                "bin": 2,
+                "total_records": 2
+            },
+            {
+                "min": 6225,
+                "max": 8299,
+                "bin": 3,
+                "total_records": 0
+            },
+            {
+                "min": 8300,
+                "max": 10374,
+                "bin": 4,
+                "total_records": 0
+            }
+        ]
+    },
+    {
+        "Political Science": [
+            {
+                "min": 0,
+                "max": 2261,
+                "bin": 0,
+                "total_records": 78662
+            },
+            {
+                "min": 2262,
+                "max": 4523,
+                "bin": 1,
+                "total_records": 3
+            },
+            {
+                "min": 4524,
+                "max": 6785,
+                "bin": 2,
+                "total_records": 1
+            },
+            {
+                "min": 6786,
+                "max": 9047,
+                "bin": 3,
+                "total_records": 0
+            },
+            {
+                "min": 9048,
+                "max": 11309,
+                "bin": 4,
+                "total_records": 1
+            },
+            {
+                "min": 11310,
+                "max": 13571,
+                "bin": 5,
+                "total_records": 1
+            }
+        ]
+    },
+    {
+        "Economics": [
+            {
+                "min": 0,
+                "max": 2261,
+                "bin": 0,
+                "total_records": 71748
+            },
+            {
+                "min": 2262,
+                "max": 4523,
+                "bin": 1,
+                "total_records": 9
+            },
+            {
+                "min": 4524,
+                "max": 6785,
+                "bin": 2,
+                "total_records": 1
+            },
+            {
+                "min": 6786,
+                "max": 9047,
+                "bin": 3,
+                "total_records": 0
+            },
+            {
+                "min": 9048,
+                "max": 11309,
+                "bin": 4,
+                "total_records": 0
+            },
+            {
+                "min": 11310,
+                "max": 13571,
+                "bin": 5,
+                "total_records": 1
+            }
+        ]
+    },
+    {
+        "Psychology": [
+            {
+                "min": 0,
+                "max": 4886,
+                "bin": 0,
+                "total_records": 293711
+            },
+            {
+                "min": 4887,
+                "max": 9773,
+                "bin": 1,
+                "total_records": 5
+            },
+            {
+                "min": 9774,
+                "max": 14660,
+                "bin": 2,
+                "total_records": 3
+            },
+            {
+                "min": 14661,
+                "max": 19547,
+                "bin": 3,
+                "total_records": 1
+            },
+            {
+                "min": 19548,
+                "max": 24434,
+                "bin": 4,
+                "total_records": 2
+            },
+            {
+                "min": 24435,
+                "max": 29321,
+                "bin": 5,
+                "total_records": 1
+            }
+        ]
+    },
+    {
+        "Chemistry": [
+            {
+                "min": 0,
+                "max": 58824,
+                "bin": 0,
+                "total_records": 516167
+            },
+            {
+                "min": 58825,
+                "max": 117649,
+                "bin": 1,
+                "total_records": 0
+            },
+            {
+                "min": 117650,
+                "max": 176474,
+                "bin": 2,
+                "total_records": 0
+            },
+            {
+                "min": 176475,
+                "max": 235299,
+                "bin": 3,
+                "total_records": 0
+            },
+            {
+                "min": 235300,
+                "max": 294124,
+                "bin": 4,
+                "total_records": 0
+            },
+            {
+                "min": 294125,
+                "max": 352949,
+                "bin": 5,
+                "total_records": 1
+            }
+        ]
+    },
+    {
+        "Engineering": [
+            {
+                "min": 0,
+                "max": 2462,
+                "bin": 0,
+                "total_records": 152565
+            },
+            {
+                "min": 2463,
+                "max": 4925,
+                "bin": 1,
+                "total_records": 9
+            },
+            {
+                "min": 4926,
+                "max": 7388,
+                "bin": 2,
+                "total_records": 2
+            },
+            {
+                "min": 7389,
+                "max": 9851,
+                "bin": 3,
+                "total_records": 1
+            },
+            {
+                "min": 9852,
+                "max": 12314,
+                "bin": 4,
+                "total_records": 0
+            },
+            {
+                "min": 12315,
+                "max": 14777,
+                "bin": 5,
+                "total_records": 1
+            }
+        ]
+    },
+    {
+        "Biology": [
+            {
+                "min": 0,
+                "max": 10598,
+                "bin": 0,
+                "total_records": 1190717
+            },
+            {
+                "min": 10599,
+                "max": 21197,
+                "bin": 1,
+                "total_records": 27
+            },
+            {
+                "min": 21198,
+                "max": 31796,
+                "bin": 2,
+                "total_records": 3
+            },
+            {
+                "min": 31797,
+                "max": 42395,
+                "bin": 3,
+                "total_records": 2
+            },
+            {
+                "min": 42396,
+                "max": 52994,
+                "bin": 4,
+                "total_records": 1
+            },
+            {
+                "min": 52995,
+                "max": 63593,
+                "bin": 5,
+                "total_records": 1
+            }
+        ]
+    }
+]

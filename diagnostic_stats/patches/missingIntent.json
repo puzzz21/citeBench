@@ -1,0 +1,3836 @@
+[
+    {
+        "field": "Biology",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 0,
+        "class": "result"
+    },
+    {
+        "field": "Biology",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 1,
+        "class": "result"
+    },
+    {
+        "field": "Biology",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 2,
+        "class": "result"
+    },
+    {
+        "field": "Biology",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 2,
+        "class": "methodology"
+    },
+    {
+        "field": "Biology",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 3,
+        "class": "result"
+    },
+    {
+        "field": "Biology",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 3,
+        "class": "methodology"
+    },
+    {
+        "field": "Biology",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 6,
+        "class": "result"
+    },
+    {
+        "field": "Biology",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 8,
+        "class": "result"
+    },
+    {
+        "field": "Biology",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 1,
+        "class": "result"
+    },
+    {
+        "field": "Biology",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 2,
+        "class": "result"
+    },
+    {
+        "field": "Biology",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 3,
+        "class": "result"
+    },
+    {
+        "field": "Biology",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 4,
+        "class": "result"
+    },
+    {
+        "field": "Biology",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 4,
+        "class": "methodology"
+    },
+    {
+        "field": "Biology",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 5,
+        "class": "result"
+    },
+    {
+        "field": "Biology",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 6,
+        "class": "result"
+    },
+    {
+        "field": "Biology",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 6,
+        "class": "methodology"
+    },
+    {
+        "field": "Biology",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 8,
+        "class": "result"
+    },
+    {
+        "field": "Biology",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 9,
+        "class": "result"
+    },
+    {
+        "field": "Biology",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 0,
+        "class": "result"
+    },
+    {
+        "field": "Biology",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 0,
+        "class": "methodology"
+    },
+    {
+        "field": "Biology",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 2,
+        "class": "result"
+    },
+    {
+        "field": "Biology",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 6,
+        "class": "result"
+    },
+    {
+        "field": "Biology",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 7,
+        "class": "result"
+    },
+    {
+        "field": "Biology",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 8,
+        "class": "result"
+    },
+    {
+        "field": "Biology",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 9,
+        "class": "result"
+    },
+    {
+        "field": "Biology",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 0,
+        "class": "methodology"
+    },
+    {
+        "field": "Biology",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 1,
+        "class": "result"
+    },
+    {
+        "field": "Biology",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 1,
+        "class": "methodology"
+    },
+    {
+        "field": "Biology",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 3,
+        "class": "result"
+    },
+    {
+        "field": "Biology",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 4,
+        "class": "result"
+    },
+    {
+        "field": "Biology",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 4,
+        "class": "methodology"
+    },
+    {
+        "field": "Biology",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 5,
+        "class": "result"
+    },
+    {
+        "field": "Biology",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 6,
+        "class": "result"
+    },
+    {
+        "field": "Biology",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 7,
+        "class": "result"
+    },
+    {
+        "field": "Biology",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 8,
+        "class": "result"
+    },
+    {
+        "field": "Biology",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 9,
+        "class": "result"
+    },
+    {
+        "field": "Biology",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 0,
+        "class": "result"
+    },
+    {
+        "field": "Biology",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 0,
+        "class": "methodology"
+    },
+    {
+        "field": "Biology",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 1,
+        "class": "result"
+    },
+    {
+        "field": "Biology",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 4,
+        "class": "result"
+    },
+    {
+        "field": "Biology",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 6,
+        "class": "result"
+    },
+    {
+        "field": "Biology",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 7,
+        "class": "result"
+    },
+    {
+        "field": "Biology",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 8,
+        "class": "result"
+    },
+    {
+        "field": "Biology",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 9,
+        "class": "result"
+    },
+    {
+        "field": "Chemistry",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 0,
+        "class": "result"
+    },
+    {
+        "field": "Chemistry",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 0,
+        "class": "methodology"
+    },
+    {
+        "field": "Chemistry",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 1,
+        "class": "result"
+    },
+    {
+        "field": "Chemistry",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 1,
+        "class": "methodology"
+    },
+    {
+        "field": "Chemistry",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 2,
+        "class": "methodology"
+    },
+    {
+        "field": "Chemistry",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 3,
+        "class": "result"
+    },
+    {
+        "field": "Chemistry",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 4,
+        "class": "result"
+    },
+    {
+        "field": "Chemistry",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 5,
+        "class": "methodology"
+    },
+    {
+        "field": "Chemistry",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 6,
+        "class": "result"
+    },
+    {
+        "field": "Chemistry",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 7,
+        "class": "result"
+    },
+    {
+        "field": "Chemistry",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 8,
+        "class": "methodology"
+    },
+    {
+        "field": "Chemistry",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 9,
+        "class": "result"
+    },
+    {
+        "field": "Chemistry",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 0,
+        "class": "result"
+    },
+    {
+        "field": "Chemistry",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 0,
+        "class": "methodology"
+    },
+    {
+        "field": "Chemistry",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 1,
+        "class": "result"
+    },
+    {
+        "field": "Chemistry",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 2,
+        "class": "result"
+    },
+    {
+        "field": "Chemistry",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 2,
+        "class": "methodology"
+    },
+    {
+        "field": "Chemistry",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 4,
+        "class": "result"
+    },
+    {
+        "field": "Chemistry",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 5,
+        "class": "result"
+    },
+    {
+        "field": "Chemistry",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 6,
+        "class": "result"
+    },
+    {
+        "field": "Chemistry",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 7,
+        "class": "result"
+    },
+    {
+        "field": "Chemistry",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 8,
+        "class": "background"
+    },
+    {
+        "field": "Chemistry",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 8,
+        "class": "result"
+    },
+    {
+        "field": "Chemistry",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 9,
+        "class": "result"
+    },
+    {
+        "field": "Chemistry",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 0,
+        "class": "result"
+    },
+    {
+        "field": "Chemistry",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 0,
+        "class": "methodology"
+    },
+    {
+        "field": "Chemistry",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 1,
+        "class": "result"
+    },
+    {
+        "field": "Chemistry",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 2,
+        "class": "methodology"
+    },
+    {
+        "field": "Chemistry",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 3,
+        "class": "result"
+    },
+    {
+        "field": "Chemistry",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 4,
+        "class": "result"
+    },
+    {
+        "field": "Chemistry",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 5,
+        "class": "result"
+    },
+    {
+        "field": "Chemistry",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 6,
+        "class": "result"
+    },
+    {
+        "field": "Chemistry",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 7,
+        "class": "result"
+    },
+    {
+        "field": "Chemistry",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 0,
+        "class": "result"
+    },
+    {
+        "field": "Chemistry",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 0,
+        "class": "methodology"
+    },
+    {
+        "field": "Chemistry",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 1,
+        "class": "result"
+    },
+    {
+        "field": "Chemistry",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 2,
+        "class": "result"
+    },
+    {
+        "field": "Chemistry",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 3,
+        "class": "result"
+    },
+    {
+        "field": "Chemistry",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 4,
+        "class": "result"
+    },
+    {
+        "field": "Chemistry",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 5,
+        "class": "result"
+    },
+    {
+        "field": "Chemistry",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 5,
+        "class": "methodology"
+    },
+    {
+        "field": "Chemistry",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 6,
+        "class": "result"
+    },
+    {
+        "field": "Chemistry",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 8,
+        "class": "result"
+    },
+    {
+        "field": "Chemistry",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 1,
+        "class": "result"
+    },
+    {
+        "field": "Chemistry",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 1,
+        "class": "methodology"
+    },
+    {
+        "field": "Chemistry",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 2,
+        "class": "result"
+    },
+    {
+        "field": "Chemistry",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 2,
+        "class": "methodology"
+    },
+    {
+        "field": "Chemistry",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 3,
+        "class": "result"
+    },
+    {
+        "field": "Chemistry",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 3,
+        "class": "methodology"
+    },
+    {
+        "field": "Chemistry",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 4,
+        "class": "result"
+    },
+    {
+        "field": "Chemistry",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 6,
+        "class": "result"
+    },
+    {
+        "field": "Chemistry",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 7,
+        "class": "result"
+    },
+    {
+        "field": "Chemistry",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 7,
+        "class": "methodology"
+    },
+    {
+        "field": "Chemistry",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 8,
+        "class": "result"
+    },
+    {
+        "field": "Chemistry",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 9,
+        "class": "result"
+    },
+    {
+        "field": "Computer Science",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 0,
+        "class": "result"
+    },
+    {
+        "field": "Computer Science",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 0,
+        "class": "methodology"
+    },
+    {
+        "field": "Computer Science",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 1,
+        "class": "result"
+    },
+    {
+        "field": "Computer Science",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 1,
+        "class": "methodology"
+    },
+    {
+        "field": "Computer Science",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 2,
+        "class": "result"
+    },
+    {
+        "field": "Computer Science",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 3,
+        "class": "result"
+    },
+    {
+        "field": "Computer Science",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 4,
+        "class": "result"
+    },
+    {
+        "field": "Computer Science",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 5,
+        "class": "background"
+    },
+    {
+        "field": "Computer Science",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 5,
+        "class": "result"
+    },
+    {
+        "field": "Computer Science",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 6,
+        "class": "result"
+    },
+    {
+        "field": "Computer Science",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 7,
+        "class": "result"
+    },
+    {
+        "field": "Computer Science",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 8,
+        "class": "result"
+    },
+    {
+        "field": "Computer Science",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 9,
+        "class": "result"
+    },
+    {
+        "field": "Computer Science",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 0,
+        "class": "result"
+    },
+    {
+        "field": "Computer Science",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 1,
+        "class": "result"
+    },
+    {
+        "field": "Computer Science",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 2,
+        "class": "result"
+    },
+    {
+        "field": "Computer Science",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 3,
+        "class": "result"
+    },
+    {
+        "field": "Computer Science",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 4,
+        "class": "result"
+    },
+    {
+        "field": "Computer Science",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 5,
+        "class": "result"
+    },
+    {
+        "field": "Computer Science",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 6,
+        "class": "result"
+    },
+    {
+        "field": "Computer Science",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 7,
+        "class": "result"
+    },
+    {
+        "field": "Computer Science",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 8,
+        "class": "result"
+    },
+    {
+        "field": "Computer Science",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 8,
+        "class": "methodology"
+    },
+    {
+        "field": "Computer Science",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 9,
+        "class": "result"
+    },
+    {
+        "field": "Computer Science",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 0,
+        "class": "background"
+    },
+    {
+        "field": "Computer Science",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 0,
+        "class": "result"
+    },
+    {
+        "field": "Computer Science",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 1,
+        "class": "result"
+    },
+    {
+        "field": "Computer Science",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 2,
+        "class": "result"
+    },
+    {
+        "field": "Computer Science",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 3,
+        "class": "result"
+    },
+    {
+        "field": "Computer Science",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 4,
+        "class": "result"
+    },
+    {
+        "field": "Computer Science",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 5,
+        "class": "result"
+    },
+    {
+        "field": "Computer Science",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 6,
+        "class": "result"
+    },
+    {
+        "field": "Computer Science",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 7,
+        "class": "result"
+    },
+    {
+        "field": "Computer Science",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 8,
+        "class": "result"
+    },
+    {
+        "field": "Computer Science",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 9,
+        "class": "result"
+    },
+    {
+        "field": "Computer Science",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 0,
+        "class": "background"
+    },
+    {
+        "field": "Computer Science",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 0,
+        "class": "result"
+    },
+    {
+        "field": "Computer Science",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 1,
+        "class": "result"
+    },
+    {
+        "field": "Computer Science",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 2,
+        "class": "result"
+    },
+    {
+        "field": "Computer Science",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 3,
+        "class": "result"
+    },
+    {
+        "field": "Computer Science",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 5,
+        "class": "result"
+    },
+    {
+        "field": "Computer Science",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 5,
+        "class": "methodology"
+    },
+    {
+        "field": "Computer Science",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 6,
+        "class": "result"
+    },
+    {
+        "field": "Computer Science",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 7,
+        "class": "result"
+    },
+    {
+        "field": "Computer Science",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 8,
+        "class": "result"
+    },
+    {
+        "field": "Computer Science",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 9,
+        "class": "result"
+    },
+    {
+        "field": "Computer Science",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 0,
+        "class": "methodology"
+    },
+    {
+        "field": "Computer Science",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 1,
+        "class": "result"
+    },
+    {
+        "field": "Computer Science",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 2,
+        "class": "background"
+    },
+    {
+        "field": "Computer Science",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 2,
+        "class": "result"
+    },
+    {
+        "field": "Computer Science",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 3,
+        "class": "result"
+    },
+    {
+        "field": "Computer Science",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 4,
+        "class": "result"
+    },
+    {
+        "field": "Computer Science",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 5,
+        "class": "result"
+    },
+    {
+        "field": "Computer Science",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 6,
+        "class": "result"
+    },
+    {
+        "field": "Computer Science",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 7,
+        "class": "result"
+    },
+    {
+        "field": "Computer Science",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 7,
+        "class": "methodology"
+    },
+    {
+        "field": "Computer Science",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 8,
+        "class": "background"
+    },
+    {
+        "field": "Computer Science",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 8,
+        "class": "result"
+    },
+    {
+        "field": "Computer Science",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 9,
+        "class": "background"
+    },
+    {
+        "field": "Computer Science",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 9,
+        "class": "result"
+    },
+    {
+        "field": "Medicine",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 0,
+        "class": "result"
+    },
+    {
+        "field": "Medicine",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 0,
+        "class": "methodology"
+    },
+    {
+        "field": "Medicine",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 1,
+        "class": "result"
+    },
+    {
+        "field": "Medicine",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 3,
+        "class": "result"
+    },
+    {
+        "field": "Medicine",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 3,
+        "class": "methodology"
+    },
+    {
+        "field": "Medicine",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 4,
+        "class": "result"
+    },
+    {
+        "field": "Medicine",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 4,
+        "class": "methodology"
+    },
+    {
+        "field": "Medicine",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 5,
+        "class": "result"
+    },
+    {
+        "field": "Medicine",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 6,
+        "class": "result"
+    },
+    {
+        "field": "Medicine",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 6,
+        "class": "methodology"
+    },
+    {
+        "field": "Medicine",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 7,
+        "class": "result"
+    },
+    {
+        "field": "Medicine",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 8,
+        "class": "result"
+    },
+    {
+        "field": "Medicine",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 9,
+        "class": "result"
+    },
+    {
+        "field": "Medicine",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 0,
+        "class": "result"
+    },
+    {
+        "field": "Medicine",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 0,
+        "class": "methodology"
+    },
+    {
+        "field": "Medicine",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 1,
+        "class": "result"
+    },
+    {
+        "field": "Medicine",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 3,
+        "class": "result"
+    },
+    {
+        "field": "Medicine",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 3,
+        "class": "methodology"
+    },
+    {
+        "field": "Medicine",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 4,
+        "class": "result"
+    },
+    {
+        "field": "Medicine",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 5,
+        "class": "methodology"
+    },
+    {
+        "field": "Medicine",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 8,
+        "class": "result"
+    },
+    {
+        "field": "Medicine",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 9,
+        "class": "result"
+    },
+    {
+        "field": "Medicine",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 0,
+        "class": "result"
+    },
+    {
+        "field": "Medicine",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 3,
+        "class": "result"
+    },
+    {
+        "field": "Medicine",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 4,
+        "class": "result"
+    },
+    {
+        "field": "Medicine",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 5,
+        "class": "methodology"
+    },
+    {
+        "field": "Medicine",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 6,
+        "class": "result"
+    },
+    {
+        "field": "Medicine",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 7,
+        "class": "result"
+    },
+    {
+        "field": "Medicine",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 8,
+        "class": "result"
+    },
+    {
+        "field": "Medicine",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 9,
+        "class": "result"
+    },
+    {
+        "field": "Medicine",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 0,
+        "class": "result"
+    },
+    {
+        "field": "Medicine",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 1,
+        "class": "result"
+    },
+    {
+        "field": "Medicine",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 3,
+        "class": "result"
+    },
+    {
+        "field": "Medicine",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 4,
+        "class": "result"
+    },
+    {
+        "field": "Medicine",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 5,
+        "class": "result"
+    },
+    {
+        "field": "Medicine",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 6,
+        "class": "result"
+    },
+    {
+        "field": "Medicine",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 7,
+        "class": "result"
+    },
+    {
+        "field": "Medicine",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 8,
+        "class": "result"
+    },
+    {
+        "field": "Medicine",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 9,
+        "class": "result"
+    },
+    {
+        "field": "Medicine",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 0,
+        "class": "result"
+    },
+    {
+        "field": "Medicine",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 1,
+        "class": "result"
+    },
+    {
+        "field": "Medicine",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 2,
+        "class": "result"
+    },
+    {
+        "field": "Medicine",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 2,
+        "class": "methodology"
+    },
+    {
+        "field": "Medicine",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 3,
+        "class": "result"
+    },
+    {
+        "field": "Medicine",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 4,
+        "class": "result"
+    },
+    {
+        "field": "Medicine",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 7,
+        "class": "result"
+    },
+    {
+        "field": "Medicine",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 7,
+        "class": "methodology"
+    },
+    {
+        "field": "Medicine",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 8,
+        "class": "result"
+    },
+    {
+        "field": "Medicine",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 9,
+        "class": "result"
+    },
+    {
+        "field": "Materials Science",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 0,
+        "class": "background"
+    },
+    {
+        "field": "Materials Science",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 0,
+        "class": "result"
+    },
+    {
+        "field": "Materials Science",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 0,
+        "class": "methodology"
+    },
+    {
+        "field": "Materials Science",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 1,
+        "class": "result"
+    },
+    {
+        "field": "Materials Science",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 1,
+        "class": "methodology"
+    },
+    {
+        "field": "Materials Science",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 2,
+        "class": "background"
+    },
+    {
+        "field": "Materials Science",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 2,
+        "class": "result"
+    },
+    {
+        "field": "Materials Science",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 2,
+        "class": "methodology"
+    },
+    {
+        "field": "Materials Science",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 3,
+        "class": "result"
+    },
+    {
+        "field": "Materials Science",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 3,
+        "class": "methodology"
+    },
+    {
+        "field": "Materials Science",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 4,
+        "class": "result"
+    },
+    {
+        "field": "Materials Science",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 4,
+        "class": "methodology"
+    },
+    {
+        "field": "Materials Science",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 5,
+        "class": "result"
+    },
+    {
+        "field": "Materials Science",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 5,
+        "class": "methodology"
+    },
+    {
+        "field": "Materials Science",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 6,
+        "class": "result"
+    },
+    {
+        "field": "Materials Science",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 6,
+        "class": "methodology"
+    },
+    {
+        "field": "Materials Science",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 7,
+        "class": "result"
+    },
+    {
+        "field": "Materials Science",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 7,
+        "class": "methodology"
+    },
+    {
+        "field": "Materials Science",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 8,
+        "class": "result"
+    },
+    {
+        "field": "Materials Science",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 9,
+        "class": "result"
+    },
+    {
+        "field": "Materials Science",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 9,
+        "class": "methodology"
+    },
+    {
+        "field": "Materials Science",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 0,
+        "class": "background"
+    },
+    {
+        "field": "Materials Science",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 0,
+        "class": "result"
+    },
+    {
+        "field": "Materials Science",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 0,
+        "class": "methodology"
+    },
+    {
+        "field": "Materials Science",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 1,
+        "class": "background"
+    },
+    {
+        "field": "Materials Science",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 1,
+        "class": "result"
+    },
+    {
+        "field": "Materials Science",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 1,
+        "class": "methodology"
+    },
+    {
+        "field": "Materials Science",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 2,
+        "class": "background"
+    },
+    {
+        "field": "Materials Science",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 2,
+        "class": "result"
+    },
+    {
+        "field": "Materials Science",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 3,
+        "class": "result"
+    },
+    {
+        "field": "Materials Science",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 3,
+        "class": "methodology"
+    },
+    {
+        "field": "Materials Science",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 4,
+        "class": "result"
+    },
+    {
+        "field": "Materials Science",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 4,
+        "class": "methodology"
+    },
+    {
+        "field": "Materials Science",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 5,
+        "class": "result"
+    },
+    {
+        "field": "Materials Science",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 6,
+        "class": "result"
+    },
+    {
+        "field": "Materials Science",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 6,
+        "class": "methodology"
+    },
+    {
+        "field": "Materials Science",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 8,
+        "class": "result"
+    },
+    {
+        "field": "Materials Science",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 9,
+        "class": "result"
+    },
+    {
+        "field": "Materials Science",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 0,
+        "class": "methodology"
+    },
+    {
+        "field": "Materials Science",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 1,
+        "class": "background"
+    },
+    {
+        "field": "Materials Science",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 1,
+        "class": "result"
+    },
+    {
+        "field": "Materials Science",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 2,
+        "class": "result"
+    },
+    {
+        "field": "Materials Science",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 3,
+        "class": "result"
+    },
+    {
+        "field": "Materials Science",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 3,
+        "class": "methodology"
+    },
+    {
+        "field": "Materials Science",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 4,
+        "class": "result"
+    },
+    {
+        "field": "Materials Science",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 6,
+        "class": "result"
+    },
+    {
+        "field": "Materials Science",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 7,
+        "class": "result"
+    },
+    {
+        "field": "Materials Science",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 8,
+        "class": "result"
+    },
+    {
+        "field": "Materials Science",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 9,
+        "class": "result"
+    },
+    {
+        "field": "Materials Science",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 9,
+        "class": "methodology"
+    },
+    {
+        "field": "Materials Science",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 0,
+        "class": "result"
+    },
+    {
+        "field": "Materials Science",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 0,
+        "class": "methodology"
+    },
+    {
+        "field": "Materials Science",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 1,
+        "class": "result"
+    },
+    {
+        "field": "Materials Science",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 2,
+        "class": "result"
+    },
+    {
+        "field": "Materials Science",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 3,
+        "class": "result"
+    },
+    {
+        "field": "Materials Science",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 4,
+        "class": "result"
+    },
+    {
+        "field": "Materials Science",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 5,
+        "class": "result"
+    },
+    {
+        "field": "Materials Science",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 6,
+        "class": "result"
+    },
+    {
+        "field": "Materials Science",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 7,
+        "class": "result"
+    },
+    {
+        "field": "Materials Science",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 7,
+        "class": "methodology"
+    },
+    {
+        "field": "Materials Science",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 8,
+        "class": "result"
+    },
+    {
+        "field": "Materials Science",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 8,
+        "class": "methodology"
+    },
+    {
+        "field": "Materials Science",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 9,
+        "class": "result"
+    },
+    {
+        "field": "Materials Science",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 9,
+        "class": "methodology"
+    },
+    {
+        "field": "Materials Science",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 0,
+        "class": "background"
+    },
+    {
+        "field": "Materials Science",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 0,
+        "class": "result"
+    },
+    {
+        "field": "Materials Science",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 1,
+        "class": "result"
+    },
+    {
+        "field": "Materials Science",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 2,
+        "class": "result"
+    },
+    {
+        "field": "Materials Science",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 3,
+        "class": "result"
+    },
+    {
+        "field": "Materials Science",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 3,
+        "class": "methodology"
+    },
+    {
+        "field": "Materials Science",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 4,
+        "class": "result"
+    },
+    {
+        "field": "Materials Science",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 5,
+        "class": "result"
+    },
+    {
+        "field": "Materials Science",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 5,
+        "class": "methodology"
+    },
+    {
+        "field": "Materials Science",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 6,
+        "class": "result"
+    },
+    {
+        "field": "Materials Science",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 7,
+        "class": "result"
+    },
+    {
+        "field": "Materials Science",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 7,
+        "class": "methodology"
+    },
+    {
+        "field": "Materials Science",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 8,
+        "class": "result"
+    },
+    {
+        "field": "Materials Science",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 9,
+        "class": "result"
+    },
+    {
+        "field": "Physics",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 0,
+        "class": "background"
+    },
+    {
+        "field": "Physics",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 0,
+        "class": "result"
+    },
+    {
+        "field": "Physics",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 0,
+        "class": "methodology"
+    },
+    {
+        "field": "Physics",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 1,
+        "class": "result"
+    },
+    {
+        "field": "Physics",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 1,
+        "class": "methodology"
+    },
+    {
+        "field": "Physics",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 2,
+        "class": "result"
+    },
+    {
+        "field": "Physics",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 3,
+        "class": "result"
+    },
+    {
+        "field": "Physics",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 4,
+        "class": "background"
+    },
+    {
+        "field": "Physics",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 4,
+        "class": "result"
+    },
+    {
+        "field": "Physics",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 4,
+        "class": "methodology"
+    },
+    {
+        "field": "Physics",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 5,
+        "class": "result"
+    },
+    {
+        "field": "Physics",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 6,
+        "class": "result"
+    },
+    {
+        "field": "Physics",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 7,
+        "class": "result"
+    },
+    {
+        "field": "Physics",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 7,
+        "class": "methodology"
+    },
+    {
+        "field": "Physics",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 8,
+        "class": "result"
+    },
+    {
+        "field": "Physics",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 8,
+        "class": "methodology"
+    },
+    {
+        "field": "Physics",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 9,
+        "class": "result"
+    },
+    {
+        "field": "Physics",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 0,
+        "class": "background"
+    },
+    {
+        "field": "Physics",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 0,
+        "class": "result"
+    },
+    {
+        "field": "Physics",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 0,
+        "class": "methodology"
+    },
+    {
+        "field": "Physics",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 1,
+        "class": "result"
+    },
+    {
+        "field": "Physics",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 1,
+        "class": "methodology"
+    },
+    {
+        "field": "Physics",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 2,
+        "class": "methodology"
+    },
+    {
+        "field": "Physics",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 3,
+        "class": "result"
+    },
+    {
+        "field": "Physics",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 3,
+        "class": "methodology"
+    },
+    {
+        "field": "Physics",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 4,
+        "class": "result"
+    },
+    {
+        "field": "Physics",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 4,
+        "class": "methodology"
+    },
+    {
+        "field": "Physics",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 5,
+        "class": "result"
+    },
+    {
+        "field": "Physics",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 6,
+        "class": "result"
+    },
+    {
+        "field": "Physics",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 7,
+        "class": "result"
+    },
+    {
+        "field": "Physics",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 7,
+        "class": "methodology"
+    },
+    {
+        "field": "Physics",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 8,
+        "class": "result"
+    },
+    {
+        "field": "Physics",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 9,
+        "class": "result"
+    },
+    {
+        "field": "Physics",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 0,
+        "class": "result"
+    },
+    {
+        "field": "Physics",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 0,
+        "class": "methodology"
+    },
+    {
+        "field": "Physics",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 1,
+        "class": "result"
+    },
+    {
+        "field": "Physics",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 2,
+        "class": "result"
+    },
+    {
+        "field": "Physics",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 3,
+        "class": "result"
+    },
+    {
+        "field": "Physics",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 4,
+        "class": "result"
+    },
+    {
+        "field": "Physics",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 4,
+        "class": "methodology"
+    },
+    {
+        "field": "Physics",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 5,
+        "class": "result"
+    },
+    {
+        "field": "Physics",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 6,
+        "class": "result"
+    },
+    {
+        "field": "Physics",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 7,
+        "class": "result"
+    },
+    {
+        "field": "Physics",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 8,
+        "class": "result"
+    },
+    {
+        "field": "Physics",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 8,
+        "class": "methodology"
+    },
+    {
+        "field": "Physics",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 9,
+        "class": "result"
+    },
+    {
+        "field": "Physics",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 9,
+        "class": "methodology"
+    },
+    {
+        "field": "Physics",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 0,
+        "class": "background"
+    },
+    {
+        "field": "Physics",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 0,
+        "class": "result"
+    },
+    {
+        "field": "Physics",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 0,
+        "class": "methodology"
+    },
+    {
+        "field": "Physics",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 1,
+        "class": "result"
+    },
+    {
+        "field": "Physics",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 1,
+        "class": "methodology"
+    },
+    {
+        "field": "Physics",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 2,
+        "class": "result"
+    },
+    {
+        "field": "Physics",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 3,
+        "class": "result"
+    },
+    {
+        "field": "Physics",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 4,
+        "class": "result"
+    },
+    {
+        "field": "Physics",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 5,
+        "class": "result"
+    },
+    {
+        "field": "Physics",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 5,
+        "class": "methodology"
+    },
+    {
+        "field": "Physics",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 7,
+        "class": "result"
+    },
+    {
+        "field": "Physics",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 8,
+        "class": "result"
+    },
+    {
+        "field": "Physics",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 9,
+        "class": "result"
+    },
+    {
+        "field": "Physics",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 9,
+        "class": "methodology"
+    },
+    {
+        "field": "Physics",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 0,
+        "class": "result"
+    },
+    {
+        "field": "Physics",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 1,
+        "class": "result"
+    },
+    {
+        "field": "Physics",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 1,
+        "class": "methodology"
+    },
+    {
+        "field": "Physics",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 2,
+        "class": "result"
+    },
+    {
+        "field": "Physics",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 2,
+        "class": "methodology"
+    },
+    {
+        "field": "Physics",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 3,
+        "class": "result"
+    },
+    {
+        "field": "Physics",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 4,
+        "class": "result"
+    },
+    {
+        "field": "Physics",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 4,
+        "class": "methodology"
+    },
+    {
+        "field": "Physics",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 6,
+        "class": "result"
+    },
+    {
+        "field": "Physics",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 7,
+        "class": "background"
+    },
+    {
+        "field": "Physics",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 7,
+        "class": "result"
+    },
+    {
+        "field": "Physics",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 7,
+        "class": "methodology"
+    },
+    {
+        "field": "Physics",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 8,
+        "class": "result"
+    },
+    {
+        "field": "Physics",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 8,
+        "class": "methodology"
+    },
+    {
+        "field": "Physics",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 9,
+        "class": "result"
+    },
+    {
+        "field": "Physics",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 9,
+        "class": "methodology"
+    },
+    {
+        "field": "Mathematics",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 0,
+        "class": "result"
+    },
+    {
+        "field": "Mathematics",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 0,
+        "class": "methodology"
+    },
+    {
+        "field": "Mathematics",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 1,
+        "class": "result"
+    },
+    {
+        "field": "Mathematics",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 2,
+        "class": "result"
+    },
+    {
+        "field": "Mathematics",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 3,
+        "class": "result"
+    },
+    {
+        "field": "Mathematics",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 3,
+        "class": "methodology"
+    },
+    {
+        "field": "Mathematics",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 4,
+        "class": "result"
+    },
+    {
+        "field": "Mathematics",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 4,
+        "class": "methodology"
+    },
+    {
+        "field": "Mathematics",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 5,
+        "class": "result"
+    },
+    {
+        "field": "Mathematics",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 5,
+        "class": "methodology"
+    },
+    {
+        "field": "Mathematics",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 6,
+        "class": "result"
+    },
+    {
+        "field": "Mathematics",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 7,
+        "class": "result"
+    },
+    {
+        "field": "Mathematics",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 8,
+        "class": "result"
+    },
+    {
+        "field": "Mathematics",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 8,
+        "class": "methodology"
+    },
+    {
+        "field": "Mathematics",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 9,
+        "class": "result"
+    },
+    {
+        "field": "Mathematics",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 0,
+        "class": "background"
+    },
+    {
+        "field": "Mathematics",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 0,
+        "class": "result"
+    },
+    {
+        "field": "Mathematics",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 0,
+        "class": "methodology"
+    },
+    {
+        "field": "Mathematics",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 1,
+        "class": "result"
+    },
+    {
+        "field": "Mathematics",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 3,
+        "class": "result"
+    },
+    {
+        "field": "Mathematics",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 4,
+        "class": "result"
+    },
+    {
+        "field": "Mathematics",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 4,
+        "class": "methodology"
+    },
+    {
+        "field": "Mathematics",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 5,
+        "class": "result"
+    },
+    {
+        "field": "Mathematics",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 6,
+        "class": "result"
+    },
+    {
+        "field": "Mathematics",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 7,
+        "class": "result"
+    },
+    {
+        "field": "Mathematics",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 8,
+        "class": "result"
+    },
+    {
+        "field": "Mathematics",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 9,
+        "class": "result"
+    },
+    {
+        "field": "Mathematics",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 0,
+        "class": "background"
+    },
+    {
+        "field": "Mathematics",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 0,
+        "class": "result"
+    },
+    {
+        "field": "Mathematics",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 1,
+        "class": "result"
+    },
+    {
+        "field": "Mathematics",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 2,
+        "class": "result"
+    },
+    {
+        "field": "Mathematics",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 3,
+        "class": "result"
+    },
+    {
+        "field": "Mathematics",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 4,
+        "class": "result"
+    },
+    {
+        "field": "Mathematics",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 5,
+        "class": "result"
+    },
+    {
+        "field": "Mathematics",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 6,
+        "class": "result"
+    },
+    {
+        "field": "Mathematics",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 7,
+        "class": "result"
+    },
+    {
+        "field": "Mathematics",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 8,
+        "class": "result"
+    },
+    {
+        "field": "Mathematics",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 9,
+        "class": "result"
+    },
+    {
+        "field": "Mathematics",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 0,
+        "class": "background"
+    },
+    {
+        "field": "Mathematics",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 0,
+        "class": "result"
+    },
+    {
+        "field": "Mathematics",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 1,
+        "class": "result"
+    },
+    {
+        "field": "Mathematics",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 1,
+        "class": "methodology"
+    },
+    {
+        "field": "Mathematics",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 2,
+        "class": "result"
+    },
+    {
+        "field": "Mathematics",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 3,
+        "class": "background"
+    },
+    {
+        "field": "Mathematics",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 3,
+        "class": "result"
+    },
+    {
+        "field": "Mathematics",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 4,
+        "class": "result"
+    },
+    {
+        "field": "Mathematics",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 6,
+        "class": "result"
+    },
+    {
+        "field": "Mathematics",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 7,
+        "class": "result"
+    },
+    {
+        "field": "Mathematics",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 8,
+        "class": "result"
+    },
+    {
+        "field": "Mathematics",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 9,
+        "class": "result"
+    },
+    {
+        "field": "Mathematics",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 0,
+        "class": "result"
+    },
+    {
+        "field": "Mathematics",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 0,
+        "class": "methodology"
+    },
+    {
+        "field": "Mathematics",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 1,
+        "class": "result"
+    },
+    {
+        "field": "Mathematics",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 1,
+        "class": "methodology"
+    },
+    {
+        "field": "Mathematics",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 2,
+        "class": "result"
+    },
+    {
+        "field": "Mathematics",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 3,
+        "class": "result"
+    },
+    {
+        "field": "Mathematics",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 4,
+        "class": "result"
+    },
+    {
+        "field": "Mathematics",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 5,
+        "class": "result"
+    },
+    {
+        "field": "Mathematics",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 6,
+        "class": "result"
+    },
+    {
+        "field": "Mathematics",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 7,
+        "class": "result"
+    },
+    {
+        "field": "Mathematics",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 8,
+        "class": "result"
+    },
+    {
+        "field": "Mathematics",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 9,
+        "class": "result"
+    },
+    {
+        "field": "Mathematics",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 9,
+        "class": "methodology"
+    }
+]

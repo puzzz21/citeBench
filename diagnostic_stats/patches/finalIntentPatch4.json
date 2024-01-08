@@ -1,0 +1,1010 @@
+[
+    {
+        "_id": {
+            "$oid": "65216a5811f25155280a66d2"
+        },
+        "field": "Biology",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 7,
+        "citedPaper": 215238818,
+        "citingPaper": 259239757,
+        "context": [
+            {
+                "tokenLen": 32,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "As early as December 2022, a search of published scientific material on \"Covid-19\" and NPIs and, in particular, the role of face masks in the presence of other NPIs (<REF>).",
+                "citedText": "Eikenberry et al. (2020)",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true,
+                "intentClass": "result"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65216c3f11f25155280a67bc"
+        },
+        "field": "Chemistry",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 5,
+        "citedPaper": 29673554,
+        "citingPaper": 1129866,
+        "context": [
+            {
+                "tokenLen": 26,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "The SC65-DDK-C sequence (from the pCMV-Sc65-DDK plasmid) was subcloned into the pLEN expression vector <REF> (carrying G418 resistance) utilizing the In-fusion HD Cloning kit as above.",
+                "citedText": "[44]",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_verb"
+                ],
+                "worthClass": null,
+                "lowClass": true,
+                "intentClass": "methodology"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65216ed311f25155280a691f"
+        },
+        "field": "Chemistry",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 7,
+        "citedPaper": 85088149,
+        "citingPaper": 220630402,
+        "context": [
+            {
+                "tokenLen": 16,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "This is consistent with previous studies that show ERK phosphorylation promotes the differentiation of adipocytes <REF>.",
+                "citedText": "[41]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "result"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65216f9911f25155280a699a"
+        },
+        "field": "Chemistry",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 3,
+        "citedPaper": 31553279,
+        "citingPaper": 12063601,
+        "context": [
+            {
+                "tokenLen": 16,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "This interaction force value is comparable with that observed for fimbrial tip adhesion to BSA-mannose <REF>.",
+                "citedText": "(50)",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "result"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6521732b11f25155280a6b8f"
+        },
+        "field": "Chemistry",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 8,
+        "citedPaper": 4907025,
+        "citingPaper": 259848130,
+        "context": [
+            {
+                "tokenLen": 35,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "However, previous studies mainly focused on PD-L1 expression in tumor cells and the related effects on suppressing T cells, the heterogeneity of PD-L1 expression in other different immune cells has not been investigated yet <REF>.",
+                "citedText": "[37]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "result"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6521740611f25155280a6c0b"
+        },
+        "field": "Computer Science",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 2,
+        "citedPaper": 14735247,
+        "citingPaper": 6183607,
+        "context": [
+            {
+                "tokenLen": 27,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "We found the overall 5-times speedup rate we obtained is the same as that reported by Cherry et al <REF>, who used an explicit mesh refinement method.",
+                "citedText": "[21]",
+                "cited": true,
+                "posClass": [
+                    "before_adjective",
+                    "after_pronoun"
+                ],
+                "worthClass": "comma",
+                "lowClass": true,
+                "intentClass": "result"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "652175e511f25155280a6d5e"
+        },
+        "field": "Computer Science",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 9,
+        "citedPaper": 440534,
+        "citingPaper": 246286743,
+        "context": [
+            {
+                "tokenLen": 37,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "This could be due to their use of annual PM 2:5 exposure as a proxy for exposure at <1 year of age, which thus introduced measurement error and which may have biased results toward the null <REF>.",
+                "citedText": "(Zeger et al. 2000)",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "result"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6521791a11f25155280a6fd9"
+        },
+        "field": "Computer Science",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 3,
+        "citedPaper": 8396642,
+        "citingPaper": 17779340,
+        "context": [
+            {
+                "tokenLen": 24,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "Previous studies have shown that the promoters of most of the known pre-miRNAs share similar characteristics with RNA polymerase II-dependent protein-coding gene promoters <REF>.",
+                "citedText": "(Zhou et al., 2007)",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "result"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65217ae211f25155280a7149"
+        },
+        "field": "Computer Science",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 0,
+        "citedPaper": 14991102,
+        "citingPaper": 12138075,
+        "context": [
+            {
+                "tokenLen": 20,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "Similar to that assumption, <REF> highlighted the relevance of feedback information for the precise temporal control of complex motor actions.",
+                "citedText": "Gupta (2014)",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true,
+                "intentClass": "result"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65217d5011f25155280a7329"
+        },
+        "field": "Computer Science",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 1,
+        "citedPaper": 3728013,
+        "citingPaper": 245963181,
+        "context": [
+            {
+                "tokenLen": 26,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "Last but not least, a previous comparative study revealed that the outputs of simulation on the same multicellular system would vary from model to model <REF>.",
+                "citedText": "[63]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "result"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65217d7111f25155280a734a"
+        },
+        "field": "Computer Science",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 2,
+        "citedPaper": 43958074,
+        "citingPaper": 257732753,
+        "context": [
+            {
+                "tokenLen": 32,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "These results must be considered cautiously, as metabolite annotations were only available for a small subset of the metabolites, and at a lower confidence level <REF> than those in the targeted analysis.",
+                "citedText": "(28)",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_preposition"
+                ],
+                "worthClass": null,
+                "lowClass": true,
+                "intentClass": "result"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65217e4311f25155280a7418"
+        },
+        "field": "Medicine",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 5,
+        "citedPaper": 9752021,
+        "citingPaper": 237325893,
+        "context": [
+            {
+                "tokenLen": 32,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "In contrast, strong occludin expression within the airway epithelium has been previously reported <REF>; however, the present data demonstrate a loss in protein expression following influenza infection and OVA or HDM challenge.",
+                "citedText": "[28]",
+                "cited": true,
+                "posClass": [
+                    "before_verb",
+                    "after_adverb"
+                ],
+                "worthClass": null,
+                "lowClass": true,
+                "intentClass": "result"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65217f2c11f25155280a7480"
+        },
+        "field": "Medicine",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 9,
+        "citedPaper": 21426492,
+        "citingPaper": 259669070,
+        "context": [
+            {
+                "tokenLen": 16,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "Similar mouse studies knocking out RANK-the receptor for RANKL-led to fewer B-lymphocytes in lymph nodes <REF>.",
+                "citedText": "[21]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "result"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65217f4b11f25155280a7499"
+        },
+        "field": "Medicine",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 1,
+        "citedPaper": 8172229,
+        "citingPaper": 6458273,
+        "context": [
+            {
+                "tokenLen": 25,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "Findings from a study in Tanzania agreed with this finding as falls considered the first leading cause of injury in rural and urban population <REF>.",
+                "citedText": "(19)",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "result"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65217fd211f25155280a74d6"
+        },
+        "field": "Medicine",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 6,
+        "citedPaper": 3932361,
+        "citingPaper": 245620008,
+        "context": [
+            {
+                "tokenLen": 17,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "In agreement with previous studies, our results show high levels of CXCR4 mRNA in dTHP-1 cells <REF>.",
+                "citedText": "[29]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "result"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6521809d11f25155280a7541"
+        },
+        "field": "Medicine",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 3,
+        "citedPaper": 10149814,
+        "citingPaper": 212864761,
+        "context": [
+            {
+                "tokenLen": 30,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "<REF> The World Health Organization QOL-BREF questionnaire (WHOQOL-BREF) consists of 26 questions; it has been translated and validated and its internal consistency, concurrent reliability, and content reliability have been established.",
+                "citedText": "[22]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true,
+                "intentClass": "result"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "652181f411f25155280a7649"
+        },
+        "field": "Medicine",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 4,
+        "citedPaper": 1597332,
+        "citingPaper": 250093971,
+        "context": [
+            {
+                "tokenLen": 23,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "The overall stability of calcium signals and spatial information is broadly consistent with earlier reports using one-photon imaging in freely moving mice <REF>.",
+                "citedText": "(Ziv et al., 2013)",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "result"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "652183d811f25155280a77c2"
+        },
+        "field": "Medicine",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 9,
+        "citedPaper": 214683065,
+        "citingPaper": 258978121,
+        "context": [
+            {
+                "tokenLen": 25,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "<REF> Contrary to studies in our series our close supervision and appropriate medical measure has averted the adverse outcome in the majority of the victims.",
+                "citedText": "[18]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true,
+                "intentClass": "result"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6521846711f25155280a7857"
+        },
+        "field": "Materials Science",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 4,
+        "citedPaper": 18000194,
+        "citingPaper": 254441812,
+        "context": [
+            {
+                "tokenLen": 19,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "The main ESR parameters as obtained from fitting in accordance with Lorenzian profile <REF> are shown in Figure 2b.",
+                "citedText": "[26]",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_verb"
+                ],
+                "worthClass": null,
+                "lowClass": true,
+                "intentClass": "methodology"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6521857511f25155280a790c"
+        },
+        "field": "Materials Science",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 2,
+        "citedPaper": 5617981,
+        "citingPaper": 119176194,
+        "context": [
+            {
+                "tokenLen": 16,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "For example, the experiments reported in <REF> feature elastic instabilities during swelling of composite polymeric plates.",
+                "citedText": "[25]",
+                "cited": true,
+                "posClass": [
+                    "before_preposition",
+                    "after_noun"
+                ],
+                "worthClass": null,
+                "lowClass": true,
+                "intentClass": "result"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "652185e611f25155280a795b"
+        },
+        "field": "Materials Science",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 6,
+        "citedPaper": 23010532,
+        "citingPaper": 139759794,
+        "context": [
+            {
+                "tokenLen": 33,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "A simple approach to assessing changes to surface roughness is optical microscopy, however comprehensive assessment can only be made by using techniques such as confocal imaging as this provides a 3D representation <REF>.",
+                "citedText": "[48]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "methodology"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "652186c911f25155280a79cc"
+        },
+        "field": "Materials Science",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 3,
+        "citedPaper": 15081657,
+        "citingPaper": 119499771,
+        "context": [
+            {
+                "tokenLen": 24,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "This value are comparable to the value reported for chitosan-coated magnetic nanoparticles (53 emu/g) and shows its feasibility for target drug delivery systems <REF>.",
+                "citedText": "[11]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "result"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6521871e11f25155280a7a02"
+        },
+        "field": "Materials Science",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 0,
+        "citedPaper": 376888,
+        "citingPaper": 249831299,
+        "context": [
+            {
+                "tokenLen": 25,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "This storage modulus variation rate is more than four times larger than the value found in the literature for a Ti50Ni45Cu5 SMA: 210 MPa/\u00b0C <REF>.",
+                "citedText": "[36]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "result"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6521875811f25155280a7a2f"
+        },
+        "field": "Materials Science",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 2,
+        "citedPaper": 6282069,
+        "citingPaper": 233424886,
+        "context": [
+            {
+                "tokenLen": 35,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "Since the radiative decay rate of the trion is expected to be twice faster than that of the neutral exciton <REF>, these results confirm the modest contribution the non-radiative Auger processes in the trion recombination.",
+                "citedText": "[76]",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_others"
+                ],
+                "worthClass": "comma",
+                "lowClass": true,
+                "intentClass": "result"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "652187cd11f25155280a7a75"
+        },
+        "field": "Materials Science",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 5,
+        "citedPaper": 26439034,
+        "citingPaper": 257708618,
+        "context": [
+            {
+                "tokenLen": 22,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "The obtained results were also confirmed by the fact that the size and weight of the treated tumour were significantly reduced <REF>.",
+                "citedText": "[43]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "result"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6521887e11f25155280a7ae7"
+        },
+        "field": "Materials Science",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 8,
+        "citedPaper": 18620456,
+        "citingPaper": 257899692,
+        "context": [
+            {
+                "tokenLen": 37,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "When compared with the XRD reference patterns, the X-ray diffraction pattern of the TiO 2 commercial powder was shown to be in the anatase state (typical peaks at 25 \u2022 and 48 \u2022 ) <REF> (see Figure 3b).",
+                "citedText": "[36]",
+                "cited": true,
+                "posClass": [
+                    "before_adjective",
+                    "after_verb"
+                ],
+                "worthClass": null,
+                "lowClass": true,
+                "intentClass": "result"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65218a4d11f25155280a7c27"
+        },
+        "field": "Physics",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 0,
+        "citedPaper": 89246,
+        "citingPaper": 118611454,
+        "context": [
+            {
+                "tokenLen": 25,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "When the knot type is not restricted, the corresponding model has been treated by a mapping onto an O (N \u2192 0) field theory <REF>.",
+                "citedText": "[22]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "methodology"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65218a6711f25155280a7c31"
+        },
+        "field": "Physics",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 1,
+        "citedPaper": 3107229,
+        "citingPaper": 258714689,
+        "context": [
+            {
+                "tokenLen": 21,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "After conversion to the structure constant, this yields a tree-level exact result, in agreement with the prediction for protected operators <REF>.",
+                "citedText": "[34]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "result"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65218e4611f25155280a7d72"
+        },
+        "field": "Physics",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 2,
+        "citedPaper": 611020,
+        "citingPaper": 119084743,
+        "context": [
+            {
+                "tokenLen": 37,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "Hence, ODLRO can be realised through dephasing in any model with 2 or more SU(2) symmetries (see Supplemental Material), as examples we suggest multi-band Hubbard models and the Richardson-Gaudin model <REF> which also permit superconducting regimes.",
+                "citedText": "[50]",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_others"
+                ],
+                "worthClass": null,
+                "lowClass": true,
+                "intentClass": "methodology"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6521915411f25155280a7e95"
+        },
+        "field": "Physics",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 1,
+        "citedPaper": 18991668,
+        "citingPaper": 40266887,
+        "context": [
+            {
+                "tokenLen": 25,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "At the time of writing, the most recent new proof of Grace's Theorem is by Borcea and Br\u00e4nd\u00e9n and can be found in <REF>.",
+                "citedText": "[14]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "result"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65219ac911f25155280a821c"
+        },
+        "field": "Mathematics",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 4,
+        "citedPaper": 19010435,
+        "citingPaper": 10387411,
+        "context": [
+            {
+                "tokenLen": 33,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "We emphasize that working in this picture is not a loss of generality but merely a picture that is equivalent to the single-system treatment, but which is more suitable for our analysis <REF>.",
+                "citedText": "[2]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "result"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65219cec11f25155280a831b"
+        },
+        "field": "Mathematics",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 3,
+        "citedPaper": 14830841,
+        "citingPaper": 119117115,
+        "context": [
+            {
+                "tokenLen": 37,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "Intrigued by their results and similar ones by Cornalba/Schiappa <REF>, my collaborators and myself wondered whether a non-trivial three-form flux background might also have similar effects on the closed string sector, which is the one governing gravity.",
+                "citedText": "[3]",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_pronoun"
+                ],
+                "worthClass": "comma",
+                "lowClass": true,
+                "intentClass": "result"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65219d3211f25155280a8332"
+        },
+        "field": "Mathematics",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 6,
+        "citedPaper": 14666460,
+        "citingPaper": 119157291,
+        "context": [
+            {
+                "tokenLen": 19,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "We have chosen the basis in (4.5) analogously to that in <REF> for the Sasaki-Einstein Y p,q metrics.",
+                "citedText": "[49]",
+                "cited": true,
+                "posClass": [
+                    "before_preposition",
+                    "after_preposition"
+                ],
+                "worthClass": null,
+                "lowClass": true,
+                "intentClass": "result"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65219e3411f25155280a83a4"
+        },
+        "field": "Mathematics",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 8,
+        "citedPaper": 14442088,
+        "citingPaper": 222272136,
+        "context": [
+            {
+                "tokenLen": 18,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "Rasmussen showed that the homology theory defined by Lee contains deep geometric information, contrary to initial expectations <REF>.",
+                "citedText": "[45]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "result"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6521a13711f25155280a8535"
+        },
+        "field": "Mathematics",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 2,
+        "citedPaper": 14165759,
+        "citingPaper": 255372583,
+        "context": [
+            {
+                "tokenLen": 30,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "This line of thought is somehow reminiscent of the deep structural result for RCD(K, N) spaces, with K \u2208 R and N \u2208 (1, \u221e), proved by Mondino-Naber <REF>.",
+                "citedText": "[39]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "result"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6521a2e811f25155280a861d"
+        },
+        "field": "Mathematics",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 0,
+        "citedPaper": 6597045,
+        "citingPaper": 252168696,
+        "context": [
+            {
+                "tokenLen": 26,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "Under the assumption that the distribution of NSC Gini index values is approximately Gaussian, which is supported by prior studies <REF>, we can estimate two things.",
+                "citedText": "(Ultsch & Lotsch, 2017)",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_pronoun"
+                ],
+                "worthClass": "comma",
+                "lowClass": true,
+                "intentClass": "methodology"
+            }
+        ]
+    }
+]

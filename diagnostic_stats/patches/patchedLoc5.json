@@ -1,0 +1,395 @@
+[
+    {
+        "_id": {
+            "$oid": "6519500f35a1433594ef8ae4"
+        },
+        "field": "Biology",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 2,
+        "citedPaper": 22828888,
+        "citingPaper": 257655383,
+        "context": [
+            {
+                "tokenLen": 17,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "Suen et al. <REF> demonstrated that AIB-1 selectively enhances ER\u03b1 but does not enhance ER\u03b2-dependent gene transcription.",
+                "citedText": "[45]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6519509735a1433594ef8af1"
+        },
+        "field": "Biology",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 7,
+        "citedPaper": 4467179,
+        "citingPaper": 258355102,
+        "context": [
+            {
+                "tokenLen": 18,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "<REF> developed the ML classifier BitterPredict 58 to predict the bitterness of compounds based on their molecular structures.",
+                "citedText": "Dagan-Wiener et al.",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "651950b435a1433594ef8af8"
+        },
+        "field": "Chemistry",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 3,
+        "citedPaper": 10805043,
+        "citingPaper": 14162314,
+        "context": [
+            {
+                "tokenLen": 27,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "<REF> measured by this technique the CO 2 permeability of lipid vesicles without and with \u223c40% cholesterol, obtaining in both cases P CO 2 \u2248 0.001 cm/s.",
+                "citedText": "Yang et al. (2000)",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "651950be35a1433594ef8afd"
+        },
+        "field": "Chemistry",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 4,
+        "citedPaper": 11408681,
+        "citingPaper": 4396626,
+        "context": [
+            {
+                "tokenLen": 29,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "Tsai et al <REF> reported that NAC induces apoptosis in rat and human smooth muscle cells, and that the overexpression of Bcl-2 suppressed the cell death induced by NAC.",
+                "citedText": "(23)",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6519518035a1433594ef8b16"
+        },
+        "field": "Chemistry",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 7,
+        "citedPaper": 16495813,
+        "citingPaper": 218830245,
+        "context": [
+            {
+                "tokenLen": 26,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "<REF> An observational study carried out at an ammonium perchlorate production factory in China found no effect on thyroid function from long-term exposure to ammonium perchlorate.",
+                "citedText": "[4]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "651951b735a1433594ef8b40"
+        },
+        "field": "Computer Science",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 0,
+        "citedPaper": 14611323,
+        "citingPaper": 510,
+        "context": [
+            {
+                "tokenLen": 21,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "However, we will not describe the details of these two parts in this paper since they have been described elsewhere <REF>.",
+                "citedText": "(Wermter & L ochel, 1996)",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6519522e35a1433594ef8b4f"
+        },
+        "field": "Medicine",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 8,
+        "citedPaper": 13974235,
+        "citingPaper": 6596286,
+        "context": [
+            {
+                "tokenLen": 17,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "<REF> After 10 to 15 days, mice were sacrificed and splenocytes isolated by mechanical disruption of spleens.",
+                "citedText": "[25]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "651952bd35a1433594ef8ba2"
+        },
+        "field": "Materials Science",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 6,
+        "citedPaper": 119429029,
+        "citingPaper": 5297467,
+        "context": [
+            {
+                "tokenLen": 25,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "It has been anticipated <REF> that the shielding of the interior E-field would reduce or even eliminate the QCSE at densities 10 19 cm -3 .",
+                "citedText": "[16]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6519541435a1433594ef8c17"
+        },
+        "field": "Physics",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 0,
+        "citedPaper": 10532516,
+        "citingPaper": 7484805,
+        "context": [
+            {
+                "tokenLen": 28,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "In <REF> assumptions are made in the soft sector, such as intergenerational mixing being zero, which allows a basis to be chosen where the Yukawa matrices are diagonal.",
+                "citedText": "[14]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6519543535a1433594ef8c21"
+        },
+        "field": "Physics",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 9,
+        "citedPaper": 16635722,
+        "citingPaper": 257632272,
+        "context": [
+            {
+                "tokenLen": 31,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "Assuming that the light detection system is only affected by Gaussian noise, the log-likelihood cost function is expressed as <REF> where \u03b1 runs over the chosen input-output combinations of Eq. (3).",
+                "citedText": "[25]",
+                "cited": true,
+                "posClass": [
+                    "before_preposition",
+                    "after_others"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6519543f35a1433594ef8c25"
+        },
+        "field": "Physics",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 2,
+        "citedPaper": 206330460,
+        "citingPaper": 221586221,
+        "context": [
+            {
+                "tokenLen": 16,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "These constraints derived in <REF> are shown by line labeled \"gr\" in Figure 8.",
+                "citedText": "[36]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6519544b35a1433594ef8c2a"
+        },
+        "field": "Physics",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 6,
+        "citedPaper": 963719,
+        "citingPaper": 232296511,
+        "context": [
+            {
+                "tokenLen": 37,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "Contrarily, <REF> observed no bacterial inactivation after a plasma treatment that included a UV transparent slide positioned over the sample allowing only UV photons to pass through while preventing gaseous phase chemical species to reach the sample.",
+                "citedText": "Dobrynin et al. [23]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6519545035a1433594ef8c2e"
+        },
+        "field": "Physics",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 0,
+        "citedPaper": 211096828,
+        "citingPaper": 246438771,
+        "context": [
+            {
+                "tokenLen": 36,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "Ref. <REF> studied the effect of the uncertainties on the recovered parameters and found that for BBHs they dominate the residual background when for BNSs they are negligible compared to the residual due to undetected sources.",
+                "citedText": "[62]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6519547435a1433594ef8c34"
+        },
+        "field": "Physics",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 4,
+        "citedPaper": 52082731,
+        "citingPaper": 255210442,
+        "context": [
+            {
+                "tokenLen": 29,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "According to <REF>, the presence of white noise introduces a flat region at high frequencies of a PSD curve with an intensity proportional to the strength of the noise.",
+                "citedText": "[66]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6519547835a1433594ef8c3e"
+        },
+        "field": "Mathematics",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 0,
+        "citedPaper": 6540919,
+        "citingPaper": 17350801,
+        "context": [
+            {
+                "tokenLen": 26,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "Using results of Smith <REF>, a cofree graph coalgebra is given in general by the largest coalgebra contained in n Gr (n)\u2297 \u03a3n W \u2297n .",
+                "citedText": "[20]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ]
+    },
+]

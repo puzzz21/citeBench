@@ -1,0 +1,1523 @@
+[
+    {
+        "_id": {
+            "$oid": "6521029b7f815b202d8cf98a"
+        },
+        "field": "Biology",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 9,
+        "citedPaper": 529873,
+        "citingPaper": 247478303,
+        "context": [
+            {
+                "tokenLen": 30,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "Therefore, our results agree with previous approaches where they concluded that many microorganisms can survive and multiply in extreme conditions imposed by low-temperature environments, far from their optimum temperature <REF>.",
+                "citedText": "(Rothschild and Mancinelli, 2001)",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "result"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "652102f97f815b202d8cf9c0"
+        },
+        "field": "Biology",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 6,
+        "citedPaper": 23338786,
+        "citingPaper": 258237554,
+        "context": [
+            {
+                "tokenLen": 27,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "We now know that IL-1\u03b2 is released from cells by going through the GSDMD-formed pores, and this mechanism was predicted by a previous study in 2006 <REF>.",
+                "citedText": "[35]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "result"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "652103e67f815b202d8cfa5b"
+        },
+        "field": "Biology",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 5,
+        "citedPaper": 17033731,
+        "citingPaper": 246342081,
+        "context": [
+            {
+                "tokenLen": 21,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "Kang and others revealed a decline in the abundance of the genera Coprococcus, Prevotella, and unclassified Veillonellaceae in ASD patients <REF>.",
+                "citedText": "[46]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "result"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6521059c7f815b202d8cfb46"
+        },
+        "field": "Biology",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 9,
+        "citedPaper": 215718715,
+        "citingPaper": 256548298,
+        "context": [
+            {
+                "tokenLen": 26,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "According to recent statistical results provided by a Harvard research team, humanity is expected to coexist with the SARS-CoV-2 virus for the next 5 years <REF>.",
+                "citedText": "(Kissler et al., 2020)",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "result"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "652108127f815b202d8cfc8a"
+        },
+        "field": "Chemistry",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 8,
+        "citedPaper": 19527627,
+        "citingPaper": 24361860,
+        "context": [
+            {
+                "tokenLen": 34,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "Thus, we tested the effects of pharmacological NCX inhibition by KB-R7943, which at high levels inhibits both the forward-and reverse-mode (Ca 2+ in, Na + out) NCX, but lower KB-R7943 inhibits only reverse-mode NCX <REF>.",
+                "citedText": "[36]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "methodology"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "652109897f815b202d8cfd42"
+        },
+        "field": "Chemistry",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 5,
+        "citedPaper": 36794026,
+        "citingPaper": 1741107,
+        "context": [
+            {
+                "tokenLen": 21,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "These results are in agreement with a mouse model deficient for \u03b12\u03b21 that did not show a prolonged tail-bleeding time <REF>.",
+                "citedText": "[55]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "result"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65210c1d7f815b202d8cfe96"
+        },
+        "field": "Chemistry",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 0,
+        "citedPaper": 18267431,
+        "citingPaper": 249825732,
+        "context": [
+            {
+                "tokenLen": 28,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "Celecoxib that was entrapped in poly(lactideco-glycolide) (PLGA) using didodecyldimethylammonium bromide (DMAB) or poly(vinyl alcohol) as a stabilizer could be produced by the solvent evaporation method <REF>.",
+                "citedText": "[113]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "methodology"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65210c367f815b202d8cfeb6"
+        },
+        "field": "Chemistry",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 0,
+        "citedPaper": 10948106,
+        "citingPaper": 364099,
+        "context": [
+            {
+                "tokenLen": 26,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "For metabolic networks, the difference in the fraction of functionally unknown proteins between species categories was confirmed in a previous study of our research group <REF>.",
+                "citedText": "(Takemoto & Yoshitake, 2013)",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "result"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65210e4e7f815b202d8cffb8"
+        },
+        "field": "Chemistry",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 1,
+        "citedPaper": 207911317,
+        "citingPaper": 258275527,
+        "context": [
+            {
+                "tokenLen": 21,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "These data do not support a pathogenic role for SNCA p.H50Q despite functional evidence supporting a potential role in disease <REF>.",
+                "citedText": "(Boyer et al. 2019)",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "result"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65210fd77f815b202d8d007e"
+        },
+        "field": "Computer Science",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 0,
+        "citedPaper": 41415,
+        "citingPaper": 6163275,
+        "context": [
+            {
+                "tokenLen": 34,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "<REF> has done previous work on incorporating the WordNet hierarchy into a generative parsing model; however, this approach requires data with word-sense annotations whereas our model deals with word-sense ambiguity through unsupervised discriminative training.",
+                "citedText": "Bikel (2000)",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true,
+                "intentClass": "methodology"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65210fed7f815b202d8d009f"
+        },
+        "field": "Computer Science",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 1,
+        "citedPaper": 6273604,
+        "citingPaper": 199654277,
+        "context": [
+            {
+                "tokenLen": 19,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "First, to control over-segmentation, we used an approach called the marker-selection watershed transform to improve the segmentation results <REF>.",
+                "citedText": "[24]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "methodology"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "652113c27f815b202d8d033d"
+        },
+        "field": "Computer Science",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 2,
+        "citedPaper": 2233498,
+        "citingPaper": 258846560,
+        "context": [
+            {
+                "tokenLen": 24,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "Pretrained word embedding results were compared against the results of specific domain trained word embeddings of Word2Vec, GloVe and FastText on Mohler dataset <REF>.",
+                "citedText": "[39]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "result"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6521144b7f815b202d8d038d"
+        },
+        "field": "Computer Science",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 5,
+        "citedPaper": 39504821,
+        "citingPaper": 254275485,
+        "context": [
+            {
+                "tokenLen": 28,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "This is in stark contrast to tailored quantum decoders such as minimum weight matching, under which the surface code is typically celebrated for its high threshold value <REF>.",
+                "citedText": "[10]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "result"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "652115ed7f815b202d8d04bc"
+        },
+        "field": "Computer Science",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 5,
+        "citedPaper": 10590226,
+        "citingPaper": 251886483,
+        "context": [
+            {
+                "tokenLen": 25,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "The network meta-command allowed us to fit consistency models and estimate network RRs for each treatment strategy based on both direct and indirect comparisons <REF>.",
+                "citedText": "(13)",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "methodology"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6521174c7f815b202d8d05bb"
+        },
+        "field": "Computer Science",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 4,
+        "citedPaper": 4628045,
+        "citingPaper": 256854719,
+        "context": [
+            {
+                "tokenLen": 27,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "If the distribution of \"ALL\" line was consistent with the results of MR estimates, it indicated that the MR results were stable and reliable <REF>.",
+                "citedText": "(26)",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "result"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "652117af7f815b202d8d05fa"
+        },
+        "field": "Computer Science",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 7,
+        "citedPaper": 206596371,
+        "citingPaper": 258859009,
+        "context": [
+            {
+                "tokenLen": 22,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "Similarly, <REF> utilized weight matrixes to amplify salient features and suppress irrelevant ones, resulting in increased accuracy and sensitivity to small targets.",
+                "citedText": "Chen et al. [54]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true,
+                "intentClass": "methodology"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "652117e27f815b202d8d0623"
+        },
+        "field": "Computer Science",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 8,
+        "citedPaper": 3273340,
+        "citingPaper": 258715263,
+        "context": [
+            {
+                "tokenLen": 31,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "As our approach improves the cost-accuracy tradeoff of various established models, it contributes to saving valuable scarce resources and to the important research direction of more (energy) efficient deep learning <REF>.",
+                "citedText": "[40]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "background"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "652118087f815b202d8d0667"
+        },
+        "field": "Medicine",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 0,
+        "citedPaper": 8709856,
+        "citingPaper": 247850792,
+        "context": [
+            {
+                "tokenLen": 32,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "Notably, these results are in line with previous findings showing that putative 2 0 ,3 0 -cNMP cyclic phosphodiesterase, an enzyme involved in the digestion of cNMPs, exists in Arabidopsis thaliana <REF>.",
+                "citedText": "(Genschik et al., 1997)",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "result"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "652118e67f815b202d8d06dc"
+        },
+        "field": "Medicine",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 6,
+        "citedPaper": 25098692,
+        "citingPaper": 258796278,
+        "context": [
+            {
+                "tokenLen": 23,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "One of these is to conduct a more comprehensive analysis of the effects of random fluctuations on the stability of the attractors <REF>.",
+                "citedText": "[47]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "result"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "652119a87f815b202d8d0742"
+        },
+        "field": "Medicine",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 8,
+        "citedPaper": 10215498,
+        "citingPaper": 234054106,
+        "context": [
+            {
+                "tokenLen": 23,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "And increased CD3 + and CD8 + T cells positive for CD45 was shown in the anti-CTL4 group which is consistent with previous studies <REF>.",
+                "citedText": "(24)",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "result"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65211a567f815b202d8d07c2"
+        },
+        "field": "Medicine",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 0,
+        "citedPaper": 6965243,
+        "citingPaper": 3217483,
+        "context": [
+            {
+                "tokenLen": 22,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "We also tested the Jurkat acute T cell leukemia cells that express a mature TCR and low levels of Rag mRNAs <REF>.",
+                "citedText": "(Roose et al., 2003)",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "methodology"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65211c237f815b202d8d08df"
+        },
+        "field": "Medicine",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 9,
+        "citedPaper": 3018523,
+        "citingPaper": 236455498,
+        "context": [
+            {
+                "tokenLen": 24,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "In the ENRICHD trial, patients receiving cognitive behavioral therapy (CBT) showed a 2.7-point greater reduction in BDI scores compared to usual care controls <REF>.",
+                "citedText": "[19]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "result"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65211d837f815b202d8d098a"
+        },
+        "field": "Medicine",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 6,
+        "citedPaper": 1129572,
+        "citingPaper": 252899263,
+        "context": [
+            {
+                "tokenLen": 33,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "These results add to the mounting evidence for the dysconnection 20 hypothesis of SZ, which emphasizes that \"there is abnormal (rather than decreased) functional integration among brain regions in schizophrenia\" <REF>.",
+                "citedText": "(Stephan et al., 2009)",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "result"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65211ee17f815b202d8d0a81"
+        },
+        "field": "Medicine",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 3,
+        "citedPaper": 13727602,
+        "citingPaper": 257664446,
+        "context": [
+            {
+                "tokenLen": 23,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "Our non-significant association between LTL and incident stroke is consistent with findings from a large meta-analysis where solely prospective studies were examined <REF>.",
+                "citedText": "[74]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "result"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "652120077f815b202d8d0b3f"
+        },
+        "field": "Medicine",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 9,
+        "citedPaper": 4471855,
+        "citingPaper": 254496722,
+        "context": [
+            {
+                "tokenLen": 18,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "Additionally, murine breast cancer-derived exosomes enter the lung primarily and are associated with pre-lung metastases niche formation <REF>.",
+                "citedText": "[60]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "background"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "652120527f815b202d8d0b96"
+        },
+        "field": "Medicine",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 1,
+        "citedPaper": 218830429,
+        "citingPaper": 236182410,
+        "context": [
+            {
+                "tokenLen": 22,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "Compared with SARS-CoV and Middle East respiratory syndrome coronavirus (MERS-CoV), SARS-CoV-2-induced adverse effects on the gastrointestinal tract are of particular concern <REF>.",
+                "citedText": "[119]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "result"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6521210b7f815b202d8d0be7"
+        },
+        "field": "Medicine",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 7,
+        "citedPaper": 8477441,
+        "citingPaper": 255906120,
+        "context": [
+            {
+                "tokenLen": 30,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "In our study, a circRNAs-miRNA-mRNA network analysis performed on DE-circRNAs shows that most DE-circRNAs predicted only one or two target sites for miRNAs, which is consistent with the literature <REF>.",
+                "citedText": "[42]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "result"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "652121bb7f815b202d8d0c07"
+        },
+        "field": "Medicine",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 8,
+        "citedPaper": 220351367,
+        "citingPaper": 259377484,
+        "context": [
+            {
+                "tokenLen": 19,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "Results from previous studies indicated that college students were especially vulnerable to those adverse outcomes during the pandemic <REF>.",
+                "citedText": "[6]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "result"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "652122797f815b202d8d0caf"
+        },
+        "field": "Materials Science",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 3,
+        "citedPaper": 1750982,
+        "citingPaper": 221980436,
+        "context": [
+            {
+                "tokenLen": 18,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "For MODIS and SNPP VIIRS, NIST performed these measurements using their Special Tri-function Automated Reference Reflectometer (STARR) <REF>.",
+                "citedText": "[21]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "methodology"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6521232a7f815b202d8d0d05"
+        },
+        "field": "Materials Science",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 5,
+        "citedPaper": 55079593,
+        "citingPaper": 236635495,
+        "context": [
+            {
+                "tokenLen": 31,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "On the other hand, the fifth structure is generated from a snapshot of the NPT simulation starting from the high-quality CRN structure previously reported, which agrees well with experimental results <REF>.",
+                "citedText": "[65]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "result"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6521233e7f815b202d8d0d15"
+        },
+        "field": "Materials Science",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 6,
+        "citedPaper": 55922005,
+        "citingPaper": 233590327,
+        "context": [
+            {
+                "tokenLen": 16,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "To explain this phenomena, we resort to the theoretical modeling based on effective medium approximation <REF>.",
+                "citedText": "[1]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "methodology"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6521238f7f815b202d8d0d50"
+        },
+        "field": "Materials Science",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 7,
+        "citedPaper": 1388476,
+        "citingPaper": 202208846,
+        "context": [
+            {
+                "tokenLen": 31,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "In  Yield stress, as an important parameter of cementitious material qualifying flowability <REF>, of RBPC is close to CEM I and CEM III and plastic viscosity is similar to CEM III.",
+                "citedText": "[14]",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_preposition"
+                ],
+                "worthClass": "comma",
+                "lowClass": true,
+                "intentClass": "result"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "652123a27f815b202d8d0d6f"
+        },
+        "field": "Materials Science",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 0,
+        "citedPaper": 17078195,
+        "citingPaper": 8890426,
+        "context": [
+            {
+                "tokenLen": 28,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "Energetically favorable crosslinking or attraction of actin filaments all along their length can result in a unimodular length distribution as this ensures maximal mutual overlap of filaments <REF>.",
+                "citedText": "[47]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "background"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6521251a7f815b202d8d0e73"
+        },
+        "field": "Materials Science",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 0,
+        "citedPaper": 119312871,
+        "citingPaper": 104184518,
+        "context": [
+            {
+                "tokenLen": 24,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "Paramagnetic behavior was reported for polycrystalline Y-stabilized tetragonal zirconia with up to 10% of Mn prepared by the solid state method by equilibrium <REF>.",
+                "citedText": "[25]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "methodology"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "652125b27f815b202d8d0ed3"
+        },
+        "field": "Materials Science",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 4,
+        "citedPaper": 119206035,
+        "citingPaper": 239557536,
+        "context": [
+            {
+                "tokenLen": 23,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "The above exponential behavior is in contrast to that of the paraconductivity effect (due to amplitude fluctuations), which shows a power-law divergence <REF>.",
+                "citedText": "[35]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "result"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "652125ce7f815b202d8d0ee7"
+        },
+        "field": "Materials Science",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 7,
+        "citedPaper": 17210714,
+        "citingPaper": 253078708,
+        "context": [
+            {
+                "tokenLen": 21,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "In addition, the smallersized materials also showed higher specific surface areas, which was in accordance with the nature of nanomaterials <REF>.",
+                "citedText": "[31]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "result"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "652126387f815b202d8d0f27"
+        },
+        "field": "Materials Science",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 9,
+        "citedPaper": 15704119,
+        "citingPaper": 258620391,
+        "context": [
+            {
+                "tokenLen": 18,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "A similar observation was also made when MSCs were cultured within 3-dimensional arginylglycylaspartic acid (RGD)-alginate microspheres <REF>.",
+                "citedText": "[72]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "methodology"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6521263c7f815b202d8d0f2f"
+        },
+        "field": "Materials Science",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 9,
+        "citedPaper": 101537520,
+        "citingPaper": 237933851,
+        "context": [
+            {
+                "tokenLen": 29,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "These results suggest that the hydrogenation of half C atoms (sp-or/and sp 2 -hybridized) may result in a maximal magnetic moment, similarly to what was found for graphene <REF>.",
+                "citedText": "[171]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "result"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "652126527f815b202d8d0f42"
+        },
+        "field": "Materials Science",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 0,
+        "citedPaper": 619738,
+        "citingPaper": 232429629,
+        "context": [
+            {
+                "tokenLen": 33,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "Driven by the electrostatic interaction, the pH-sensitive material, carboxymethyl chitosan (CMCS) has been coated onto the surface of the cationic liposome (CL) to form the CMCSmodified pH-sensitive Sf/siRNA co-delivery cationic liposome (CMCS-SiSf-CL) <REF>.",
+                "citedText": "(Yao et al., 2015)",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "methodology"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "652128a07f815b202d8d108f"
+        },
+        "field": "Materials Science",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 0,
+        "citedPaper": 139120397,
+        "citingPaper": 232404070,
+        "context": [
+            {
+                "tokenLen": 22,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "A problem of this type arose when modeling the chaotic dynamics of a polymer molecule (polymer chain) in an aqueous solution <REF>.",
+                "citedText": "[1]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "background"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "652129cf7f815b202d8d1140"
+        },
+        "field": "Materials Science",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 4,
+        "citedPaper": 205561629,
+        "citingPaper": 239538087,
+        "context": [
+            {
+                "tokenLen": 26,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "The lattice fringes of 0.33 nm corresponded to the (021) crystal plane of BP, which was in accordance with the results in the XRD analysis <REF>.",
+                "citedText": "[56]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "result"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65212ba57f815b202d8d1242"
+        },
+        "field": "Physics",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 2,
+        "citedPaper": 8321813,
+        "citingPaper": 119274531,
+        "context": [
+            {
+                "tokenLen": 26,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "The models we have investigated also admit 3-brane solutions which again are in accordance with the intersection rule that two M5-branes intersect on a 3-brane <REF>.",
+                "citedText": "[17]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "result"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65212f417f815b202d8d1341"
+        },
+        "field": "Physics",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 4,
+        "citedPaper": 26335092,
+        "citingPaper": 210920586,
+        "context": [
+            {
+                "tokenLen": 29,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "The \u03c10 values and the differences in the quoted Na content indicate that the samples studied in the early papers were quite often mixtures of Na ordered phases <REF>.",
+                "citedText": "(20)",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "result"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "652130fd7f815b202d8d13ea"
+        },
+        "field": "Physics",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 0,
+        "citedPaper": 119240051,
+        "citingPaper": 119246356,
+        "context": [
+            {
+                "tokenLen": 31,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "In <REF> some of the authors have presented a ten dimensional black-hole solution dual to the non conformal plasma of N = 4 SYM coupled to N f \u226b 1 massless flavors.",
+                "citedText": "[3]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true,
+                "intentClass": "methodology"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "652133f77f815b202d8d14d5"
+        },
+        "field": "Physics",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 0,
+        "citedPaper": 119071261,
+        "citingPaper": 244714254,
+        "context": [
+            {
+                "tokenLen": 26,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "This is the framework most often applied to models of inflation, although the problem is still numerically tractable even when relaxing some of these assumptions <REF>.",
+                "citedText": "[16]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "methodology"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "652134367f815b202d8d14fc"
+        },
+        "field": "Physics",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 1,
+        "citedPaper": 14525589,
+        "citingPaper": 54787466,
+        "context": [
+            {
+                "tokenLen": 33,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "The first measurement on the \u039b b \u2192 \u039b\u00b5 + \u00b5 \u2212 process has been reported by the CDF Collaboration <REF> with 24 signal events and a statistical significance of 5.8 Gaussian standard deviations.",
+                "citedText": "[1]",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_preposition"
+                ],
+                "worthClass": null,
+                "lowClass": true,
+                "intentClass": "methodology"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "652136a57f815b202d8d15bb"
+        },
+        "field": "Physics",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 7,
+        "citedPaper": 21570403,
+        "citingPaper": 257496018,
+        "context": [
+            {
+                "tokenLen": 35,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "Following <REF>, the muon electric dipole moment is given by: where r i = m 2 i /M 2 Higgs and \u03bb ij are the Yukawa couplings between the charged leptons f i and f j .",
+                "citedText": "[45]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "comma",
+                "lowClass": true,
+                "intentClass": "result"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "652136eb7f815b202d8d15d9"
+        },
+        "field": "Physics",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 9,
+        "citedPaper": 15261366,
+        "citingPaper": 259203936,
+        "context": [
+            {
+                "tokenLen": 28,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "Numerical simulations with QuTip <REF> are performed, showing how the JDPD can perform phase detection with a fidelity of 99.99% when flux-switched on a timescale of 0.05 ns.",
+                "citedText": "[33]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true,
+                "intentClass": "methodology"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6521382b7f815b202d8d164a"
+        },
+        "field": "Physics",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 3,
+        "citedPaper": 2558172,
+        "citingPaper": 237752326,
+        "context": [
+            {
+                "tokenLen": 23,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "Besides, the circular polarization of the state link to waveguides too, the unidirectional excitation of pseudospin state was proved in previous work <REF>.",
+                "citedText": "[28]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "result"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "652138437f815b202d8d1652"
+        },
+        "field": "Physics",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 4,
+        "citedPaper": 4580122,
+        "citingPaper": 252156331,
+        "context": [
+            {
+                "tokenLen": 21,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "Similar to tICA, a time-lagged version of the model aims to predict a sample or latent point t 0 later <REF>.",
+                "citedText": "[151]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "methodology"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "652139687f815b202d8d16b3"
+        },
+        "field": "Physics",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 8,
+        "citedPaper": 25268216,
+        "citingPaper": 254661683,
+        "context": [
+            {
+                "tokenLen": 24,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "Consequently, this approach is well-suited for checking results of less demanding methods, for example, variants of DFT that were tailored for noncovalent interactions <REF>.",
+                "citedText": "[64]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "methodology"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6521396e7f815b202d8d16ba"
+        },
+        "field": "Physics",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 8,
+        "citedPaper": 119339237,
+        "citingPaper": 255045008,
+        "context": [
+            {
+                "tokenLen": 31,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "This is in line with the observed sharp dichotomy between terrestrial planets with negligible atmosphere and gaseous planets with atmospheric mass rivaling rocky mass, with transition around few M C <REF>.",
+                "citedText": "[104]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "result"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "652139cd7f815b202d8d16f4"
+        },
+        "field": "Mathematics",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 1,
+        "citedPaper": 24545277,
+        "citingPaper": 119266523,
+        "context": [
+            {
+                "tokenLen": 27,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "It is added to this the further fact that for both California and Japan q-exponential functions are also found in distributions for distances between successive earthquakes <REF>.",
+                "citedText": "[39]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "result"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65213ff67f815b202d8d19b9"
+        },
+        "field": "Mathematics",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 1,
+        "citedPaper": 88518971,
+        "citingPaper": 88513853,
+        "context": [
+            {
+                "tokenLen": 36,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "With the extended definition above, we find it is possible to utilize the quasiconcave, i.e., all depth regions are convex <REF>, of the Tukey depth function to reduce greatly the number of critical direction vectors involved.",
+                "citedText": "(Mosler, 2013)",
+                "cited": true,
+                "posClass": [
+                    "before_adjective",
+                    "after_preposition"
+                ],
+                "worthClass": "comma",
+                "lowClass": true,
+                "intentClass": "methodology"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6521418e7f815b202d8d1a92"
+        },
+        "field": "Mathematics",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 0,
+        "citedPaper": 209414943,
+        "citingPaper": 222094132,
+        "context": [
+            {
+                "tokenLen": 28,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "Quandles can be defined for stuck knots and links and consequently for closures of RNA folding arcs, and the results can be compared with the work in <REF>.",
+                "citedText": "[11]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "result"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6521432d7f815b202d8d1ba5"
+        },
+        "field": "Mathematics",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 9,
+        "citedPaper": 4853851,
+        "citingPaper": 259891528,
+        "context": [
+            {
+                "tokenLen": 25,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "The regularization-based approach includes the use of knowledge distillation to enforce the similarity between the network of previously learned tasks and the current task <REF>.",
+                "citedText": "[6]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true,
+                "intentClass": "methodology"
+            }
+        ]
+    }
+]

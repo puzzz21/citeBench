@@ -1,0 +1,496 @@
+[
+    {
+        "_id": {
+            "$oid": "6518505837e597b8bdf93725"
+        },
+        "field": "Biology",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 0,
+        "citedPaper": 10087711,
+        "citingPaper": 44082695,
+        "context": [
+            {
+                "tokenLen": 58,
+                "positionClass": "end",
+                "lengthClass": "long",
+                "citedSent": "In normal puerperae, the sex hormone levels are elevated rapidly after pregnancy; after labor, the levels of estrogen and so on are lowered greatly and returned gradually to normal at 6 weeks after labor; during the whole pregnancy and labor, E2, FSH, LH, PG, PRL, TT, HCG and other sex hormones play complex regulatory roles in pregnancy <REF>.",
+                "citedText": "(12)",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518505837e597b8bdf93729"
+        },
+        "field": "Chemistry",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 0,
+        "citedPaper": 6500748,
+        "citingPaper": 228970693,
+        "context": [
+            {
+                "tokenLen": 9,
+                "positionClass": "end",
+                "lengthClass": "short",
+                "citedSent": "Bay-K-8644 is instead a highly selective LTCC agonist <REF>.",
+                "citedText": "[48]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "651850a537e597b8bdf93747"
+        },
+        "field": "Computer Science",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 9,
+        "citedPaper": 81784,
+        "citingPaper": 258060019,
+        "context": [
+            {
+                "tokenLen": 44,
+                "positionClass": "end",
+                "lengthClass": "long",
+                "citedSent": "Most classification methods based on graph topology rely on the modularity of graphs: the model can easily identify a set of nodes that are closely connected to each other within the class, but with few or no links to nodes outside the class <REF>.",
+                "citedText": "[1]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "651850ba37e597b8bdf9375b"
+        },
+        "field": "Computer Science",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 3,
+        "citedPaper": 8646905,
+        "citingPaper": 240005589,
+        "context": [
+            {
+                "tokenLen": 41,
+                "positionClass": "end",
+                "lengthClass": "long",
+                "citedSent": "A concept closely related to attractor state is multistability, which refers to the coexistence of multiple steady states and exists in both a single neuron and neuronal populations in the brain, evidenced by a number of theoretical and experimental studies <REF>.",
+                "citedText": "(Kelso, 2012)",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "651850bf37e597b8bdf93767"
+        },
+        "field": "Computer Science",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 9,
+        "citedPaper": 206771220,
+        "citingPaper": 259202779,
+        "context": [
+            {
+                "tokenLen": 15,
+                "positionClass": "end",
+                "lengthClass": "short",
+                "citedSent": "Besides, easily classified negatives comprise the majority of the loss and dominate the gradient <REF>.",
+                "citedText": "[7]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "651850eb37e597b8bdf93796"
+        },
+        "field": "Materials Science",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 1,
+        "citedPaper": 119389879,
+        "citingPaper": 233527232,
+        "context": [
+            {
+                "tokenLen": 14,
+                "positionClass": "end",
+                "lengthClass": "short",
+                "citedSent": "Such behavior can lead to the change of MR sign at transition temperature <REF>.",
+                "citedText": "[65]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518515237e597b8bdf937c0"
+        },
+        "field": "Materials Science",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 9,
+        "citedPaper": 42546005,
+        "citingPaper": 253107760,
+        "context": [
+            {
+                "tokenLen": 42,
+                "positionClass": "end",
+                "lengthClass": "long",
+                "citedSent": "The role of the thin insulating layer between the ferromagnetic source/drain contacts and the TI surface (see Fig. 1) is to act as a tunnel barrier, which is known to improve the spin injection and detection efficiencies of the source/drain contacts <REF>.",
+                "citedText": "[7]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518516537e597b8bdf937e6"
+        },
+        "field": "Materials Science",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 1,
+        "citedPaper": 119085076,
+        "citingPaper": 8997642,
+        "context": [
+            {
+                "tokenLen": 15,
+                "positionClass": "end",
+                "lengthClass": "short",
+                "citedSent": "Figure 4 shows the temperature dependence of the ( 9 with a relatively discontinuous transition <REF>.",
+                "citedText": "[13]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518516f37e597b8bdf937f2"
+        },
+        "field": "Materials Science",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 2,
+        "citedPaper": 14497956,
+        "citingPaper": 99554035,
+        "context": [
+            {
+                "tokenLen": 13,
+                "positionClass": "end",
+                "lengthClass": "short",
+                "citedSent": "Other experimental studies in graphite-sulfur composites have found superconducting behavior below 35K <REF>.",
+                "citedText": "[13]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518518737e597b8bdf937fe"
+        },
+        "field": "Materials Science",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 5,
+        "citedPaper": 8658176,
+        "citingPaper": 53683857,
+        "context": [
+            {
+                "tokenLen": 57,
+                "positionClass": "end",
+                "lengthClass": "long",
+                "citedSent": "The expanded lattice parameter in irradiated films underlines the fact that displacement damage by nuclear stopping (elastic scattering between energetic C ions and Mg/B atoms) is more prominent than the damage by electronic stopping (interaction between the energetic C ions and electrons of MgB 2 ) for an increase of \uf072 41K and suppression of T c <REF>.",
+                "citedText": "[23]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518518737e597b8bdf93802"
+        },
+        "field": "Materials Science",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 6,
+        "citedPaper": 54505054,
+        "citingPaper": 237513345,
+        "context": [
+            {
+                "tokenLen": 51,
+                "positionClass": "end",
+                "lengthClass": "long",
+                "citedSent": "The contribution to the enhancement in the band gap is not symmetric across the Fermi level as it has been shown that the shift in the edge of HOMO is much larger than that in the LUMO and is inversely proportional to the effective mass of electron in that band <REF>.",
+                "citedText": "[34]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "651851bb37e597b8bdf9381d"
+        },
+        "field": "Physics",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 0,
+        "citedPaper": 16298037,
+        "citingPaper": 55805394,
+        "context": [
+            {
+                "tokenLen": 14,
+                "positionClass": "end",
+                "lengthClass": "short",
+                "citedSent": "A detailed comparison of the performance of each algorithm may be found in <REF>.",
+                "citedText": "[123]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518521337e597b8bdf93844"
+        },
+        "field": "Physics",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 2,
+        "citedPaper": 8658176,
+        "citingPaper": 53683857,
+        "context": [
+            {
+                "tokenLen": 57,
+                "positionClass": "end",
+                "lengthClass": "long",
+                "citedSent": "The expanded lattice parameter in irradiated films underlines the fact that displacement damage by nuclear stopping (elastic scattering between energetic C ions and Mg/B atoms) is more prominent than the damage by electronic stopping (interaction between the energetic C ions and electrons of MgB 2 ) for an increase of \uf072 41K and suppression of T c <REF>.",
+                "citedText": "[23]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518525a37e597b8bdf93858"
+        },
+        "field": "Physics",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 0,
+        "citedPaper": 4292588,
+        "citingPaper": 53414642,
+        "context": [
+            {
+                "tokenLen": 13,
+                "positionClass": "end",
+                "lengthClass": "short",
+                "citedSent": "However, role of the torsion becomes significant, when the spin-torques are applied <REF>.",
+                "citedText": "[45]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518529337e597b8bdf9388a"
+        },
+        "field": "Mathematics",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 0,
+        "citedPaper": 119322480,
+        "citingPaper": 119171642,
+        "context": [
+            {
+                "tokenLen": 11,
+                "positionClass": "end",
+                "lengthClass": "short",
+                "citedSent": "After 30 years, this question has been finally answered in <REF>.",
+                "citedText": "[9]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "651852c337e597b8bdf9389d"
+        },
+        "field": "Mathematics",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 1,
+        "citedPaper": 16200945,
+        "citingPaper": 254823361,
+        "context": [
+            {
+                "tokenLen": 12,
+                "positionClass": "end",
+                "lengthClass": "short",
+                "citedSent": "However, there is a more abstract proof that is quite instructive <REF>.",
+                "citedText": "[35]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "651852ca37e597b8bdf938a1"
+        },
+        "field": "Mathematics",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 2,
+        "citedPaper": 7035051,
+        "citingPaper": 59337737,
+        "context": [
+            {
+                "tokenLen": 13,
+                "positionClass": "end",
+                "lengthClass": "short",
+                "citedSent": "This comparison was conducted to examine whether mean intervals varied between subjects <REF>.",
+                "citedText": "(Kliegl et al. 2011)",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518531c37e597b8bdf938bc"
+        },
+        "field": "Mathematics",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 7,
+        "citedPaper": 10979806,
+        "citingPaper": 234469756,
+        "context": [
+            {
+                "tokenLen": 51,
+                "positionClass": "end",
+                "lengthClass": "long",
+                "citedSent": "With the recent introduction of solutions based on the Internet of Things (IoT) on various application areas, Beyond 5G (B5G) mobile wireless networks are expected to support an abundance of devices, while simultaneously providing a 1000 times capacity increase at a similar or lower power consumption than current cellular systems <REF>.",
+                "citedText": "[2]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518531d37e597b8bdf938c1"
+        },
+        "field": "Mathematics",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 9,
+        "citedPaper": 3849381,
+        "citingPaper": 259503500,
+        "context": [
+            {
+                "tokenLen": 40,
+                "positionClass": "end",
+                "lengthClass": "long",
+                "citedSent": "EEGNet was proposed by Lawhern to suggest that a compact CNN can be applied and provide robust performance across many BCI paradigms, such as P300 event-related potential, feedback error-related negativity, movement-related cortical potential and sensory motor rhythm (MI recognition) <REF>.",
+                "citedText": "[9]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true
+            }
+        ]
+    },
+]

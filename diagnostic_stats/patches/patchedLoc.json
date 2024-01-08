@@ -1,0 +1,3505 @@
+[
+    {
+        "_id": {
+            "$oid": "6518998fa0e57ac1426a4aaa"
+        },
+        "field": "Biology",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 3,
+        "citedPaper": 24418941,
+        "citingPaper": 5195793,
+        "context": [
+            {
+                "tokenLen": 25,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "Others have found that transcription factors, and in particular c-Fos, can be sequestered away from active genes by lamin A/C at the nuclear envelope <REF>.",
+                "citedText": "(49)",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65189a47a0e57ac1426a4ac5"
+        },
+        "field": "Biology",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 0,
+        "citedPaper": 6364756,
+        "citingPaper": 251497965,
+        "context": [
+            {
+                "tokenLen": 20,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "Martin et al. <REF> proposed that TNC promotes the growth of tumor cells by inducing the expression of 14-3-3 tau.",
+                "citedText": "(131)",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65189a4ca0e57ac1426a4acc"
+        },
+        "field": "Biology",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 0,
+        "citedPaper": 11465945,
+        "citingPaper": 201836583,
+        "context": [
+            {
+                "tokenLen": 23,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "Time-lapse microscopy showed that, in wild-type cells, the lifetime of Rad52 factories is on average 60 min <REF> (Figure 3, C and D).",
+                "citedText": "(Meister et al., 2005)",
+                "cited": true,
+                "posClass": [
+                    "before_adjective",
+                    "after_noun"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65189a8ca0e57ac1426a4ad5"
+        },
+        "field": "Biology",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 1,
+        "citedPaper": 25520348,
+        "citingPaper": 256617406,
+        "context": [
+            {
+                "tokenLen": 34,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "Finally, we used InterProScan <REF> to validate the potential PLCZ1 orthologs that we had identified by looking for the absence of a pleckstrin homology (PH) domain, which is a defining feature of PLC\u03b6 enzymes.",
+                "citedText": "(Nomikos et al., 2005)",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65189ad6a0e57ac1426a4adf"
+        },
+        "field": "Biology",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 6,
+        "citedPaper": 1267298,
+        "citingPaper": 246699671,
+        "context": [
+            {
+                "tokenLen": 36,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "The Sequence Ontology <REF> describes an ORF as 'The in-frame interval between the stop codons of a reading frame which when read as sequential triplets, has the potential of encoding a sequential string of amino acids'.",
+                "citedText": "(Eilbeck et al., 2005)",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65189b09a0e57ac1426a4ae5"
+        },
+        "field": "Biology",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 7,
+        "citedPaper": 30671361,
+        "citingPaper": 221116636,
+        "context": [
+            {
+                "tokenLen": 23,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "A study by <REF> showed that the level of ATP in the fibroblasts cell line in mice significantly depends on the AKT family.",
+                "citedText": "Gottlob et al. [30]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65189b14a0e57ac1426a4ae9"
+        },
+        "field": "Biology",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 7,
+        "citedPaper": 6104745,
+        "citingPaper": 249525191,
+        "context": [
+            {
+                "tokenLen": 30,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "Putative heme-binding proteins were identified by creating a searchable database of ElOx9 T 's genome in Prosite <REF> and searching the database for c-type cytochrome heme-binding motifs (CX 2\u22124 CH).",
+                "citedText": "(Hulo et al., 2006)",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_others"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65189baea0e57ac1426a4af8"
+        },
+        "field": "Biology",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 9,
+        "citedPaper": 2374194,
+        "citingPaper": 253575758,
+        "context": [
+            {
+                "tokenLen": 34,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "To assess the degree of MOGi-cre-driven recombination in oIGF1R \u00c0/\u00c0 mice and better characterize the frequency of cre-mediated genetic recombination in mature ODCs, we crossed MOGi-cre mice to a fluorescent reporter strain (ROSA26-EYFP) <REF>.",
+                "citedText": "(Srinivas et al., 2001)",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65189c58a0e57ac1426a4b08"
+        },
+        "field": "Biology",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 9,
+        "citedPaper": 1326628,
+        "citingPaper": 258627735,
+        "context": [
+            {
+                "tokenLen": 22,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "CPJSdraw called mummer <REF> to identify the IR region, and mapped the identified location to the original genome sequence to complete adjustment.",
+                "citedText": "(Kurtz et al., 2004)",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65189c5ba0e57ac1426a4b0c"
+        },
+        "field": "Biology",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 9,
+        "citedPaper": 2374194,
+        "citingPaper": 254094641,
+        "context": [
+            {
+                "tokenLen": 23,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "Pax7 CreERT2/+ ; Rosa26 YFP/+ mice (Srinivas et al, <REF>) were treated with tamoxifen (Sigma-Aldrich) to induce YFP expression in a Pax7-expressing MuSC population.",
+                "citedText": "2001",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_verb"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65189c60a0e57ac1426a4b10"
+        },
+        "field": "Biology",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 0,
+        "citedPaper": 9013838,
+        "citingPaper": 220666944,
+        "context": [
+            {
+                "tokenLen": 32,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "These variations are found in the oxygendependent degradation domain, clustering around Proline 531, which can disrupt residue hydroxylation and/or recognition of HIF-2\u03b1 by VHL <REF>, leading to increased cellular levels of HIF-2\u03b1.",
+                "citedText": "(Furlow et al., 2009)",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_verb"
+                ],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65189caea0e57ac1426a4b18"
+        },
+        "field": "Biology",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 2,
+        "citedPaper": 3469036,
+        "citingPaper": 54581054,
+        "context": [
+            {
+                "tokenLen": 16,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "Russo et al <REF> similarly attempted to disrupt the pfpmv gene using an allelic replacement approach.",
+                "citedText": "[21]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65189cbfa0e57ac1426a4b1c"
+        },
+        "field": "Biology",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 3,
+        "citedPaper": 7785987,
+        "citingPaper": 247855139,
+        "context": [
+            {
+                "tokenLen": 19,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "<REF> Aslan et al have shown that after LPS injection in mouse, VEGFR2 expression declined sharply in the lung.",
+                "citedText": "[29]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65189cc5a0e57ac1426a4b20"
+        },
+        "field": "Biology",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 6,
+        "citedPaper": 18628964,
+        "citingPaper": 246871508,
+        "context": [
+            {
+                "tokenLen": 34,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "<REF>, for instance, were able to show that anti-Helicobacter pylori treatment may have consequences on the flora of the throat and GI that may last for years and lead to enrichment of resistance genes.",
+                "citedText": "Jakobsson et al. (2010)",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65189cdca0e57ac1426a4b25"
+        },
+        "field": "Biology",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 7,
+        "citedPaper": 16071473,
+        "citingPaper": 255292423,
+        "context": [
+            {
+                "tokenLen": 29,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "The MdMYB10 isolated from apple (Malus \u00d7 domestica) by <REF> can induce anthocyanin accumulation in both homologous and heterologous systems, and co-express with two bHLH proteins, MdbHLH3 and MdbHLH33.",
+                "citedText": "Espley et al. (2007)",
+                "cited": true,
+                "posClass": [
+                    "before_preposition",
+                    "after_others"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65189ce7a0e57ac1426a4b29"
+        },
+        "field": "Biology",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 2,
+        "citedPaper": 15507087,
+        "citingPaper": 253236372,
+        "context": [
+            {
+                "tokenLen": 22,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "<REF> (23) had shown targeted disruption of Dnmt1 to be critical for the viability of human ESCs, although not so for Dnmt3a/b.",
+                "citedText": "Liao et al.",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65189d11a0e57ac1426a4b30"
+        },
+        "field": "Biology",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 7,
+        "citedPaper": 4537025,
+        "citingPaper": 248051246,
+        "context": [
+            {
+                "tokenLen": 16,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "The Integrated <REF>icrobial Genomes (IMG) database was used to analyze synteny between different species (47).",
+                "citedText": "M",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65189d1ba0e57ac1426a4b37"
+        },
+        "field": "Biology",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 9,
+        "citedPaper": 1606831,
+        "citingPaper": 257393748,
+        "context": [
+            {
+                "tokenLen": 35,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "<REF> proposed DNA barcoding technology using mitochondrial cytochrome c oxidase subunit I (COI) gene sequence, for which the intraspecific diversity is significantly lower than the interspecific diversity, as a barcode for species identification and classification.",
+                "citedText": "Hebert et al. (2003)",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65189d31a0e57ac1426a4b40"
+        },
+        "field": "Biology",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 0,
+        "citedPaper": 11344245,
+        "citingPaper": 10445924,
+        "context": [
+            {
+                "tokenLen": 23,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "Now, Ali et al. <REF> have carried out a detailed study that presents associations of NMNAT2 with cognitive decline and Alzheimer disease (AD).",
+                "citedText": "[18]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65189d51a0e57ac1426a4b48"
+        },
+        "field": "Biology",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 3,
+        "citedPaper": 53078797,
+        "citingPaper": 253112249,
+        "context": [
+            {
+                "tokenLen": 26,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "PINT87aa functioned as an anchor and recruited the PAF1 complex to the target gene CPEB1 promoter, subsequently limiting the transcriptional elongation of CPEB1 <REF> (Figure 5a).",
+                "citedText": "[82]",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_noun"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65189db0a0e57ac1426a4b5a"
+        },
+        "field": "Biology",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 8,
+        "citedPaper": 73458828,
+        "citingPaper": 259196714,
+        "context": [
+            {
+                "tokenLen": 30,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "Raw count for each transcript was tallied by featureCounts v2.0.3 <REF> and normalised by TPM (Transcripts Per kilobase of exon model per Million mapped reads) values using an R script.",
+                "citedText": "[66]",
+                "cited": true,
+                "posClass": [
+                    "before_adjective",
+                    "after_others"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65189dc1a0e57ac1426a4b6d"
+        },
+        "field": "Chemistry",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 0,
+        "citedPaper": 9081602,
+        "citingPaper": 14988669,
+        "context": [
+            {
+                "tokenLen": 37,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "The effects of organellar Ca 2\u03e9 release and sequestration are further documented in the accompanying manuscript <REF>, which describes time-dependent changes in exchange activity associated with ATP-induced Ca 2\u03e9 release from InsP 3 -sensitive Ca 2\u03e9 stores.",
+                "citedText": "(V\u00e1zquez et al., 1997)",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_others"
+                ],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65189e9da0e57ac1426a4b97"
+        },
+        "field": "Chemistry",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 7,
+        "citedPaper": 13181937,
+        "citingPaper": 16233796,
+        "context": [
+            {
+                "tokenLen": 19,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "It was shown that Akt can regulate E2f activity <REF>, so the expression of E2fs was studied by qPCR.",
+                "citedText": "[24]",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_preposition"
+                ],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65189ea6a0e57ac1426a4ba5"
+        },
+        "field": "Chemistry",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 0,
+        "citedPaper": 13880424,
+        "citingPaper": 30626321,
+        "context": [
+            {
+                "tokenLen": 19,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "<REF> Its water-soluble and alkali-soluble polysaccharides have been characterized and used in functionalizing nanoselenium particles for synergistic anticancer activity.",
+                "citedText": "[7]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65189ee3a0e57ac1426a4bc3"
+        },
+        "field": "Chemistry",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 3,
+        "citedPaper": 8567430,
+        "citingPaper": 15119791,
+        "context": [
+            {
+                "tokenLen": 37,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "It is reported in <REF> that consecutive slow codons at the elongation stage (with the same elongation rate) give rise to slower translation rate than a single one, based on TASEP-based simulations with the random-sequential update rule.",
+                "citedText": "[57]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65189f8aa0e57ac1426a4bd4"
+        },
+        "field": "Chemistry",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 7,
+        "citedPaper": 29984543,
+        "citingPaper": 10983628,
+        "context": [
+            {
+                "tokenLen": 35,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "Specificity of these <REF>bs was validated by Western blotting of lysates from HEK293 cells that were transfected with PKD1, PKD2 and PKD3 or WT PKD2, PKD2 S707A , PKD2 S711A and PKD2 S707/711A (Fig. 1a).",
+                "citedText": "A",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65189fa1a0e57ac1426a4bda"
+        },
+        "field": "Chemistry",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 7,
+        "citedPaper": 29984543,
+        "citingPaper": 255600353,
+        "context": [
+            {
+                "tokenLen": 35,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "As the catalytic domains of the human PKD isoforms show over 90% sequence homology <REF>, it might be tempting to conclude that the Hsp90-PKD3 interaction is a direct consequence of high structural similarity to PKD2.",
+                "citedText": "[39]",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_pronoun"
+                ],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65189fc5a0e57ac1426a4bea"
+        },
+        "field": "Chemistry",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 6,
+        "citedPaper": 25739366,
+        "citingPaper": 221235644,
+        "context": [
+            {
+                "tokenLen": 33,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "Although presenting some limitations <REF>, the method is very robust for the large number of biological replicates and conditions, especially when metabolic labeling is not feasible due to the use of non-dividing cells.",
+                "citedText": "[48]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518a00ba0e57ac1426a4bf2"
+        },
+        "field": "Chemistry",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 7,
+        "citedPaper": 15721889,
+        "citingPaper": 249877160,
+        "context": [
+            {
+                "tokenLen": 25,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "<REF> To 50 \u00b5L of the appropriately diluted sample, 3 mL of 4% methanol vanillin solution and 1.5 mL of concentrated hydrochloric acid were added.",
+                "citedText": "[19]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518a034a0e57ac1426a4bf7"
+        },
+        "field": "Chemistry",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 7,
+        "citedPaper": 29446398,
+        "citingPaper": 221878196,
+        "context": [
+            {
+                "tokenLen": 30,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "All seven lysine (K6, K11, K27, K29, K33, K48 and K63) and the N-terminal M1 residues constitute linkage points during chain elongation <REF>, although lys48 and lys63 are mostly involved.",
+                "citedText": "[6]",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_preposition"
+                ],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518a05fa0e57ac1426a4c09"
+        },
+        "field": "Chemistry",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 0,
+        "citedPaper": 207506732,
+        "citingPaper": 2098066,
+        "context": [
+            {
+                "tokenLen": 28,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "Note that for Fc\u03b3RI, a biotinylated IgG1 containing <REF>234A/ L235A mutations, which binds the receptor weaker than wild-type IgG1 42 , was used to increase the signal window.",
+                "citedText": "L",
+                "cited": true,
+                "posClass": [
+                    "before_verb",
+                    "after_others"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518a064a0e57ac1426a4c0f"
+        },
+        "field": "Chemistry",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 2,
+        "citedPaper": 6727958,
+        "citingPaper": 257507723,
+        "context": [
+            {
+                "tokenLen": 24,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "Mahshid et al. <REF> reported an electrochemical sensor for the detection of macromolecules ranging in size from 50 to 150 kDa in bovine blood.",
+                "citedText": "[88]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518a064a0e57ac1426a4c13"
+        },
+        "field": "Chemistry",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 2,
+        "citedPaper": 39988253,
+        "citingPaper": 255764687,
+        "context": [
+            {
+                "tokenLen": 34,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "Organic acids were quantified by a Shimadzu\u00ae (GC-2010) gas chromatograph according to Adorno et al. <REF> and biogas composition was determined using a Shimadzu\u00ae gas chromatograph (GC-2010) equipped with a thermal conductivity detector (DCT).",
+                "citedText": "[29]",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_others"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518a06fa0e57ac1426a4c17"
+        },
+        "field": "Chemistry",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 5,
+        "citedPaper": 1038524,
+        "citingPaper": 243790983,
+        "context": [
+            {
+                "tokenLen": 23,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "This factor can lead to the formation of a laterally inhomogeneous polymer layer <REF>, expressing as incomplete patchlike polymer coverage of the surface.",
+                "citedText": "[29]",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_noun"
+                ],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518a0a8a0e57ac1426a4c21"
+        },
+        "field": "Chemistry",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 8,
+        "citedPaper": 13673366,
+        "citingPaper": 248485109,
+        "context": [
+            {
+                "tokenLen": 29,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "<REF> Although both stoichiometric amount and catalytic amount of 1 N HCl(aq) have been reported, only catalytic amount is capable of delivering an optimized yield in our hand.",
+                "citedText": "[30]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518a0ada0e57ac1426a4c2a"
+        },
+        "field": "Chemistry",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 0,
+        "citedPaper": 198237116,
+        "citingPaper": 248088371,
+        "context": [
+            {
+                "tokenLen": 30,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "<REF> reported that metal ions, such as Fe could be easily stored in tissues, and their absorption rate could be altered by adjusting the amount and form in the feed.",
+                "citedText": "Qiu et al. (2020)",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518a101a0e57ac1426a4c33"
+        },
+        "field": "Chemistry",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 3,
+        "citedPaper": 9285357,
+        "citingPaper": 234047777,
+        "context": [
+            {
+                "tokenLen": 35,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "There are numbers of studies on non-thermal plasma catalysis, such as work of Wang et al. <REF> who studied CO2 and CH4 conversion using three different catalyst materials in a dielectric barrier discharge (DBD) reactor.",
+                "citedText": "[5]",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_pronoun"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518a113a0e57ac1426a4c39"
+        },
+        "field": "Chemistry",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 6,
+        "citedPaper": 207808151,
+        "citingPaper": 258764179,
+        "context": [
+            {
+                "tokenLen": 32,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "Thus, in contrast with the glycolytic phenotype of BRAF-like PTCs, RAS-like tumours display expression signatures compatible with oxidative metabolism <REF>, characterised by the usage of extracellular lactate to produce ATP (via OXPHOS).",
+                "citedText": "[47]",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_verb"
+                ],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518a113a0e57ac1426a4c3e"
+        },
+        "field": "Chemistry",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 9,
+        "citedPaper": 215772286,
+        "citingPaper": 221097513,
+        "context": [
+            {
+                "tokenLen": 16,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "More recently, Seo et al. <REF> demonstrated the graphene-based biosensor for SARS-CoV-2 detection in clinical samples.",
+                "citedText": "[39]",
+                "cited": true,
+                "posClass": [
+                    "before_adjective",
+                    "after_verb"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518a117a0e57ac1426a4c4d"
+        },
+        "field": "Computer Science",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 0,
+        "citedPaper": 1152102,
+        "citingPaper": 12035301,
+        "context": [
+            {
+                "tokenLen": 34,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "SLUNG <REF> is an HPSG grammar whose coverage on real-world sentences is about 99%, but the grammar is underspecified, which means that the constraints of the grammar are not sufficient for conducting semantic analysis.",
+                "citedText": "(Mitsuishi et al., 1998)",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518a121a0e57ac1426a4c51"
+        },
+        "field": "Computer Science",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 8,
+        "citedPaper": 405878,
+        "citingPaper": 218763640,
+        "context": [
+            {
+                "tokenLen": 23,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "Therefore, we explore a ranking objective that calculates errors based on the margin with which incorrect responses are ranked above correct ones <REF>.",
+                "citedText": "(Collins and Koo, 2005)",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518a166a0e57ac1426a4c57"
+        },
+        "field": "Computer Science",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 7,
+        "citedPaper": 8688989,
+        "citingPaper": 246485475,
+        "context": [
+            {
+                "tokenLen": 25,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "As Shenvi et al. <REF> proposed a quantum search algorithm on a hypercube, studies on quantum search on general graphs have been in the limelight.",
+                "citedText": "[22]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518a17ea0e57ac1426a4c63"
+        },
+        "field": "Computer Science",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 9,
+        "citedPaper": 484335,
+        "citingPaper": 257658799,
+        "context": [
+            {
+                "tokenLen": 16,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "According to <REF>, there are two approaches to document sentiment classification namely term-counting and machine learning.",
+                "citedText": "Turney (2002)",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518a17fa0e57ac1426a4c68"
+        },
+        "field": "Computer Science",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 0,
+        "citedPaper": 7855699,
+        "citingPaper": 2748190,
+        "context": [
+            {
+                "tokenLen": 24,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "The question of when does a graph contain a K 3 -minor rooted at three nominated vertices was answered by Wood and Linusson <REF>.",
+                "citedText": "[22]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518a195a0e57ac1426a4c6d"
+        },
+        "field": "Computer Science",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 4,
+        "citedPaper": 765547,
+        "citingPaper": 16429074,
+        "context": [
+            {
+                "tokenLen": 35,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "Composed rules <REF> are extracted in addition to minimal rules, but only up to the following limits: at most twenty tree nodes per rule, a maximum depth of five, and a maximum size of five.",
+                "citedText": "(Galley et al., 2006)",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518a1a6a0e57ac1426a4c72"
+        },
+        "field": "Computer Science",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 6,
+        "citedPaper": 2548028,
+        "citingPaper": 250469750,
+        "context": [
+            {
+                "tokenLen": 16,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "Qureshi et al. in <REF> developed an method for DDCCs to optimize their energy consumption plans.",
+                "citedText": "[19]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518a1a9a0e57ac1426a4c76"
+        },
+        "field": "Computer Science",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 7,
+        "citedPaper": 2376,
+        "citingPaper": 243938799,
+        "context": [
+            {
+                "tokenLen": 27,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "In <REF>, the reader can find the first algebraic approach to network coding through non-coherent networks, i.e., those which their topology does not need to be known.",
+                "citedText": "[14]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518a1aaa0e57ac1426a4c7a"
+        },
+        "field": "Computer Science",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 7,
+        "citedPaper": 2376,
+        "citingPaper": 244345594,
+        "context": [
+            {
+                "tokenLen": 28,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "Due to the fact that vector subspaces are invariant under linear combinations, they are proposed as suitable codewords in <REF>, giving raise to the concept of subspace codes.",
+                "citedText": "[13]",
+                "cited": true,
+                "posClass": [
+                    "before_preposition",
+                    "after_verb"
+                ],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518a1daa0e57ac1426a4c84"
+        },
+        "field": "Computer Science",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 8,
+        "citedPaper": 7837398,
+        "citingPaper": 259167895,
+        "context": [
+            {
+                "tokenLen": 24,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "We used Augustus <REF> for de novo gene prediction, and Citrullus lanatus was used as model which was trained by the watermelon reference annotation.",
+                "citedText": "[53]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518a1f0a0e57ac1426a4c8d"
+        },
+        "field": "Computer Science",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 9,
+        "citedPaper": 10910955,
+        "citingPaper": 257386501,
+        "context": [
+            {
+                "tokenLen": 27,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "Distant supervision learning <REF> was proposed to address the above issues, The support set for this task has three relation classes, with two instances of each class.",
+                "citedText": "(Mintz et al., 2009)",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518a206a0e57ac1426a4c93"
+        },
+        "field": "Computer Science",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 6,
+        "citedPaper": 5829099,
+        "citingPaper": 259076723,
+        "context": [
+            {
+                "tokenLen": 22,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "We used Artemis (v.18.2.0) <REF> to confirm proper formatting of the entire annotation and to generate the sequin file for GenBank submission.",
+                "citedText": "(12)",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518a221a0e57ac1426a4c9d"
+        },
+        "field": "Computer Science",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 7,
+        "citedPaper": 85205,
+        "citingPaper": 257770144,
+        "context": [
+            {
+                "tokenLen": 23,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "<REF> compared the performance of word embedding models with count-vector-based distributional semantic models and concluded that the former performed better on most tasks.",
+                "citedText": "Baroni et al. (2014)",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518a230a0e57ac1426a4ca3"
+        },
+        "field": "Computer Science",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 8,
+        "citedPaper": 10127173,
+        "citingPaper": 257875642,
+        "context": [
+            {
+                "tokenLen": 18,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "The psRNATarget web-server <REF> was employed to predict the potential targets of identified lncRNAs in the current study.",
+                "citedText": "[38]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518a24aa0e57ac1426a4cb2"
+        },
+        "field": "Computer Science",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 1,
+        "citedPaper": 51961148,
+        "citingPaper": 236635040,
+        "context": [
+            {
+                "tokenLen": 28,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "A computation-capable UAV-mounted MEC server can gather data and execute computing tasks of the devices that do not have direct access to the terrestrial base stations (BSs) <REF>.",
+                "citedText": "[10]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518a25aa0e57ac1426a4cbc"
+        },
+        "field": "Computer Science",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 5,
+        "citedPaper": 7087523,
+        "citingPaper": 244692315,
+        "context": [
+            {
+                "tokenLen": 28,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "HyperNet <REF> is better than Fast R-CNN in processing small objects and generating a higherquality proposal thanks to the interaction between multilayer feature fusion and different sampling strategies.",
+                "citedText": "[20]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518a266a0e57ac1426a4cc4"
+        },
+        "field": "Computer Science",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 7,
+        "citedPaper": 214731219,
+        "citingPaper": 258952232,
+        "context": [
+            {
+                "tokenLen": 16,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "<REF> 2020 Gave an in-depth review of different tests like nucleic acid tests and serological tests.",
+                "citedText": "Udugama et al. [37]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518a33ea0e57ac1426a4cec"
+        },
+        "field": "Medicine",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 8,
+        "citedPaper": 15144274,
+        "citingPaper": 221356291,
+        "context": [
+            {
+                "tokenLen": 23,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "Classical percolation theory studies the penetration of a scalar quantity on a lattice, but it may be extended to more complex situations <REF>.",
+                "citedText": "[7]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518a41ea0e57ac1426a4d04"
+        },
+        "field": "Medicine",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 9,
+        "citedPaper": 2325768,
+        "citingPaper": 249747798,
+        "context": [
+            {
+                "tokenLen": 36,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "Callaway et al. <REF> studied percolation on graphs with completely general degree distribution, giving exact solutions for a variety of cases, including site percolation, bond percolation, and models in which occupation probabilities depend on vertex degree.",
+                "citedText": "[25]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518a42aa0e57ac1426a4d08"
+        },
+        "field": "Medicine",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 9,
+        "citedPaper": 17134382,
+        "citingPaper": 237323074,
+        "context": [
+            {
+                "tokenLen": 28,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "Intriguingly, we observed that upon proteasome inhibition hScrib reappeared in specific cytoplasmic structures and punctae resembling cytoplasmic aggresomes <REF>, rather than relocalizing to the cell cortex ( Figure 4B).",
+                "citedText": "[50]",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_adverb"
+                ],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518a4bda0e57ac1426a4d22"
+        },
+        "field": "Medicine",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 3,
+        "citedPaper": 13532247,
+        "citingPaper": 236362372,
+        "context": [
+            {
+                "tokenLen": 28,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "In addition, nematic liquid crystals have a non-local response to an optical beam in that the elastic response of the nematic extends far beyond the optical forcing <REF>.",
+                "citedText": "[4]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518a4c4a0e57ac1426a4d27"
+        },
+        "field": "Medicine",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 3,
+        "citedPaper": 5953750,
+        "citingPaper": 195766526,
+        "context": [
+            {
+                "tokenLen": 26,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "<REF> al. reported that the expression levels of PSGL-1 on inflammatory monocytes were high in acute coronary syndrome patients and positively correlated with TLR4 expression 13 .",
+                "citedText": "Ozaki et",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518a4c8a0e57ac1426a4d2c"
+        },
+        "field": "Medicine",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 8,
+        "citedPaper": 1859401,
+        "citingPaper": 255652241,
+        "context": [
+            {
+                "tokenLen": 27,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "Not surprisingly, immunocompromised patients, such as AIDS patients, patients receiving immunosuppressive therapy, or premature newborns, are at higher risk of developing biofilm-associated infections on indwelling devices <REF>.",
+                "citedText": "[58]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518a4c9a0e57ac1426a4d30"
+        },
+        "field": "Medicine",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 0,
+        "citedPaper": 18430122,
+        "citingPaper": 32263352,
+        "context": [
+            {
+                "tokenLen": 37,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "<REF> The most common course of tumor spread is through veins, lymphatics and by direct extension are noticed in the primary malignancy in the pelvic organs and tumor, which spread through prostatic nerves has also been reported.",
+                "citedText": "[6]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518a4cba0e57ac1426a4d34"
+        },
+        "field": "Medicine",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 6,
+        "citedPaper": 7529403,
+        "citingPaper": 254903862,
+        "context": [
+            {
+                "tokenLen": 37,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "The ML and BI trees were then combined in TreeGraph software v.2 <REF>, based on the consistent topological structures, and the combined phylogenetic tree was visualized using Figtree software v.1.4.4 (http://tree.bio.ed.ac.uk/software/figtree/, accessed on 31 July 2022).",
+                "citedText": "[49]",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_verb"
+                ],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518a4dda0e57ac1426a4d3a"
+        },
+        "field": "Medicine",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 7,
+        "citedPaper": 1724604,
+        "citingPaper": 256184027,
+        "context": [
+            {
+                "tokenLen": 17,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "It has been assessed that an estimated 20% of all cancers are caused by being overweight <REF>.",
+                "citedText": "[19]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518a4fda0e57ac1426a4d49"
+        },
+        "field": "Medicine",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 9,
+        "citedPaper": 2700202,
+        "citingPaper": 254972419,
+        "context": [
+            {
+                "tokenLen": 33,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "String database (Version: 11.0) <REF>was used to predict and analyze the interaction between proteins encoded by genes, and the DEGs in the PPI network was established through the String and cyberscape software.",
+                "citedText": "[19]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518a513a0e57ac1426a4d57"
+        },
+        "field": "Medicine",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 9,
+        "citedPaper": 14545412,
+        "citingPaper": 258846894,
+        "context": [
+            {
+                "tokenLen": 23,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "RTL was calculated using a modified formula from Ruijter et al. <REF>, where E is the qPCR efficiency and Ct the cycle threshold.",
+                "citedText": "[53]",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_others"
+                ],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518a516a0e57ac1426a4d5e"
+        },
+        "field": "Medicine",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 0,
+        "citedPaper": 14280519,
+        "citingPaper": 52154714,
+        "context": [
+            {
+                "tokenLen": 17,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "The trigeminal subnucleus caudalis (Vc) is one of the principal relay sites for orofacial nociceptive information <REF>.",
+                "citedText": "[16]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518a51fa0e57ac1426a4d62"
+        },
+        "field": "Medicine",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 3,
+        "citedPaper": 16047534,
+        "citingPaper": 250647132,
+        "context": [
+            {
+                "tokenLen": 28,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "Phinney et al. <REF> reported that EXOs derived from DicerKO MSCs had no significant effects on the macrophage activation, indicating the essential role of miRNAs in the MSC-EXOs.",
+                "citedText": "[42]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518a521a0e57ac1426a4d68"
+        },
+        "field": "Medicine",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 9,
+        "citedPaper": 14701241,
+        "citingPaper": 259090918,
+        "context": [
+            {
+                "tokenLen": 20,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "Ribosomal Data Project (RDP) <REF> was used to assign the phylotypes to their specific taxonomic affiliation (from phylum to genus).",
+                "citedText": "(Cole et al., 2014)",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518a536a0e57ac1426a4d73"
+        },
+        "field": "Medicine",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 0,
+        "citedPaper": 139372377,
+        "citingPaper": 250156423,
+        "context": [
+            {
+                "tokenLen": 18,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "Nijs et al. <REF> studied hot-electron reduction and oxidation dynamically with a NPoM configuration by SM-SERS (Figure 4b).",
+                "citedText": "[96]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518a618a0e57ac1426a4d8d"
+        },
+        "field": "Medicine",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 5,
+        "citedPaper": 212629365,
+        "citingPaper": 257794846,
+        "context": [
+            {
+                "tokenLen": 19,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "Some authors <REF> note that supply chains are a system of vessels of economic activity in the global economy.",
+                "citedText": "[8]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518a633a0e57ac1426a4d94"
+        },
+        "field": "Medicine",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 6,
+        "citedPaper": 46968214,
+        "citingPaper": 258715304,
+        "context": [
+            {
+                "tokenLen": 20,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "Fu et al. <REF> introduce dilated convolutions to enlarge receptive fields and utilize an ordinary regression loss for network optimization.",
+                "citedText": "[11]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518a657a0e57ac1426a4da3"
+        },
+        "field": "Medicine",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 7,
+        "citedPaper": 13618987,
+        "citingPaper": 255800301,
+        "context": [
+            {
+                "tokenLen": 25,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "We used TempEST <REF> to examine the temporal signal of our heterochronous samples and removed outliers based on visualization of root-to-tip divergence and the residuals.",
+                "citedText": "[26]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518a660a0e57ac1426a4dad"
+        },
+        "field": "Medicine",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 9,
+        "citedPaper": 210708318,
+        "citingPaper": 258007040,
+        "context": [
+            {
+                "tokenLen": 35,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "First, participants were called by phone from May -August <REF> and asked to answer survey questions related to SARS-CoV-2 exposure, diagnosis, transmission, impact on older adults and food security during the COVID-19 pandemic (completed n=497).",
+                "citedText": "2020",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_others"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518a684a0e57ac1426a4df8"
+        },
+        "field": "Materials Science",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 2,
+        "citedPaper": 13173460,
+        "citingPaper": 2951324,
+        "context": [
+            {
+                "tokenLen": 20,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "For example, Goehner and Michael <REF> have developed a technique whereby they can obtain high quality backscattered electron Kikuchi patterns.",
+                "citedText": "[9]",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_verb"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518a686a0e57ac1426a4dfe"
+        },
+        "field": "Materials Science",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 3,
+        "citedPaper": 2834173,
+        "citingPaper": 5461587,
+        "context": [
+            {
+                "tokenLen": 20,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "<REF> Cooling protects the epidermis, as a result of which we can deliver high fluence laser beams to the skin.",
+                "citedText": "[1]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518a754a0e57ac1426a4e6d"
+        },
+        "field": "Materials Science",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 2,
+        "citedPaper": 18661019,
+        "citingPaper": 118476388,
+        "context": [
+            {
+                "tokenLen": 17,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "So far, large arrays of coupled cavities have been produced <REF> where photon hopping has been observed.",
+                "citedText": "[31]",
+                "cited": true,
+                "posClass": [
+                    "before_verb",
+                    "after_others"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518a77ca0e57ac1426a4e7c"
+        },
+        "field": "Materials Science",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 6,
+        "citedPaper": 37722505,
+        "citingPaper": 258996704,
+        "context": [
+            {
+                "tokenLen": 32,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "Here, a Tauc-Lorentz model <REF> is assumed for an a-Si:H film to determine the film thickness, d, the optical bandgap, E g , the refractive index, n, and the extinction coefficient, k.",
+                "citedText": "[128]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518a789a0e57ac1426a4e83"
+        },
+        "field": "Materials Science",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 7,
+        "citedPaper": 118984828,
+        "citingPaper": 119001509,
+        "context": [
+            {
+                "tokenLen": 32,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "<REF> In particular the effect of boundary scattering in nanowires and thin films was modeled according to Casimir limit, i.e. assuming that the diameter or thickness are an upper boundary for \u03bb.",
+                "citedText": "[48]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518a79ca0e57ac1426a4e97"
+        },
+        "field": "Materials Science",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 1,
+        "citedPaper": 9474927,
+        "citingPaper": 118437585,
+        "context": [
+            {
+                "tokenLen": 27,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "It has been pointed out in <REF> that the filament length L may play the role of a lower cut-off at which the affine assumption breaks down.",
+                "citedText": "[19]",
+                "cited": true,
+                "posClass": [
+                    "before_preposition",
+                    "after_preposition"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518a7b1a0e57ac1426a4ea1"
+        },
+        "field": "Materials Science",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 2,
+        "citedPaper": 137459542,
+        "citingPaper": 234906006,
+        "context": [
+            {
+                "tokenLen": 33,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "Cordiero et. al. <REF> observed that the pozzolanic reactivity of SCBA depends on the burning temperature; the suitable temperature being up to 500 \u2022 C producing amorphous SiO 2 which is highly reactive.",
+                "citedText": "[19]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518a7b1a0e57ac1426a4ea5"
+        },
+        "field": "Materials Science",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 4,
+        "citedPaper": 120253222,
+        "citingPaper": 216425621,
+        "context": [
+            {
+                "tokenLen": 29,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "Ishak et al. <REF> analysed a stagnation point flow over stretching vertical sheet and reported that both the skin friction coefficient and the heat transfer rate increase with buoyancy.",
+                "citedText": "[7]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518a7b4a0e57ac1426a4ea9"
+        },
+        "field": "Materials Science",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 6,
+        "citedPaper": 135752500,
+        "citingPaper": 239630472,
+        "context": [
+            {
+                "tokenLen": 26,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "What is more, <REF> concluded that brittle materials (e.g., ceramics) would cause erosion for any velocity as long as their temperature is below the melting point.",
+                "citedText": "Schmidt et al. [71]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518a860a0e57ac1426a4ece"
+        },
+        "field": "Materials Science",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 1,
+        "citedPaper": 167457,
+        "citingPaper": 245033543,
+        "context": [
+            {
+                "tokenLen": 35,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "As described by Liao et al. <REF> in this article, BeCu was used as the electrode column, and Au with good biocompatibility was attached to the contact area between the electrode column and the scalp.",
+                "citedText": "[66]",
+                "cited": true,
+                "posClass": [
+                    "before_adjective",
+                    "after_preposition"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518a8a4a0e57ac1426a4ee2"
+        },
+        "field": "Materials Science",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 6,
+        "citedPaper": 17979304,
+        "citingPaper": 239549873,
+        "context": [
+            {
+                "tokenLen": 32,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "The contact angles of moving contact lines also depend on the velocity of the contact line, however, the velocity influence is minor <REF> and will therefore be neglected in the following analysis.",
+                "citedText": "(Eral et al., 2013)",
+                "cited": true,
+                "posClass": [
+                    "before_adjective",
+                    "after_others"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518a8f8a0e57ac1426a4ef8"
+        },
+        "field": "Materials Science",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 9,
+        "citedPaper": 8414814,
+        "citingPaper": 259362453,
+        "context": [
+            {
+                "tokenLen": 25,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "<REF> also studied the trophic transfer of 25 nm TiO 2 NPs from Dunaliella salina to crustacean Artemia salina in terms of toxicity and accumulation.",
+                "citedText": "Bhuvaneshwari et al. [12]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518a90fa0e57ac1426a4f03"
+        },
+        "field": "Materials Science",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 9,
+        "citedPaper": 8414814,
+        "citingPaper": 258619588,
+        "context": [
+            {
+                "tokenLen": 37,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "However, subsequent studies found that exposure to high levels of nano-TiO 2 caused lung tumours in rats <REF>, and the International Agency for Research on Cancer (IARC) classified titanium dioxide as a Group 2B carcinogen (suspected carcinogen).",
+                "citedText": "(Shi et al., 2013)",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_others"
+                ],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518a950a0e57ac1426a4f28"
+        },
+        "field": "Materials Science",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 3,
+        "citedPaper": 4034128,
+        "citingPaper": 233396818,
+        "context": [
+            {
+                "tokenLen": 25,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "Moreover, some techniques, such as electrospinning <REF>, can also be considered since natural and synthetic nanoparticles may have a significant impact on the production process.",
+                "citedText": "[90]",
+                "cited": true,
+                "posClass": [
+                    "before_verb",
+                    "after_others"
+                ],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518a966a0e57ac1426a4f2f"
+        },
+        "field": "Materials Science",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 4,
+        "citedPaper": 49715876,
+        "citingPaper": 251701879,
+        "context": [
+            {
+                "tokenLen": 23,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "<REF> In vitro: increased cytocompatibility and differentiation; In vivo: enhanced osteogenic properties of rabbit femur; increased expression of type I collagen and VEGF.",
+                "citedText": "[185]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518a96ba0e57ac1426a4f34"
+        },
+        "field": "Materials Science",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 5,
+        "citedPaper": 218694099,
+        "citingPaper": 258368611,
+        "context": [
+            {
+                "tokenLen": 24,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "Markovic <REF> studies have shown that although FeO x H y is highly active, its potential-dependent dissolution rate at OER potentials is also high.",
+                "citedText": "[24]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518a9d0a0e57ac1426a4f58"
+        },
+        "field": "Materials Science",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 8,
+        "citedPaper": 1052045,
+        "citingPaper": 256136877,
+        "context": [
+            {
+                "tokenLen": 29,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "In 2016, <REF> fabricated a TENG by using a Cu-coated ethylene vinyl acetate (EVA) electrode and a polydimethylsiloxane (PDMS)-covered Cu-coated EVA tubing electrode as warp and weft, respectively.",
+                "citedText": "Wen et al. [54]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518a9daa0e57ac1426a4f5f"
+        },
+        "field": "Materials Science",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 8,
+        "citedPaper": 3924865,
+        "citingPaper": 256805168,
+        "context": [
+            {
+                "tokenLen": 30,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "A seminal work was done by Serra-Garcia et al., <REF> who implemented the model in Figure 16C using a phononic crystal consisting of silicon plates connected by thin bent beams.",
+                "citedText": "[131]",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_pronoun"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518aa32a0e57ac1426a4f7f"
+        },
+        "field": "Physics",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 0,
+        "citedPaper": 15634448,
+        "citingPaper": 119617211,
+        "context": [
+            {
+                "tokenLen": 24,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "M. E. Schonbek, A. N. Todorov and J. P. Zubelli <REF> were able to obtain long-term solutions to the KdV equation using this connection.",
+                "citedText": "[69]",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_verb"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518aa46a0e57ac1426a4f85"
+        },
+        "field": "Physics",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 1,
+        "citedPaper": 119083155,
+        "citingPaper": 229339811,
+        "context": [
+            {
+                "tokenLen": 33,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "Next we define the Euclidean spinors <REF>, and choose gamma matrices, S becomes the Euclidean 2d Dirac action: where the mass matrices are where \u03c4 0 is the 2n \u00d7 2n identity matrix.",
+                "citedText": "[42]",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_others"
+                ],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518aa5ca0e57ac1426a4f8a"
+        },
+        "field": "Physics",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 6,
+        "citedPaper": 59494448,
+        "citingPaper": 245502481,
+        "context": [
+            {
+                "tokenLen": 21,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "The cavity method <REF> allows to study statistical mechanics models defined on random graphs by exploiting their local convergence to trees.",
+                "citedText": "[27]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518aa94a0e57ac1426a4f93"
+        },
+        "field": "Physics",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 8,
+        "citedPaper": 6494104,
+        "citingPaper": 251661671,
+        "context": [
+            {
+                "tokenLen": 25,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "Relative entropy of entanglement <REF> has been shown to satisfy the monotonicity condition and therefore it is thought to be a good measure of entanglement.",
+                "citedText": "[18]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518aabaa0e57ac1426a4f9e"
+        },
+        "field": "Physics",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 9,
+        "citedPaper": 1215697,
+        "citingPaper": 259203544,
+        "context": [
+            {
+                "tokenLen": 20,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "Notably, Calderbank et al. <REF> also proved that binary symplectic inner product and quaternary trace Hermitian inner product are equivalent.",
+                "citedText": "[2]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518aabda0e57ac1426a4fa3"
+        },
+        "field": "Physics",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 0,
+        "citedPaper": 18919769,
+        "citingPaper": 18197773,
+        "context": [
+            {
+                "tokenLen": 30,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "The main result of <REF> is the FKG-Holley-Preston inequality [7, 14, 23] for continuous particle systems: For the convenience of the reader, some classical theorems on analytic functions are recalled.",
+                "citedText": "[9]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518aaf4a0e57ac1426a4fa9"
+        },
+        "field": "Physics",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 2,
+        "citedPaper": 14819279,
+        "citingPaper": 118787792,
+        "context": [
+            {
+                "tokenLen": 16,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "Equation <REF> implies that it is enough to show that P is bijective in each multidegree.",
+                "citedText": "(22)",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518aaf7a0e57ac1426a4fad"
+        },
+        "field": "Physics",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 4,
+        "citedPaper": 21309077,
+        "citingPaper": 252781023,
+        "context": [
+            {
+                "tokenLen": 37,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "The coordinates (\u03b8, \u03c6) ofn are in a Sun-centered celestial-equatorial frame <REF>, such that \u03b8 = (90 \u2022 \u2212 Dec.) and \u03c6 = R.A., where R.A. and Dec. are the right ascension and declination of the astrophysical source, respectively.",
+                "citedText": "[46]",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_adjective"
+                ],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518aaf9a0e57ac1426a4fb1"
+        },
+        "field": "Physics",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 5,
+        "citedPaper": 14509452,
+        "citingPaper": 256038909,
+        "context": [
+            {
+                "tokenLen": 35,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "We follow ref. <REF>, and assume that during reheating, the background field \u03c6 couples to ordinary particles as g 2 \u03c6 q q, where q represents the ordinary particles, and g is the coupling strength.",
+                "citedText": "[54]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518ab21a0e57ac1426a4fb8"
+        },
+        "field": "Physics",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 6,
+        "citedPaper": 11653681,
+        "citingPaper": 248198580,
+        "context": [
+            {
+                "tokenLen": 17,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "In <REF>, we identified the space of dual forms as being a certain relative twisted cohomology group.",
+                "citedText": "[44]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518ab26a0e57ac1426a4fbe"
+        },
+        "field": "Physics",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 8,
+        "citedPaper": 119338212,
+        "citingPaper": 253553244,
+        "context": [
+            {
+                "tokenLen": 20,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "Inspired by the pioneering FFLO work, researchers have tried to introduce the superconducting pairing into FM via proximity effect <REF>.",
+                "citedText": "[4]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518ab44a0e57ac1426a4fcc"
+        },
+        "field": "Physics",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 9,
+        "citedPaper": 17777155,
+        "citingPaper": 247845902,
+        "context": [
+            {
+                "tokenLen": 30,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "In the hierarchical networks,~2.26 (meanfield value) indicates a hierarchical modular organization at different topological levels <REF>.Thus, the characteristic topology of a network is defined by P(k) pattern.",
+                "citedText": "(Ravasz and Barab\u00e1si, 2003)",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_verb"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518ab48a0e57ac1426a4fd2"
+        },
+        "field": "Physics",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 0,
+        "citedPaper": 17515648,
+        "citingPaper": 231734427,
+        "context": [
+            {
+                "tokenLen": 29,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "For the same dataset, <REF> presented the first results on the shape and features of magnetic field fluctuation spectra in the MSH around ion scales for various background conditions.",
+                "citedText": "Alexandrova et al. (2008)",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518ac6ea0e57ac1426a4ffd"
+        },
+        "field": "Physics",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 1,
+        "citedPaper": 119250897,
+        "citingPaper": 119261895,
+        "context": [
+            {
+                "tokenLen": 37,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "In <REF> it was in fact suggested, on the basis of the supergravity analysis, that in F-theory models with a smooth Type IIB limit the selection rules associated with massive U (1)s continue to be present.",
+                "citedText": "[36]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518ac7fa0e57ac1426a5002"
+        },
+        "field": "Physics",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 7,
+        "citedPaper": 119196867,
+        "citingPaper": 247983032,
+        "context": [
+            {
+                "tokenLen": 25,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "A study in ref. <REF> has shown that the JER for PF jets in the MC simulation is 7.9-40.0% better than that in the data.",
+                "citedText": "[44]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518ac7fa0e57ac1426a5006"
+        },
+        "field": "Physics",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 8,
+        "citedPaper": 119278808,
+        "citingPaper": 257646149,
+        "context": [
+            {
+                "tokenLen": 28,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "<REF> presented the modified version of f(R) gravity by inserting the generic function T (trace of the energy-momentum tensor), which is known as f(R, T) gravity.",
+                "citedText": "Harko et al. (2011)",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518aca3a0e57ac1426a5013"
+        },
+        "field": "Physics",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 9,
+        "citedPaper": 53621394,
+        "citingPaper": 258392332,
+        "context": [
+            {
+                "tokenLen": 34,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "Klime\u0161 et al. <REF> also improved the standard DFT method by including the van der Waals forces, which effectively corrected the errors for most systems that required the consideration of van der Waals interactions.",
+                "citedText": "[34]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518acc2a0e57ac1426a502b"
+        },
+        "field": "Physics",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 0,
+        "citedPaper": 219721253,
+        "citingPaper": 235458486,
+        "context": [
+            {
+                "tokenLen": 22,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "A self-propelled harmonic chain modeled by Eqs. <REF> has been studied taking account the positional dynamics and assuming spatially homogeneous self-propulsion 26 .",
+                "citedText": "(46)",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_verb"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518acdea0e57ac1426a5032"
+        },
+        "field": "Physics",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 1,
+        "citedPaper": 205559023,
+        "citingPaper": 189927943,
+        "context": [
+            {
+                "tokenLen": 18,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "Indeed, foundational work <REF> has shown that this is feasible, at least in a state-of-the-art relativistic fluid-dynamical approach.",
+                "citedText": "[37]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518ad57a0e57ac1426a5040"
+        },
+        "field": "Physics",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 4,
+        "citedPaper": 216641705,
+        "citingPaper": 252762480,
+        "context": [
+            {
+                "tokenLen": 26,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "Solution-synthesized monocrystalline Cs<REF>bBr3 nanowires (protocol is available elsewhere 43  containing laser-printed 260-nm period surface grating on the top face is shown in Figure 3b.",
+                "citedText": "P",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518ad80a0e57ac1426a504a"
+        },
+        "field": "Physics",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 7,
+        "citedPaper": 55694286,
+        "citingPaper": 256775238,
+        "context": [
+            {
+                "tokenLen": 23,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "<REF> That implies that the skyrmions should not be described as rigid bodies and also that a field-like SOT plays an important role.",
+                "citedText": "[163]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518ad9ea0e57ac1426a5051"
+        },
+        "field": "Physics",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 9,
+        "citedPaper": 46829350,
+        "citingPaper": 256662450,
+        "context": [
+            {
+                "tokenLen": 19,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "Recently in <REF> the thermodynamical stability of black holes has been conjectured as a defect in thermodynamical parameter space.",
+                "citedText": "[45]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518ada0a0e57ac1426a5057"
+        },
+        "field": "Mathematics",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 0,
+        "citedPaper": 30473269,
+        "citingPaper": 15161250,
+        "context": [
+            {
+                "tokenLen": 16,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "<REF> compute the space-space and space-time correlations for the periodic model starting with the zero configuration.",
+                "citedText": "Rajesh and Majumdar (2000)",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518adaea0e57ac1426a5061"
+        },
+        "field": "Mathematics",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 1,
+        "citedPaper": 3234104,
+        "citingPaper": 248729170,
+        "context": [
+            {
+                "tokenLen": 19,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "<REF> document that both relationships depicted in Figs. 11a and 11b also hold for displaced workers in the US.",
+                "citedText": "Abbring et al. (2002)",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518adb1a0e57ac1426a5065"
+        },
+        "field": "Mathematics",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 4,
+        "citedPaper": 16000436,
+        "citingPaper": 119127970,
+        "context": [
+            {
+                "tokenLen": 25,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "Moreover, we have from <REF> that if \u03b4 1 > 0, p(25k + 24) must contain almost all of the odd values of p(5n + 4).",
+                "citedText": "(1)",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518adf7a0e57ac1426a506b"
+        },
+        "field": "Mathematics",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 6,
+        "citedPaper": 14967794,
+        "citingPaper": 49404330,
+        "context": [
+            {
+                "tokenLen": 24,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "In <REF> Barthe used an optimal transport argument to prove Brascamp-Lieb and simultaneously demonstrated a dual inequality that includes Prekopa-Leindler as a special case.",
+                "citedText": "[2]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518adf8a0e57ac1426a506f"
+        },
+        "field": "Mathematics",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 7,
+        "citedPaper": 861096,
+        "citingPaper": 254485939,
+        "context": [
+            {
+                "tokenLen": 36,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "For a criterion of efficiency, one can use e = c q+b , defined in <REF>, where c denotes the bits in the key, q denotes the consumption of qubits and b denotes the consumption of classical bits.",
+                "citedText": "[63]",
+                "cited": true,
+                "posClass": [
+                    "before_preposition",
+                    "after_others"
+                ],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518ae4aa0e57ac1426a507b"
+        },
+        "field": "Mathematics",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 9,
+        "citedPaper": 7872315,
+        "citingPaper": 259343427,
+        "context": [
+            {
+                "tokenLen": 17,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "Genes in <REF> i are higher ranked (i.e., more differentially expressed) than 153 those in P i+1 .",
+                "citedText": "P",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518ae5ca0e57ac1426a508a"
+        },
+        "field": "Mathematics",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 2,
+        "citedPaper": 12407459,
+        "citingPaper": 3317018,
+        "context": [
+            {
+                "tokenLen": 32,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "This is usually a mathematically challenging problem (see, for example, the proof of reality of the spectrum of the imaginary cubic oscillator in <REF>) which, in addition, may be of physical relevance.",
+                "citedText": "[28]",
+                "cited": true,
+                "posClass": [
+                    "before_preposition",
+                    "after_others"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518ae5fa0e57ac1426a508f"
+        },
+        "field": "Mathematics",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 5,
+        "citedPaper": 18369880,
+        "citingPaper": 225304918,
+        "context": [
+            {
+                "tokenLen": 30,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "To better describe diffusion and transport behavior in porous media, Chen et al. <REF> proposed the Hausdorff fractal derivative to associate the anomalous transport model with the derived fundamental solution.",
+                "citedText": "[30]",
+                "cited": true,
+                "posClass": [
+                    "before_adjective",
+                    "after_verb"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518ae72a0e57ac1426a5094"
+        },
+        "field": "Mathematics",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 7,
+        "citedPaper": 1352473,
+        "citingPaper": 204852253,
+        "context": [
+            {
+                "tokenLen": 31,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "We can use this result to de ne homomorphisms from the knot concordance group, in the spirit of <REF>'s s-invariant [15] or the \u03c4 -invariant of Ozsvath and Szabo [10].",
+                "citedText": "Rasmussen",
+                "cited": true,
+                "posClass": [
+                    "before_preposition",
+                    "after_others"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518ae82a0e57ac1426a5099"
+        },
+        "field": "Mathematics",
+        "year": [
+            2006,
+            2010
+        ],
+        "group": 3,
+        "citedPaper": 18488612,
+        "citingPaper": 236493297,
+        "context": [
+            {
+                "tokenLen": 24,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "For instance, <REF> test stochastic similarities and differences between IV smiles of one-and three-month maturity equity options by conducting a functional principal component analysis.",
+                "citedText": "Benko et al. (2009)",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518ae99a0e57ac1426a509f"
+        },
+        "field": "Mathematics",
+        "year": [
+            2011,
+            2015
+        ],
+        "group": 2,
+        "citedPaper": 53231892,
+        "citingPaper": 209414759,
+        "context": [
+            {
+                "tokenLen": 22,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "Examples are cellular automata models <REF>, with a seminal example being the celebrated Nagel-Schreckenberg model, and car following models [31,Section 3].",
+                "citedText": "[23]",
+                "cited": true,
+                "posClass": [
+                    "before_noun",
+                    "after_preposition"
+                ],
+                "worthClass": "comma",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518ae9ca0e57ac1426a50a5"
+        },
+        "field": "Mathematics",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 0,
+        "citedPaper": 119012788,
+        "citingPaper": 220665838,
+        "context": [
+            {
+                "tokenLen": 24,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "And a set of complementarity relations between steering or nonlocal advantage of quantum coherence inequalities can be derived and achieved by various criteria <REF>.",
+                "citedText": "[6]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518aea1a0e57ac1426a50ac"
+        },
+        "field": "Mathematics",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 0,
+        "citedPaper": 119312408,
+        "citingPaper": 221139915,
+        "context": [
+            {
+                "tokenLen": 17,
+                "positionClass": "start",
+                "lengthClass": "medium",
+                "citedSent": "See also <REF> for a related treatment for the rooted tree integrals and sums, and their renormalization.",
+                "citedText": "[7]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518aea2a0e57ac1426a50b0"
+        },
+        "field": "Mathematics",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 0,
+        "citedPaper": 211070533,
+        "citingPaper": 220046183,
+        "context": [
+            {
+                "tokenLen": 20,
+                "positionClass": "middle",
+                "lengthClass": "medium",
+                "citedSent": "The optimization method (Dickmann et al <REF>) tries to achieve an inhomogeneous image noise prescription using dynamically modulated fluence fields.",
+                "citedText": "2020",
+                "cited": true,
+                "posClass": [
+                    "before_adjective",
+                    "after_noun"
+                ],
+                "worthClass": null,
+                "lowClass": true
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6518aea3a0e57ac1426a50b5"
+        },
+        "field": "Mathematics",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 6,
+        "citedPaper": 182952372,
+        "citingPaper": 256231392,
+        "context": [
+            {
+                "tokenLen": 28,
+                "positionClass": "end",
+                "lengthClass": "medium",
+                "citedSent": "Therefore, they can be used to beamform the reflected signal towards a virtually arbitrary destination (i.e., the receiver), hence improving the signal quality without an active amplification <REF>.",
+                "citedText": "[7]",
+                "cited": true,
+                "posClass": [],
+                "worthClass": "period",
+                "lowClass": true
+            }
+        ]
+    },
+]

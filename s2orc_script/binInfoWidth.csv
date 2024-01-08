@@ -1,0 +1,209 @@
+Fields,Bin,Min,Max,Total_Records
+Geography,0,0,744,103552
+Geography,1,745,1489,70
+Geography,2,1490,2234,15
+Geography,3,2235,2979,5
+Geography,4,2980,3724,1
+Geography,5,3725,4469,3
+Geography,6,4470,5214,3
+Geography,7,5215,5959,0
+Geography,8,5960,6704,1
+Geography,9,6705,7449,1
+Geography,10,7450,8194,1
+Economics,0,0,1130,71698
+Economics,1,1131,2261,50
+Economics,2,2262,3392,4
+Economics,3,3393,4523,5
+Economics,4,4524,5654,1
+Economics,5,5655,6785,0
+Economics,6,6786,7916,0
+Economics,7,7917,9047,0
+Economics,8,9048,10178,0
+Economics,9,10179,11309,0
+Economics,10,11310,12440,1
+Medicine,0,0,29411,5696241
+Medicine,1,29412,58823,15
+Medicine,2,58824,88235,1
+Medicine,3,88236,117647,0
+Medicine,4,117648,147059,0
+Medicine,5,147060,176471,0
+Medicine,6,176472,205883,0
+Medicine,7,205884,235295,0
+Medicine,8,235296,264707,0
+Medicine,9,264708,294119,0
+Medicine,10,294120,323531,1
+Environmental Science,0,0,2202,153248
+Environmental Science,1,2203,4405,15
+Environmental Science,2,4406,6608,7
+Environmental Science,3,6609,8811,3
+Environmental Science,4,8812,11014,0
+Environmental Science,5,11015,13217,0
+Environmental Science,6,13218,15420,0
+Environmental Science,7,15421,17623,0
+Environmental Science,8,17624,19826,0
+Environmental Science,9,19827,22029,0
+Environmental Science,10,22030,24232,1
+Materials Science,0,0,3411,415468
+Materials Science,1,3412,6823,17
+Materials Science,2,6824,10235,4
+Materials Science,3,10236,13647,2
+Materials Science,4,13648,17059,0
+Materials Science,5,17060,20471,1
+Materials Science,6,20472,23883,0
+Materials Science,7,23884,27295,0
+Materials Science,8,27296,30707,0
+Materials Science,9,30708,34119,0
+Materials Science,10,34120,37531,1
+Political Science,0,0,1130,78654
+Political Science,1,1131,2261,8
+Political Science,2,2262,3392,0
+Political Science,3,3393,4523,3
+Political Science,4,4524,5654,0
+Political Science,5,5655,6785,1
+Political Science,6,6786,7916,0
+Political Science,7,7917,9047,0
+Political Science,8,9048,10178,0
+Political Science,9,10179,11309,1
+Political Science,10,11310,12440,1
+Geology,0,0,550,73128
+Geology,1,551,1101,45
+Geology,2,1102,1652,11
+Geology,3,1653,2203,2
+Geology,4,2204,2754,4
+Geology,5,2755,3305,0
+Geology,6,3306,3856,0
+Geology,7,3857,4407,2
+Geology,8,4408,4958,0
+Geology,9,4959,5509,0
+Art,0,0,372,15024
+Art,1,373,745,9
+Art,2,746,1118,1
+Art,3,1119,1491,0
+Art,4,1492,1864,0
+Art,5,1865,2237,0
+Art,6,2238,2610,0
+Art,7,2611,2983,0
+Art,8,2984,3356,0
+Art,9,3357,3729,0
+Art,10,3730,4102,1
+Physics,0,0,5155,1576373
+Physics,1,5156,10311,35
+Physics,2,10312,15467,12
+Physics,3,15468,20623,5
+Physics,4,20624,25779,2
+Physics,5,25780,30935,0
+Physics,6,30936,36091,2
+Physics,7,36092,41247,0
+Physics,8,41248,46403,0
+Physics,9,46404,51559,0
+Physics,10,51560,56715,1
+Biology,0,0,5298,1190644
+Biology,1,5299,10597,73
+Biology,2,10598,15896,21
+Biology,3,15897,21195,6
+Biology,4,21196,26494,2
+Biology,5,26495,31793,1
+Biology,6,31794,37092,0
+Biology,7,37093,42391,2
+Biology,8,42392,47690,1
+Biology,9,47691,52989,0
+Biology,10,52990,58288,1
+Business,0,0,1036,149155
+Business,1,1037,2073,26
+Business,2,2074,3110,5
+Business,3,3111,4147,1
+Business,4,4148,5184,1
+Business,5,5185,6221,1
+Business,6,6222,7258,0
+Business,7,7259,8295,0
+Business,8,8296,9332,0
+Business,9,9333,10369,0
+Business,10,10370,11406,1
+Engineering,0,0,1230,152532
+Engineering,1,1231,2461,33
+Engineering,2,2462,3692,8
+Engineering,3,3693,4923,1
+Engineering,4,4924,6154,1
+Engineering,5,6155,7385,1
+Engineering,6,7386,8616,1
+Engineering,7,8617,9847,0
+Engineering,8,9848,11078,0
+Engineering,9,11079,12309,0
+Engineering,10,12310,13540,1
+Mathematics,0,0,12086,764375
+Mathematics,1,12087,24173,12
+Mathematics,2,24174,36260,2
+Mathematics,3,36261,48347,2
+Mathematics,4,48348,60434,1
+Mathematics,5,60435,72521,0
+Mathematics,6,72522,84608,0
+Mathematics,7,84609,96695,0
+Mathematics,8,96696,108782,0
+Mathematics,9,108783,120869,0
+Mathematics,10,120870,132956,1
+Psychology,0,0,2442,293692
+Psychology,1,2443,4885,19
+Psychology,2,4886,7328,2
+Psychology,3,7329,9771,3
+Psychology,4,9772,12214,1
+Psychology,5,12215,14657,2
+Psychology,6,14658,17100,1
+Psychology,7,17101,19543,0
+Psychology,8,19544,21986,2
+Psychology,9,21987,24429,0
+Psychology,10,24430,26872,1
+Philosophy,0,0,665,12154
+Philosophy,1,666,1331,7
+Philosophy,2,1332,1997,0
+Philosophy,3,1998,2663,0
+Philosophy,4,2664,3329,0
+Philosophy,5,3330,3995,0
+Philosophy,6,3996,4661,0
+Philosophy,7,4662,5327,0
+Philosophy,8,5328,5993,0
+Philosophy,9,5994,6659,0
+Philosophy,10,6660,7325,1
+Computer Science,0,0,13546,1152969
+Computer Science,1,13547,27093,45
+Computer Science,2,27094,40640,12
+Computer Science,3,40641,54187,3
+Computer Science,4,54188,67734,2
+Computer Science,5,67735,81281,1
+Computer Science,6,81282,94828,0
+Computer Science,7,94829,108375,0
+Computer Science,8,108376,121922,1
+Computer Science,9,121923,135469,0
+Computer Science,10,135470,149016,1
+History,0,0,604,25342
+History,1,605,1209,5
+History,2,1210,1814,5
+History,3,1815,2419,0
+History,4,2420,3024,1
+History,5,3025,3629,0
+History,6,3630,4234,0
+History,7,4235,4839,0
+History,8,4840,5444,0
+History,9,5445,6049,0
+History,10,6050,6654,1
+Sociology,0,0,765,78517
+Sociology,1,766,1531,40
+Sociology,2,1532,2297,7
+Sociology,3,2298,3063,1
+Sociology,4,3064,3829,1
+Sociology,5,3830,4595,2
+Sociology,6,4596,5361,0
+Sociology,7,5362,6127,2
+Sociology,8,6128,6893,0
+Sociology,9,6894,7659,1
+Sociology,10,7660,8425,1
+Chemistry,0,0,29411,516165
+Chemistry,1,29412,58823,2
+Chemistry,2,58824,88235,0
+Chemistry,3,88236,117647,0
+Chemistry,4,117648,147059,0
+Chemistry,5,147060,176471,0
+Chemistry,6,176472,205883,0
+Chemistry,7,205884,235295,0
+Chemistry,8,235296,264707,0
+Chemistry,9,264708,294119,0
+Chemistry,10,294120,323531,1

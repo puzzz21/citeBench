@@ -1,0 +1,65 @@
+[
+    {
+        "field": "Computer Science",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 0,
+        "class": "long"
+    },
+    {
+        "field": "Computer Science",
+        "year": [
+            2016,
+            2020
+        ],
+        "group": 9,
+        "class": "long"
+    },
+    {
+        "field": "Materials Science",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 0,
+        "class": "short"
+    },
+    {
+        "field": "Materials Science",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 0,
+        "class": "long"
+    },
+    {
+        "field": "Materials Science",
+        "year": [
+            1996,
+            2000
+        ],
+        "group": 1,
+        "class": "long"
+    },
+    {
+        "field": "Materials Science",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 0,
+        "class": "short"
+    },
+    {
+        "field": "Materials Science",
+        "year": [
+            2001,
+            2005
+        ],
+        "group": 0,
+        "class": "long"
+    }
+]
