@@ -1,0 +1,22 @@
+# citeBench
+
+citeBench is a research workspace for building and evaluating citation-related
+datasets and models. The repository contains scripts, processed datasets,
+evaluation outputs, diagnostics, and utility modules for citation-context
+analysis.
+
+## Repository layout
+
+- `utils/` - Shared parsing, extraction, citation, and data-processing helpers.
+- `s2orc_script/` - Scripts for downloading and processing S2ORC metadata.
+- `eval_dataset/` - Evaluation datasets for citation properties such as intent,
+  length, location, and worthiness.
+- `evaluation/` - Evaluation scripts and model outputs.
+- `diagnostic_stats/` - Dataset statistics, sampling, and diagnostic analyses.
+- `run_diagnostic/` - Scripts and data for running diagnostic evaluations.
+- `results/` - Processed evaluation results.
+- `test_scripts/` - Parser and data-processing experiments.
+- `baseline/` - Baseline experiment materials.
+
+Most scripts are standalone Python programs and may require project-specific
+data paths or external services configured in the source files.
